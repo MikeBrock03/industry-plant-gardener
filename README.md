@@ -13,7 +13,8 @@ The pipeline processes music data through multiple stages:
 
 ## Prerequisites
 
-- Python 3.7+
+- Python 3.12.7+
+- All of the packages that come in as imports (will become requirements.txt soon :D)
 - Required input file: `raw_data.csv` with columns:
   - Artist
   - Song
