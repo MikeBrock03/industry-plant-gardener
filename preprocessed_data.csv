@@ -1,0 +1,8 @@
+Artist,Song,Streams,Genre,Class,Mel_Spectrogram,Lyrics_File,Processed_Lyrics_File
+Hayley Gene Penner,Sleep at Night,2180000,Folk,3,mel_spectrograms/Hayley_Gene_Penner-Sleep_at_Night_mel_spec.npy,lyrics/Hayley_Gene_Penner-Sleep_at_Night.txt,processed_lyrics/Hayley_Gene_Penner-Sleep_at_Night_tfidf.npy
+Hayley Gene Penner,White Stripes,1500000,Folk,3,mel_spectrograms/Hayley_Gene_Penner-White_Stripes_mel_spec.npy,lyrics/Hayley_Gene_Penner-White_Stripes.txt,processed_lyrics/Hayley_Gene_Penner-White_Stripes_tfidf.npy
+Hayley Gene Penner,Smaller,1210000,Folk,3,mel_spectrograms/Hayley_Gene_Penner-Smaller_mel_spec.npy,lyrics/Hayley_Gene_Penner-Smaller.txt,processed_lyrics/Hayley_Gene_Penner-Smaller_tfidf.npy
+Hayley Gene Penner,People You Follow,385460,Folk,2,mel_spectrograms/Hayley_Gene_Penner-People_You_Follow_mel_spec.npy,lyrics/Hayley_Gene_Penner-People_You_Follow.txt,processed_lyrics/Hayley_Gene_Penner-People_You_Follow_tfidf.npy
+Hayley Gene Penner,somethingyouneverhad,355220,Folk,2,mel_spectrograms/Hayley_Gene_Penner-somethingyouneverhad_mel_spec.npy,lyrics/Hayley_Gene_Penner-somethingyouneverhad.txt,processed_lyrics/Hayley_Gene_Penner-somethingyouneverhad_tfidf.npy
+Hayley Gene Penner,Olive Juice,269190,Folk,1,mel_spectrograms/Hayley_Gene_Penner-Olive_Juice_mel_spec.npy,lyrics/Hayley_Gene_Penner-Olive_Juice.txt,processed_lyrics/Hayley_Gene_Penner-Olive_Juice_tfidf.npy
+Hayley Gene Penner,Get Away,207340,Folk,1,mel_spectrograms/Hayley_Gene_Penner-Get_Away_mel_spec.npy,lyrics/Hayley_Gene_Penner-Get_Away.txt,processed_lyrics/Hayley_Gene_Penner-Get_Away_tfidf.npy
