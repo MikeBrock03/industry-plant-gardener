@@ -82,4 +82,3 @@ This script:
 
 - Make input/output filenames configurable via command line arguments
 - Add error handling for missing files/folders
-- Add progress indicators for long-running processes
