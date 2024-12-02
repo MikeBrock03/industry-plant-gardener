@@ -51,7 +51,7 @@ def create_mel_spectrogram(audio_file):
     """Create a Mel spectrogram from an audio file."""
     try:
         y, sr = librosa.load(audio_file)
-        mel_spec = librosa.feature.melspectrogram(y=y, sr=sr)
+        mel_spec = librosa.feature.melspectrogram(y=y, sr=sr, hop_length = 1024, n_mels = 80, n_fft = 1024) #default is hop_length = 512, n_mels = 120, n_fft = 2048
         mel_spec_db = librosa.power_to_db(mel_spec, ref=np.max)
         return mel_spec_db
     except Exception as e:
