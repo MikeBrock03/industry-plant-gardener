@@ -4,9 +4,8 @@ import lyricsgenius
 import pandas as pd
 from tqdm import tqdm
 import re
-import torch
+from sklearn.feature_extraction.text import TfidfVectorizer
 from joblib import dump, load
-from transformers import BertTokenizer, BertModel
 from gather_mel_spec import get_mel_spectrogram_for_track
 import requests
 from bs4 import BeautifulSoup
@@ -14,8 +13,22 @@ import time
 from typing import Optional, Dict
 import json
 import urllib.parse
+import torch
+from transformers import BertTokenizer, BertModel
 
 # No longer using the Genius API
+
+LYRICS_DIR = 'lyrics'
+PROCESSED_LYRICS_DIR = 'processed_lyrics'
+
+tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+model = BertModel.from_pretrained('bert-base-uncased')
+model.eval()
+
+if not os.path.exists(LYRICS_DIR):
+    os.makedirs(LYRICS_DIR)
+
+df = pd.read_csv('classified_songs.csv', header=0, quotechar='"', escapechar='\\')
 
 def get_lyrics(artist: str, song: str) -> str:
     """
@@ -65,42 +78,19 @@ def get_lyrics(artist: str, song: str) -> str:
         print(f"Error getting lyrics for {artist} - {song}: {e}")
         return "[NO_LYRICS]"
 
-LYRICS_DIR = 'lyrics'
-PROCESSED_LYRICS_DIR = 'processed_lyrics'
-
-# Load BERT model and tokenizer
-tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-model = BertModel.from_pretrained('bert-base-uncased')
-model.eval()
-
-if not os.path.exists(LYRICS_DIR):
-    os.makedirs(LYRICS_DIR)
-
-df = pd.read_csv('classified_songs.csv', header=0, quotechar='"', escapechar='\\')
-
 def clean_lyrics(lyrics):
     # Remove the "X Contributors" line
     lyrics = re.sub(r'^.*?Contributors.*?\n', '', lyrics, flags=re.MULTILINE)
     
-    # Remove anything in brackets like [chorus] (good idea Michael)
-    lyrics = re.sub(r'\[.*?\]', '', lyrics)
+    # # Remove anything in brackets like [chorus] 
+    lyrics = re.sub(r'\[.*?\]', ' ', lyrics)
 
+    
     return lyrics
-
-def get_lyrics(artist, song):
-    try:
-        song = genius.search_song(song, artist)
-        if song:
-            return clean_lyrics(song.lyrics)
-        else:
-            return ""
-    except Exception as e:
-        print(f"Error getting lyrics for {artist} - {song}: {e}")
-        return ""
     
 def save_lyrics(artist, song, lyrics, tokenizer, model):
     """
-    Save both raw lyrics and TF-IDF processed features
+    Save both raw lyrics and BERT processed features
     Returns paths to both files
     """
     # Save raw lyrics
@@ -147,45 +137,13 @@ for index, row in tqdm(df.iterrows(), total=len(df), desc="Processing songs"):
     if lyrics:
         raw_lyrics_path, processed_lyrics_path = save_lyrics(artist, song, lyrics, tokenizer, model)
         df.at[index, 'Lyrics_File'] = raw_lyrics_path
-        
-        # Collect lyrics for TF-IDF fitting (using only a sample)
-        if len(all_lyrics) < sample_size:
-            all_lyrics.append(lyrics)
+        df.at[index, 'Processed_Lyrics_File'] = processed_lyrics_path
     else:
         df.at[index, 'Lyrics_File'] = ''
         df.at[index, 'Processed_Lyrics_File'] = ''
-
-# Fit TF-IDF vectorizer on the sample
-print(f"Fitting TF-IDF vectorizer on {len(all_lyrics)} samples...")
-vectorizer = TfidfVectorizer(
-    max_features=100,
-    stop_words='english',
-    ngram_range=(1, 2),
-    min_df=2,
-    max_df=0.9
-)
-vectorizer.fit(all_lyrics)
-
-# Save the vectorizer
-dump(vectorizer, os.path.join(PROCESSED_LYRICS_DIR, 'tfidf_vectorizer.joblib'))
-
-# Process TF-IDF features for all songs using the fitted vectorizer
-print("Generating TF-IDF features...")
-for index, row in tqdm(df.iterrows(), total=len(df), desc="Generating features"):
-    if row['Lyrics_File']:
-        # Read the saved lyrics
-        with open(row['Lyrics_File'], 'r', encoding='utf-8') as f:
-            lyrics = f.read()
-        
-        # Generate and save TF-IDF features
-        processed_file_name = f"{row['Artist']}-{row['Song']}_tfidf.npy".replace(" ", "_").replace("/", "_")
-        processed_file_path = os.path.join(PROCESSED_LYRICS_DIR, processed_file_name)
-        features = vectorizer.transform([lyrics]).toarray()
-        np.save(processed_file_path, features)
-        df.at[index, 'Processed_Lyrics_File'] = processed_file_path
 
 # Save the updated dataframe
 df.to_csv('preprocessed_data.csv', index=False)
 
 print("Processing complete! Data saved to 'preprocessed_data.csv'")
-#print(f"TF-IDF vectorizer saved to {PROCESSED_LYRICS_DIR}/tfidf_vectorizer.joblib")
+print(f"BERT vectorizer saved to {PROCESSED_LYRICS_DIR}/tfidf_vectorizer.joblib")

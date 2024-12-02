@@ -3,20 +3,10 @@ import logging
 import requests
 import numpy as np
 import librosa
-import spotipy
-from spotipy.oauth2 import SpotifyClientCredentials
 import re
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
-# Spotify API credentials
-client_id = '7fd502da6b3c4c0497416217aa9eb798'
-client_secret = 'ceaf9b84f43042e98ac99935c282f764'
-
-# Initialize Spotify client
-client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
-sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 # Directory to save Mel spectrograms
 SAVE_DIR = 'mel_spectrograms'
@@ -25,14 +15,25 @@ def sanitize_filename(filename):
     """Replace spaces and non-alphanumeric characters with underscores."""
     return re.sub(r'[^\w\-_\. ]', '_', filename.replace(' ', '_'))
 
-def get_preview_url(artist, track):
-    """Get the preview URL for a track from Spotify."""
+def search_track(artist, track):
+    """Search for a track on Deezer using the advanced search."""
     try:
-        results = sp.search(q=f'artist:{artist} track:{track}', type='track')
-        if results['tracks']['items']:
-            return results['tracks']['items'][0]['preview_url']
+        query = f'artist:"{artist}" track:"{track}"'
+        url = f'https://api.deezer.com/search?q={query}'
+        response = requests.get(url)
+        response.raise_for_status()
+        data = response.json()
+        
+        if data.get('data') and len(data['data']) > 0:
+            track_info = data['data'][0]
+            return {
+                'preview_url': track_info.get('preview'),
+                'title': track_info.get('title'),
+                'artist': track_info.get('artist', {}).get('name'),
+                'duration': track_info.get('duration')
+            }
     except Exception as e:
-        logging.error(f"Error getting preview URL for {artist} - {track}: {e}")
+        logging.error(f"Error searching for {artist} - {track}: {e}")
     return None
 
 def download_preview(url, filename):
@@ -68,10 +69,10 @@ def save_mel_spectrogram(mel_spec, filename):
 
 def get_mel_spectrogram_for_track(artist, track):
     """Get the Mel spectrogram for a given track and save it."""
-    preview_url = get_preview_url(artist, track)
-    if preview_url:
+    track_info = search_track(artist, track)
+    if track_info and track_info['preview_url']:
         safe_filename = sanitize_filename(f"{artist}-{track}")
-        audio_file = download_preview(preview_url, f"{safe_filename}.mp3")
+        audio_file = download_preview(track_info['preview_url'], f"{safe_filename}.mp3")
         if audio_file:
             mel_spec = create_mel_spectrogram(audio_file)
             os.remove(audio_file)  # Clean up the audio file
@@ -92,7 +93,7 @@ def process_track_list(track_list):
             results[(artist, track)] = mel_spec_file
     return results
 
-# example input
+# Example usage
 if __name__ == "__main__":
     # List of (artist, track) tuples to process
     tracks_to_process = [
