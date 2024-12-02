@@ -36,4 +36,4 @@ def classify_song(row, artist_stats):
 df['Class'] = df.apply(classify_song, axis=1, args=(artist_stats,))
 
 # Save the result
-df.to_csv('processed_and_classified_songs.csv', index=False)
+df.to_csv('classified_songs.csv', index=False)

@@ -7,13 +7,62 @@ import re
 from sklearn.feature_extraction.text import TfidfVectorizer
 from joblib import dump, load
 from gather_mel_spec import get_mel_spectrogram_for_track
+import requests
+from bs4 import BeautifulSoup
+import time
+from typing import Optional, Dict
+import json
+import urllib.parse
 
-# Initialize Genius API client
-client = 'pMZWtW9FlaIkiHMWUQsB86MOCEOxCBI9thVUG2ezEIsDIMH7sRukQCKZGrOVQh6c'
-client_secret = 'fPMW_XfjYprM7QE1x5DwzObZsmieOW7FFoZC7Rq3FQt_QBwEFmzWuhkIJIOG8OnB-bDCRK7rC_BAP2ZLWwFtSA'
-access_token = 'sUezPRZv-5UwFx58YwOPWDknftwAUem8_ZN9okCVeq0yfWQQLkUO3r-45f0OarCo'
+# No longer using the Genius API
 
-genius = lyricsgenius.Genius(access_token)
+def get_lyrics(artist: str, song: str) -> str:
+    """
+    Scrape lyrics from Genius. Returns '[NO_LYRICS]' if lyrics cannot be found.
+    """
+    # Search for the song
+    query = f"{artist} {song}"
+    search_url = f"https://genius.com/api/search/song?q={urllib.parse.quote(query)}"
+    
+    try:
+        # Add a small delay to be nice to Genius
+        time.sleep(1)
+        
+        # Get the song URL
+        response = requests.get(search_url)
+        if response.status_code == 200:
+            data = response.json()
+            hits = data.get('response', {}).get('sections', [{}])[0].get('hits', [])
+            if not hits:
+                print(f"No results found for: {query}")
+                return "[NO_LYRICS]"
+            
+            url = hits[0]['result']['url']
+            
+            # Get the lyrics page
+            response = requests.get(url)
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, 'html.parser')
+                lyrics_container = soup.select_one('div[class*="Lyrics__Container"]')
+                if lyrics_container:
+                    # Remove script tags
+                    for script in lyrics_container.find_all('script'):
+                        script.decompose()
+                    
+                    # Get text and clean it
+                    lyrics = lyrics_container.get_text()
+                    cleaned_lyrics = clean_lyrics(lyrics)
+                    
+                    # Check if we actually got lyrics after cleaning
+                    if cleaned_lyrics.strip():
+                        return cleaned_lyrics
+        
+        print(f"Could not get lyrics for: {query}")
+        return "[NO_LYRICS]"
+            
+    except Exception as e:
+        print(f"Error getting lyrics for {artist} - {song}: {e}")
+        return "[NO_LYRICS]"
 
 LYRICS_DIR = 'lyrics'
 PROCESSED_LYRICS_DIR = 'processed_lyrics'
@@ -21,7 +70,7 @@ PROCESSED_LYRICS_DIR = 'processed_lyrics'
 if not os.path.exists(LYRICS_DIR):
     os.makedirs(LYRICS_DIR)
 
-df = pd.read_csv('processed_and_classified_songs.csv', header=0, quotechar='"', escapechar='\\')
+df = pd.read_csv('classified_songs.csv', header=0, quotechar='"', escapechar='\\')
 
 def clean_lyrics(lyrics):
     # Remove the "X Contributors" line
@@ -34,17 +83,6 @@ def clean_lyrics(lyrics):
     lyrics = '\n'.join([line.strip() for line in lyrics.split('\n') if line.strip()])
     
     return lyrics
-
-def get_lyrics(artist, song):
-    try:
-        song = genius.search_song(song, artist)
-        if song:
-            return clean_lyrics(song.lyrics)
-        else:
-            return ""
-    except Exception as e:
-        print(f"Error getting lyrics for {artist} - {song}: {e}")
-        return ""
     
 def save_lyrics(artist, song, lyrics, vectorizer=None):
     """
@@ -76,7 +114,7 @@ MEL_SPEC_DIR = 'mel_spectrograms'
 if not os.path.exists(MEL_SPEC_DIR):
     os.makedirs(MEL_SPEC_DIR)
 
-# First pass: collect all lyrics to fit the vectorizer
+# First pass: collect all lyrics to fit the vectorizer TODO: turn into a better one
 print("Collecting lyrics for TF-IDF fitting...")
 all_lyrics = []
 for index, row in tqdm(df.iterrows(), total=len(df), desc="Collecting lyrics"):
@@ -98,8 +136,11 @@ vectorizer.fit(all_lyrics)
 # Save the vectorizer for future use
 dump(vectorizer, os.path.join(PROCESSED_LYRICS_DIR, 'tfidf_vectorizer.joblib'))
 
-# Process each song
-print("Processing songs with TF-IDF...")
+# Process all songs in a single pass
+print("Processing songs...")
+all_lyrics = []
+sample_size = min(100, len(df))  # Adjust sample size as needed for TF-IDF fitting
+
 for index, row in tqdm(df.iterrows(), total=len(df), desc="Processing songs"):
     artist = row['Artist']
     song = row['Song']
@@ -109,15 +150,48 @@ for index, row in tqdm(df.iterrows(), total=len(df), desc="Processing songs"):
     if mel_spec_file:
         df.at[index, 'Mel_Spectrogram'] = mel_spec_file
     
-    # Get and save lyrics with TF-IDF processing
+    # Get lyrics once
     lyrics = get_lyrics(artist, song)
     if lyrics:
-        raw_lyrics_path, processed_lyrics_path = save_lyrics(artist, song, lyrics, vectorizer)
+        # Save raw lyrics
+        raw_lyrics_path, _ = save_lyrics(artist, song, lyrics)
         df.at[index, 'Lyrics_File'] = raw_lyrics_path
-        df.at[index, 'Processed_Lyrics_File'] = processed_lyrics_path
+        
+        # Collect lyrics for TF-IDF fitting (using only a sample)
+        if len(all_lyrics) < sample_size:
+            all_lyrics.append(lyrics)
     else:
         df.at[index, 'Lyrics_File'] = ''
         df.at[index, 'Processed_Lyrics_File'] = ''
+
+# Fit TF-IDF vectorizer on the sample
+print(f"Fitting TF-IDF vectorizer on {len(all_lyrics)} samples...")
+vectorizer = TfidfVectorizer(
+    max_features=100,
+    stop_words='english',
+    ngram_range=(1, 2),
+    min_df=2,
+    max_df=0.9
+)
+vectorizer.fit(all_lyrics)
+
+# Save the vectorizer
+dump(vectorizer, os.path.join(PROCESSED_LYRICS_DIR, 'tfidf_vectorizer.joblib'))
+
+# Process TF-IDF features for all songs using the fitted vectorizer
+print("Generating TF-IDF features...")
+for index, row in tqdm(df.iterrows(), total=len(df), desc="Generating features"):
+    if row['Lyrics_File']:
+        # Read the saved lyrics
+        with open(row['Lyrics_File'], 'r', encoding='utf-8') as f:
+            lyrics = f.read()
+        
+        # Generate and save TF-IDF features
+        processed_file_name = f"{row['Artist']}-{row['Song']}_tfidf.npy".replace(" ", "_").replace("/", "_")
+        processed_file_path = os.path.join(PROCESSED_LYRICS_DIR, processed_file_name)
+        features = vectorizer.transform([lyrics]).toarray()
+        np.save(processed_file_path, features)
+        df.at[index, 'Processed_Lyrics_File'] = processed_file_path
 
 # Save the updated dataframe
 df.to_csv('preprocessed_data.csv', index=False)
