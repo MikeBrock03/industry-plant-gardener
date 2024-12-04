@@ -4,7 +4,7 @@ from scipy import stats
 import csv
 
 # Read the CSV file with pandas, specifying that there is a header
-df = pd.read_csv('raw_data.csv', header=0, quotechar='"', escapechar='\\')
+df = pd.read_csv('raw_data_small.csv', header=0, quotechar='"', escapechar='\\')
 
 # Clean up the data
 df['Streams'] = pd.to_numeric(df['Streams'].str.replace(',', ''), errors='coerce')

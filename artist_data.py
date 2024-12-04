@@ -1,5 +1,5 @@
 artists_data = [
-        ("Tones and I", "2017-11-01"),
+        ("Tones and I", "2019-11-01"),
         ("Tom Misch", "2018-04-01"),
         ("Boy Pablo", "2018-05-01"),
         ("Yellow Days", "2018-04-01"),
