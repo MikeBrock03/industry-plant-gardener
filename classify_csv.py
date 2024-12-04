@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 from scipy import stats
-import csv
 
 # Read the CSV file with pandas, specifying that there is a header
 df = pd.read_csv('raw_data_small.csv', header=0, quotechar='"', escapechar='\\')
@@ -18,22 +17,26 @@ df['Streams'] = df['Streams'].astype(int)
 # Group by artist and calculate median and standard deviation
 artist_stats = df.groupby('Artist')['Streams'].agg(['median', 'std'])
 
-# Function to classify songs based on stream counts
-def classify_song(row, artist_stats):
+# Function to compute z-score for songs
+def compute_z_score(row, artist_stats):
     median = artist_stats.loc[row['Artist'], 'median']
     std = artist_stats.loc[row['Artist'], 'std']
+    if std == 0:
+        return 0  # To handle cases where std is zero
     z_score = (row['Streams'] - median) / std
-    if z_score < -0.5:
-        return 0
-    elif -0.5 <= z_score < 0.5:
-        return 1
-    elif 0.5 <= z_score < 1:
-        return 2
-    else:
-        return 3
+    return z_score
 
-# Apply classification 
-df['Class'] = df.apply(classify_song, axis=1, args=(artist_stats,))
+# Apply z-score computation
+df['Z_Score'] = df.apply(compute_z_score, axis=1, args=(artist_stats,))
+
+min_z = df['Z_Score'].min()
+max_z = df['Z_Score'].max()
+
+# Min-max normalization to scale to [0, 3], replacing Class (could also be like Scaled_Score or something)
+if max_z != min_z:  # Ensure min and max are not equal
+    df['Class'] = 3 * (df['Z_Score'] - min_z) / (max_z - min_z)
+else:
+    df['Class'] = 0  # If all Z_Score values are the same
 
 # Save the result
 df.to_csv('classified_songs.csv', index=False)
