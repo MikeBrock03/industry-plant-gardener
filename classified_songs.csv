@@ -1,10 +1,337 @@
 Artist,Song,Streams,Genre,Class
-Hayley Gene Penner,Sleep at Night,2180000,Folk,3
-Hayley Gene Penner,White Stripes,1500000,Folk,3
-Hayley Gene Penner,Smaller,1210000,Folk,3
-Hayley Gene Penner,People You Follow,385460,Folk,1
-Hayley Gene Penner,somethingyouneverhad,355220,Folk,1
-Hayley Gene Penner,Olive Juice,269190,Folk,1
-Hayley Gene Penner,Get Away,207340,Folk,1
-Hayley Gene Penner,Silver Lining,188430,Folk,1
-Hayley Gene Penner,Great Advice,151850,Folk,1
+Hayley Gene Penner,Sleep at Night,2180000,Folk,2.2724090451822336
+Hayley Gene Penner,White Stripes,1500000,Folk,1.6312341797395389
+Hayley Gene Penner,Smaller,1210000,Folk,1.357791957712507
+Hayley Gene Penner,People You Follow,385460,Folk,0.5803297171946842
+Hayley Gene Penner,somethingyouneverhad,355220,Folk,0.5518162937667619
+Hayley Gene Penner,Olive Juice,269190,Folk,0.47069824424612217
+Hayley Gene Penner,Get Away,207340,Folk,0.4123796186172535
+Hayley Gene Penner,Silver Lining,188430,Folk,0.39454929993266324
+Hayley Gene Penner,Great Advice,151850,Folk,0.3600578637887018
+Hayley Gene Penner,Two Birthdays and One Bad,146890,Folk,0.3553810588878257
+Hayley Gene Penner,Still,146880,Folk,0.3553716298456868
+Hayley Gene Penner,Talking to Myself,129960,Folk,0.3394176905467303
+Hayley Gene Penner,Favorite Person,100200,Folk,0.31135686114147354
+Hayley Gene Penner,Alone Together,78330,Folk,0.2907355459837799
+Hayley Gene Penner,The Longer It Hurts,74730,Folk,0.28734109081378917
+Hayley Gene Penner,the pharmacist,55240,Folk,0.2689638876851448
+Hayley Gene Penner,Know u Then,51770,Folk,0.2656920100629593
+Hayley Gene Penner,Sick,41710,Folk,0.25620639367126297
+Hayley Gene Penner,Pools,40020,Folk,0.25461288554979505
+Hayley Gene Penner,1 of 2,34600,Folk,0.24950234471053123
+Hayley Gene Penner,fetishizing struggle,30180,Folk,0.24533470808515373
+Hayley Gene Penner,Everything is Fine,29100,Folk,0.24431637153415647
+Hayley Gene Penner,When You Lose Her,28360,Folk,0.24361862241588064
+Hayley Gene Penner,It's Too Late,19780,Folk,0.23552850426073602
+Hayley Gene Penner,Special,18120,Folk,0.23396328326568475
+Hayley Gene Penner,whac-a-mole,17320,Folk,0.23320895989457568
+Hayley Gene Penner,New York Apartment,17200,Folk,0.23309581138890934
+Hayley Gene Penner,Therapy,16310,Folk,0.23225662663855054
+Hayley Gene Penner,Love in the Way,15050,Folk,0.23106856732905376
+Hayley Gene Penner,a good thing,12860,Folk,0.22900360710064277
+Common Jack,I Don't Mind,983020,"Rock, Folk Rock",2.1792587061668987
+Common Jack,Still Awake,526470,"Rock, Folk Rock",1.2906302793410067
+Common Jack,Canyons in the Dark,506760,"Rock, Folk Rock",1.2522667566321282
+Common Jack,Viñales,505510,"Rock, Folk Rock",1.2498337579824024
+Common Jack,Uptown,414070,"Rock, Folk Rock",1.0718550407576528
+Common Jack,The Lake,316690,"Rock, Folk Rock",0.8823147139494053
+Common Jack,Fresh,270230,"Rock, Folk Rock",0.7918850201363927
+Common Jack,Coming Down,127300,"Rock, Folk Rock",0.513686222532133
+Common Jack,Restless,39160,"Rock, Folk Rock",0.3421306217426595
+Common Jack,Zion National Park,35780,"Rock, Folk Rock",0.33555179339380065
+Common Jack,She Don't,24900,"Rock, Folk Rock",0.31437497314658636
+Common Jack,Spanish Bird,19090,"Rock, Folk Rock",0.3030663954226603
+Common Jack,I Fall Away,6950,"Rock, Folk Rock",0.27943711253652226
+Common Jack,I Still Think of You,6330,"Rock, Folk Rock",0.2782303452062582
+Common Jack,Fine Line,6290,"Rock, Folk Rock",0.27815248924946695
+Common Jack,Skin and Bone,6090,"Rock, Folk Rock",0.2777632094655108
+Common Jack,Eli Fletcher,5660,"Rock, Folk Rock",0.27692625793000514
+Common Jack,A Little Time,5000,"Rock, Folk Rock",0.27564163464294983
+Common Jack,"Bowl, Holland",4970,"Rock, Folk Rock",0.27558324267535644
+Common Jack,"Babe, We've Been Here Before",4260,"Rock, Folk Rock",0.2742012994423121
+Common Jack,Postmodern Blues,4230,"Rock, Folk Rock",0.27414290747471864
+Common Jack,The Echo,3930,"Rock, Folk Rock",0.2735589877987844
+Common Jack,I woke up One Morning,3930,"Rock, Folk Rock",0.2735589877987844
+Common Jack,And It Nearly Killed Me!,3880,"Rock, Folk Rock",0.27346166785279535
+Common Jack,Old Faded Flag,3370,"Rock, Folk Rock",0.27246900440370725
+Common Jack,Hymm I,3180,"Rock, Folk Rock",0.2720991886089489
+Common Jack,"Forever, Ms. Crowne!",2880,"Rock, Folk Rock",0.2715152689330147
+Common Jack,Who's Feeling Young Now?,2740,"Rock, Folk Rock",0.2712427730842454
+Common Jack,A Short Reprise,2360,"Rock, Folk Rock",0.2705031414947287
+Billy Stonecipher,Back on the Road,2210000,"Hip-Hop & Rap, Rock, Pop, Folk rock",1.7685487985614419
+Billy Stonecipher,Birds,177200,"Hip-Hop & Rap, Rock, Pop, Folk rock",0.3744077509718219
+Billy Stonecipher,Sun and the Stars,168040,"Hip-Hop & Rap, Rock, Pop, Folk rock",0.3681256120521442
+Billy Stonecipher,The Garden,120240,"Hip-Hop & Rap, Rock, Pop, Folk rock",0.33534327140142406
+Billy Stonecipher,The Sweetest Thing,41490,"Hip-Hop & Rap, Rock, Pop, Folk rock",0.2813347080908758
+Billy Stonecipher,Embers,32210,"Hip-Hop & Rap, Rock, Pop, Folk rock",0.2749702704080581
+Billy Stonecipher,I Love You the Most,27810,"Hip-Hop & Rap, Rock, Pop, Folk rock",0.2719526490929291
+Billy Stonecipher,Galón,24420,"Hip-Hop & Rap, Rock, Pop, Folk rock",0.26962770903422745
+Billy Stonecipher,spun,7880,"Hip-Hop & Rap, Rock, Pop, Folk rock",0.2582841961814469
+Billy Stonecipher,a voice and guitar,3370,"Hip-Hop & Rap, Rock, Pop, Folk rock",0.25519113433343954
+Orange Guava Passion,Eagletown,1180000,"Pop, European, Indie pop",1.2481635976225818
+Orange Guava Passion,TJ,669220,"Pop, European, Indie pop",0.7612754244178966
+Orange Guava Passion,Own It,162390,"Pop, European, Indie pop",0.27815248924946695
+Orange Guava Passion,Slowly,82360,"Pop, European, Indie pop",0.2018659069604757
+Orange Guava Passion,Asphalt,45950,"Pop, European, Indie pop",0.1671589912895752
+Back to Yours,Space Cadette,1620000,"Alternative, Alternative rock, Indie pop, Pop",2.020624230243622
+Back to Yours,Mallory,1230000,"Alternative, Alternative rock, Indie pop, Pop",1.5955394064462922
+Back to Yours,Feeling,654650,"Alternative, Alternative rock, Indie pop, Pop",0.9684302952365645
+Back to Yours,Mango,121080,"Alternative, Alternative rock, Indie pop, Pop",0.3868597582274842
+Back to Yours,Minor Chords and Pillow Forts,93350,"Alternative, Alternative rock, Indie pop, Pop",0.3566351372944073
+Back to Yours,Blue,46150,"Alternative, Alternative rock, Indie pop, Pop",0.3051889740040638
+Back to Yours,Where Are We Going,44150,"Alternative, Alternative rock, Indie pop, Pop",0.30300905183074417
+Back to Yours,Rainjacket,40390,"Alternative, Alternative rock, Indie pop, Pop",0.29891079814490323
+Back to Yours,Mino Man,32650,"Alternative, Alternative rock, Indie pop, Pop",0.29047449933415626
+Back to Yours,Retrograde,30560,"Alternative, Alternative rock, Indie pop, Pop",0.28819648066303716
+Back to Yours,I Must Be Confused,23260,"Alternative, Alternative rock, Indie pop, Pop",0.28023976473042045
+Back to Yours,Television,19430,"Alternative, Alternative rock, Indie pop, Pop",0.2760652137685134
+Back to Yours,Not Again,18670,"Alternative, Alternative rock, Indie pop, Pop",0.2752368433426519
+Back to Yours,How Can I Change,18090,"Alternative, Alternative rock, Indie pop, Pop",0.27460466591238925
+Back to Yours,i don't wanna share you,17750,"Alternative, Alternative rock, Indie pop, Pop",0.2742340791429249
+Back to Yours,Monster,17400,"Alternative, Alternative rock, Indie pop, Pop",0.27385259276259394
+Back to Yours,Ira in the Well,10480,"Alternative, Alternative rock, Indie pop, Pop",0.266310062042908
+Back to Yours,Cotton Candy Mustard Cake,3960,"Alternative, Alternative rock, Indie pop, Pop",0.25920351575788597
+Back to Yours,By and By,3100,"Alternative, Alternative rock, Indie pop, Pop",0.2582661492233585
+Back to Yours,State of Mind,2570,"Alternative, Alternative rock, Indie pop, Pop",0.2576884698474288
+Back to Yours,Island on the Lake,1650,"Alternative, Alternative rock, Indie pop, Pop",0.2566857056477018
+Back to Yours,Baby Love,1460,"Alternative, Alternative rock, Indie pop, Pop",0.2564786130412364
+Jakob Leventhal,This Love is Sarcastic,297410,"Folk rock, Indie rock, Rock",1.3911980433166815
+Jakob Leventhal,Crowds in the Garden,297410,"Folk rock, Indie rock, Rock",1.3911980433166815
+Jakob Leventhal,Neckties and Suicides,62710,"Folk rock, Indie rock, Rock",0.48133147113328395
+Jakob Leventhal,A Weekend at the Governors,19690,"Folk rock, Indie rock, Rock",0.31455490558011073
+Jakob Leventhal,"Easy, Happy",13360,"Folk rock, Indie rock, Rock",0.29001525751057133
+Jakob Leventhal,Gold and Glass,7240,"Folk rock, Indie rock, Rock",0.26628972098836257
+Jakob Leventhal,God Damn,5180,"Folk rock, Indie rock, Rock",0.25830367438121393
+Jakob Leventhal,"Oh, So Bittersweet",4570,"Folk rock, Indie rock, Rock",0.25593887417230093
+Jakob Leventhal,News from a City in a Jungle,3990,"Folk rock, Indie rock, Rock",0.2536903756130066
+Jakob Leventhal,Drunken Hapless Teens,2440,"Folk rock, Indie rock, Rock",0.24768145704937533
+Bluebiird,Black Coffee Morning,7950000,Country,1.7541901185916715
+Bluebiird,Sailor,338290,Country,0.31692996902929016
+Bluebiird,Good Girl,237210,Country,0.29784381678258537
+Bluebiird,Honey Heartbreak,138290,Country,0.2791655205791422
+Bluebiird,I Say a Little Prayer,127560,Country,0.2771394579197917
+Bluebiird,Procelain Doll,110230,Country,0.27386716846158643
+Bluebiird,Lie Lie Lie,94500,Country,0.27089699459098227
+Bluebiird,Real People,31120,Country,0.2589294408771304
+Bluebiird,Paranoia Boys,150090,Country,0.28139362303770094
+Bluebiird,Asteroid Belt,1270,Country,0.25329309694594576
+Giovanca,On My Way,2760000,"Country, R&B, Jazz fusion, Soul, Pop",2.9336879269334184
+Giovanca,How Does It Feel,1360000,"Country, R&B, Jazz fusion, Soul, Pop",1.546599902563524
+Giovanca,My World,1050000,"Country, R&B, Jazz fusion, Soul, Pop",1.2394589828816187
+Giovanca,Joyride,757910,"Country, R&B, Jazz fusion, Soul, Pop",0.9500628821400453
+Giovanca,Drop It,478980,"Country, R&B, Jazz fusion, Soul, Pop",0.6737054088275491
+Giovanca,Kiss of Life,386990,"Country, R&B, Jazz fusion, Soul, Pop",0.5825638178548445
+Giovanca,Forgive My Soul,315410,"Country, R&B, Jazz fusion, Soul, Pop",0.5116439887231321
+Giovanca,Time is Ticking,277450,"Country, R&B, Jazz fusion, Soul, Pop",0.47403408771950273
+Giovanca,Everything ,232330,"Country, R&B, Jazz fusion, Soul, Pop",0.4293302222483816
+Giovanca,Pure Bliss,221070,"Country, R&B, Jazz fusion, Soul, Pop",0.4181740714238065
+Giovanca,Hypnotize You,191500,"Country, R&B, Jazz fusion, Soul, Pop",0.3888767907947938
+Giovanca,Bam Bam Bam,175260,"Country, R&B, Jazz fusion, Soul, Pop",0.37278656971210306
+Giovanca,Flirting With The Sun,126910,"Country, R&B, Jazz fusion, Soul, Pop",0.32488249401332847
+Giovanca,Lovechild,115460,"Country, R&B, Jazz fusion, Soul, Pop",0.3135380955283032
+Giovanca,Can Somebody Tell Me,113330,"Country, R&B, Jazz fusion, Soul, Pop",0.31142774017694047
+Giovanca,Lockdown,115460,"Country, R&B, Jazz fusion, Soul, Pop",0.3135380955283032
+Giovanca,Finally Yours,99480,"Country, R&B, Jazz fusion, Soul, Pop",0.29770547650728113
+Giovanca,A Matter of Facts,89540,"Country, R&B, Jazz fusion, Soul, Pop",0.2878571515342549
+Giovanca,Satellite Love,88050,"Country, R&B, Jazz fusion, Soul, Pop",0.28638089356546126
+Giovanca,Melancholic,84580,"Country, R&B, Jazz fusion, Soul, Pop",0.2829428968193444
+Giovanca,Free,83660,"Country, R&B, Jazz fusion, Soul, Pop",0.2820313818319013
+Giovanca,Moving Me,82630,"Country, R&B, Jazz fusion, Soul, Pop",0.2810108813568292
+Giovanca,Stay Together,76860,"Country, R&B, Jazz fusion, Soul, Pop",0.2752940971421047
+Giovanca,You Can Do It,76820,"Country, R&B, Jazz fusion, Soul, Pop",0.27525446605569415
+Giovanca,I Will Wait,75590,"Country, R&B, Jazz fusion, Soul, Pop",0.27403581014856915
+Giovanca,To the Moon,72160,"Country, R&B, Jazz fusion, Soul, Pop",0.2706374444888629
+Giovanca,Reginald and Desire,71150,"Country, R&B, Jazz fusion, Soul, Pop",0.26963675955699606
+Giovanca,She Just Wants to Know,70030,"Country, R&B, Jazz fusion, Soul, Pop",0.2685270891375002
+Giovanca,Real,69660,"Country, R&B, Jazz fusion, Soul, Pop",0.2681605015882024
+Giovanca,Look of the State,66620,"Country, R&B, Jazz fusion, Soul, Pop",0.2651485390209992
+Giovanca,You Again,65840,"Country, R&B, Jazz fusion, Soul, Pop",0.26437573283599314
+Giovanca,Simply Mad,65310,"Country, R&B, Jazz fusion, Soul, Pop",0.2638506209410531
+Giovanca,Go Now,61000,"Country, R&B, Jazz fusion, Soul, Pop",0.2595803713803143
+Giovanca,Little Flower,59050,"Country, R&B, Jazz fusion, Soul, Pop",0.2576483559177991
+Giovanca,Where Love Lives,58240,"Country, R&B, Jazz fusion, Soul, Pop",0.2568458264179851
+Giovanca,Hungry,53460,"Country, R&B, Jazz fusion, Soul, Pop",0.2521099115919222
+Giovanca,Bad Wishes,53300,"Country, R&B, Jazz fusion, Soul, Pop",0.2519513872462799
+Giovanca,Beautiful,48070,"Country, R&B, Jazz fusion, Soul, Pop",0.24676962269809807
+Giovanca,No More,46340,"Country, R&B, Jazz fusion, Soul, Pop",0.24505557821084095
+Giovanca,Come Around,45620,"Country, R&B, Jazz fusion, Soul, Pop",0.24434221865545078
+Giovanca,Uphill,43460,"Country, R&B, Jazz fusion, Soul, Pop",0.24220213998928009
+Giovanca,We Can't,40080,"Country, R&B, Jazz fusion, Soul, Pop",0.23885331318758707
+Giovanca,Wings,34540,"Country, R&B, Jazz fusion, Soul, Pop",0.23336440771972328
+Giovanca,The Further We Go,33670,"Country, R&B, Jazz fusion, Soul, Pop",0.23250243159029346
+Genevra Munoa,Roses,1160000,"Indie pop, Pop",1.4500418148958671
+Genevra Munoa,Lover,615490,"Indie pop, Pop",0.8871797579594112
+Genevra Munoa,Honey Do,27710,"Indie pop, Pop",0.27958933753350523
+Genevra Munoa,Burnt Out,26320,"Indie pop, Pop",0.27815248924946695
+Genevra Munoa,Fall in Love With You,21110,"Indie pop, Pop",0.2727668924438271
+Genevra Munoa,Real,19620,"Indie pop, Pop",0.27122667377964227
+Genevra Munoa,Too Soon,5560,"Indie pop, Pop",0.256692798331025
+Zach Heckendorf,The Garden,2070000,"Folk rock, Pop rock, Rock",2.9999999999999996
+Zach Heckendorf,The Harvest,681170,"Folk rock, Pop rock, Rock",1.1278945142762595
+Zach Heckendorf,Cigarettes,445040,"Folk rock, Pop rock, Rock",0.8095976252805245
+Zach Heckendorf,All the Right Places,347370,"Folk rock, Pop rock, Rock",0.6779410922342639
+Zach Heckendorf,Up,138750,"Folk rock, Pop rock, Rock",0.39672694332353564
+Zach Heckendorf,Just What I Needed,118730,"Folk rock, Pop rock, Rock",0.3697405217858462
+Zach Heckendorf,Speed Checked by Aircraft,98850,"Folk rock, Pop rock, Rock",0.34294281648268604
+Zach Heckendorf,Take Time,93600,"Folk rock, Pop rock, Rock",0.3358659576878374
+Zach Heckendorf,Struggle Buggy,71680,"Folk rock, Pop rock, Rock",0.30631838725296456
+Zach Heckendorf,Invisible Ink,63860,"Folk rock, Pop rock, Rock",0.29577723758139957
+Zach Heckendorf,What's the Scenario,59910,"Folk rock, Pop rock, Rock",0.29045274382146574
+Zach Heckendorf,The Cool Down,53020,"Folk rock, Pop rock, Rock",0.2811652091364168
+Zach Heckendorf,Tie Dye March,53020,"Folk rock, Pop rock, Rock",0.2811652091364168
+Zach Heckendorf,Two Weeks,52150,"Folk rock, Pop rock, Rock",0.2799924725361276
+Zach Heckendorf,Goin' insane,51210,"Folk rock, Pop rock, Rock",0.27872537781857376
+Zach Heckendorf,State of Mind,50320,"Folk rock, Pop rock, Rock",0.27752568175620895
+Zach Heckendorf,High Force,49800,"Folk rock, Pop rock, Rock",0.276824735742243
+Zach Heckendorf,Roses,47280,"Folk rock, Pop rock, Rock",0.2734278435207157
+Zach Heckendorf,Acapulco Gold,45120,"Folk rock, Pop rock, Rock",0.2705162216165493
+Zach Heckendorf,Stronger Than I Once Was,45040,"Folk rock, Pop rock, Rock",0.27040838376824683
+Zach Heckendorf,The Divide,44290,"Folk rock, Pop rock, Rock",0.2693974039404114
+Zach Heckendorf,How It Goes,39650,"Folk rock, Pop rock, Rock",0.2631428087388689
+Zach Heckendorf,17 Circles,39570,"Folk rock, Pop rock, Rock",0.2630349708905665
+Zach Heckendorf,Lips Like Medicine,39080,"Folk rock, Pop rock, Rock",0.26237446406971393
+Zach Heckendorf,One of Them,36700,"Folk rock, Pop rock, Rock",0.25916628808271586
+Zach Heckendorf,Untitled,36120,"Folk rock, Pop rock, Rock",0.2583844636825231
+Zach Heckendorf,Take To The Floor,35960,"Folk rock, Pop rock, Rock",0.2581687879859182
+Zach Heckendorf,Traffic,35160,"Folk rock, Pop rock, Rock",0.2570904095028936
+Zach Heckendorf,You Left Your Purse at My House,31810,"Folk rock, Pop rock, Rock",0.25257469960522827
+Zach Heckendorf,Angel,26360,"Folk rock, Pop rock, Rock",0.24522824618962352
+Zach Heckendorf,Sunrise Breakdown,26080,"Folk rock, Pop rock, Rock",0.2448508137205649
+Zach Heckendorf,Waves,22990,"Folk rock, Pop rock, Rock",0.24068557682988256
+Zach Heckendorf,Can't Stop Lovin' You,20320,"Folk rock, Pop rock, Rock",0.2370864886427881
+Zach Heckendorf,Real Love,20110,"Folk rock, Pop rock, Rock",0.23680341429099422
+Zach Heckendorf,Shoes That Are Older,19850,"Folk rock, Pop rock, Rock",0.23645294128401118
+Zach Heckendorf,Borrow My Heart,17670,"Folk rock, Pop rock, Rock",0.23351435991776928
+Zach Heckendorf,Ocean Blue,1220000,"Folk rock, Pop rock, Rock",1.8542228617864105
+Zach Heckendorf,daylight,852110,"Folk rock, Pop rock, Rock",1.3583170366365314
+Zach Heckendorf,Madeleine,747580,"Folk rock, Pop rock, Rock",1.2174134080983354
+Zach Heckendorf,Waffle Fries,689090,"Folk rock, Pop rock, Rock",1.1385704612582026
+Zach Heckendorf,this isn't a love song,642440,"Folk rock, Pop rock, Rock",1.0756875159668333
+Zach Heckendorf,Cherry Blossom Trees,257950,"Folk rock, Pop rock, Rock",0.5574053372941944
+Zach Heckendorf,19,250260,"Folk rock, Pop rock, Rock",0.5470394241261208
+Zach Heckendorf,Welcome to the Show,194170,"Folk rock, Pop rock, Rock",0.4714316127350617
+Zach Heckendorf,i feel great,191770,"Folk rock, Pop rock, Rock",0.46819647728598807
+Zach Heckendorf,Wake-Up Call,173100,"Folk rock, Pop rock, Rock",0.4430298194384025
+Zach Heckendorf,strawberry ice,98620,"Folk rock, Pop rock, Rock",0.3426327826688164
+Zach Heckendorf,Right One Wrong Time,93100,"Folk rock, Pop rock, Rock",0.335191971135947
+Zach Heckendorf,Chameleon,90860,"Folk rock, Pop rock, Rock",0.33217251138347825
+Zach Heckendorf,50922,88380,"Folk rock, Pop rock, Rock",0.3288295380861021
+Zach Heckendorf,Santa Rosa,73140,"Folk rock, Pop rock, Rock",0.30828642798448436
+Zach Heckendorf,Neon Signs,50360,"Folk rock, Pop rock, Rock",0.27757960068036014
+Zach Heckendorf,Odyssey,42500,"Folk rock, Pop rock, Rock",0.2669845320846439
+Zach Heckendorf,stratus,38490,"Folk rock, Pop rock, Rock",0.26157915993848335
+Zach Heckendorf,Take It All Back,29830,"Folk rock, Pop rock, Rock",0.2499057128597425
+Zach Heckendorf,Propane,27620,"Folk rock, Pop rock, Rock",0.2469266923003872
+Zach Heckendorf,Naked Closet,27460,"Folk rock, Pop rock, Rock",0.2467110166037823
+Zach Heckendorf,Little Pieces,22730,"Folk rock, Pop rock, Rock",0.2403351038228996
+Zach Heckendorf,There's Always Tomorrow,11660,"Folk rock, Pop rock, Rock",0.22541304156404732
+Zach Heckendorf,No Clue,10880,"Folk rock, Pop rock, Rock",0.22436162254309838
+Alyssa Garcia,Loved Actually,79040,"Folk rock, Pop rock, Rock",1.4227902306504945
+Alyssa Garcia,Better Life,2500,"Folk rock, Pop rock, Rock",0.2924770745824433
+Alyssa Garcia,Grow Up,1630,"Folk rock, Pop rock, Rock",0.2796292506240006
+Alyssa Garcia,"Sincerely, Me",1430,"Folk rock, Pop rock, Rock",0.27667572787493333
+Alyssa Garcia,Noise,1260,"Folk rock, Pop rock, Rock",0.27416523353822614
+Alyssa Garcia,More Than Words,1200,"Folk rock, Pop rock, Rock",0.27327917671350593
+Dakota Ryley,This Feeling,99750,"Folk rock, Pop rock, Rock",1.1109723473349165
+Dakota Ryley,Selfish,97100,"Folk rock, Pop rock, Rock",1.0866074475344478
+Dakota Ryley,Good For You,9170,"Folk rock, Pop rock, Rock",0.27815248924946695
+Dakota Ryley,Drama,7010,"Folk rock, Pop rock, Rock",0.25829279733663224
+Dakota Ryley,All Your Dreams,1430,"Folk rock, Pop rock, Rock",0.20698859322847582
+Spence Hood,So You Wanna Marry Daisy,7750000,"Jazz fusion, Pop",2.32340436708281
+Spence Hood,Father Finlee,2710000,"Jazz fusion, Pop",0.9724406305058512
+Spence Hood,Holler House,1670000,"Jazz fusion, Pop",0.6936703356566372
+Spence Hood,Life's a Mess,1550000,"Jazz fusion, Pop",0.6615045324048049
+Spence Hood,Mr. Rose,1290000,"Jazz fusion, Pop",0.5918119586925015
+Spence Hood,Bailey,544940,"Jazz fusion, Pop",0.39209984726908303
+Spence Hood,Lying in the Middle,364030,"Jazz fusion, Pop",0.34360721838334146
+Spence Hood,Foothills,284760,"Jazz fusion, Pop",0.3223590248519019
+Spence Hood,Ransom,193580,"Jazz fusion, Pop",0.2979183753477179
+Spence Hood,The Most Magnificant Sound,171380,"Jazz fusion, Pop",0.29196770174612896
+Spence Hood,Vitamins,119840,"Jazz fusion, Pop",0.27815248924946695
+Spence Hood,Timothy Pedal!,95410,"Jazz fusion, Pop",0.2716040678041148
+Spence Hood,Florence in the Floorboards,84890,"Jazz fusion, Pop",0.2687841990523708
+Spence Hood,Scattering Remains,80170,"Jazz fusion, Pop",0.26751901079113205
+Spence Hood,She,64470,"Jazz fusion, Pop",0.2633106515323506
+Spence Hood,Where the Wind Blows,62500,"Jazz fusion, Pop",0.2627825962622998
+Spence Hood,The Boy from Sausalito,60790,"Jazz fusion, Pop",0.26232423356596113
+Spence Hood,Clover Season,58770,"Jazz fusion, Pop",0.2617827758778886
+Spence Hood,Forgive Me Chester,44480,"Jazz fusion, Pop",0.2579523648073162
+Spence Hood,The Here & Now,42290,"Jazz fusion, Pop",0.2573653388979703
+Spence Hood,Porcelain,35540,"Jazz fusion, Pop",0.25555601246505477
+Couch,Easy to Love,7830000,"Indie, Pop",1.7258822286144655
+Couch,Fall Into Place,4800000,"Indie, Pop",1.0212041386102975
+Couch,Still Feeling You,4450000,"Indie, Pop",0.939805679368892
+Couch,Stand Up,2110000,"Indie, Pop",0.39559883758349496
+Couch,Poems,2010000,"Indie, Pop",0.37234213494309343
+Couch,(I Wanted) Summer With You,1790000,"Indie, Pop",0.3211773891342099
+Couch,Black Bear Lane,1620000,"Indie, Pop",0.2816409946455272
+Couch,Saturday,1620000,"Indie, Pop",0.2816409946455272
+Couch,Autumn,1590000,"Indie, Pop",0.2746639838534067
+Couch,Jessie,1050000,"Indie, Pop",0.14907778959523818
+Couch,Like Before,1010000,"Indie, Pop",0.13977510853907757
+Couch,Alright,762030,"Indie, Pop",0.08210546300167373
+Couch,I'm Leavin',682220,"Indie, Pop",0.06354428862436926
+Couch,L.A.,578900,"Indie, Pop",0.03951546345630632
+Couch,Conjunction Junction,436370,"Indie, Pop",0.006367685182941948
+Couch,Let Me Hold You,408990,"Indie, Pop",0.0
+Criibaby,Some Kinda Voodoo,164040,"Pop, R&B, Soul",1.5437389505431856
+Criibaby,home,119210,"Pop, R&B, Soul",1.1625750871921785
+Criibaby,Sunshine,87520,"Pop, R&B, Soul",0.8931331324834252
+Criibaby,Sorry?,58970,"Pop, R&B, Soul",0.6503888028231251
+Criibaby,80's KWEEN,28480,"Pop, R&B, Soul",0.39114976214562763
+Criibaby,maybe,25300,"Pop, R&B, Soul",0.3641120399627991
+Criibaby,me into you,5080,"Pop, R&B, Soul",0.19219293853613478
+Criibaby,infinitely,2840,"Pop, R&B, Soul",0.17314749901112353
+Criibaby,clementine,1690,"Pop, R&B, Soul",0.16336970639783643
+Criibaby,A Light Rain,1330,"Pop, R&B, Soul",0.16030883218845965
+Criibaby,cold,1300,"Pop, R&B, Soul",0.1600537593376782
+Criibaby,care,1180,"Pop, R&B, Soul",0.1590334679345526
+Hush Club,Go Wrong,112160,Rock,1.9548885576843482
+Hush Club,Empty Place,71370,Rock,1.2517522954096612
+Hush Club,One More Year,65860,Rock,1.1567711528469367
+Hush Club,Thought I Saw You,51820,Rock,0.9147502378595231
+Hush Club,Flying Over Utah,48540,Rock,0.8582097392014947
+Hush Club,I'll Be Waiting,30120,Rock,0.5406865729573239
+Hush Club,The Moon,28460,Rock,0.512071564490151
+Hush Club,Willow Street,26480,Rock,0.47794040981243885
+Hush Club,Born In July,20730,Rock,0.37882215759181
+Hush Club,Commute,20210,Rock,0.36985841999968355
+Hush Club,Getting Here,18180,Rock,0.3348653674765746
+Hush Club,Altitude,14890,Rock,0.27815248924946695
+Hush Club,Now It's Gone,14670,Rock,0.27436013872972115
+Hush Club,Walking on Air,13970,Rock,0.26229356889416633
+Hush Club,Out of Touch,12030,Rock,0.22885193249277155
+Hush Club,Far Away From Everything,11800,Rock,0.2248872024039464
+Hush Club,Movie,10500,Rock,0.20247785842363036
+Hush Club,Hold That Pose,7450,Rock,0.1499020898544272
+Hush Club,Roll It Later,5150,Rock,0.11025478896617567
+Hush Club,For Your Sake,4810,Rock,0.10439388361747762
+Hush Club,What You Need,4300,Rock,0.09560252559443054
+Hush Club,One Step Away,4010,Rock,0.09060351809112928
+Hush Club,Caroline,2910,Rock,0.07164176549240026
+The Wandering Hearts,Wish I Could,4580000,"Alternative, Pop, Country, Folk",2.3210051135491407
+The Wandering Hearts,Devil,2270000,"Alternative, Pop, Country, Folk",1.2326734975190468
+The Wandering Hearts,Wild Silence,1850000,"Alternative, Pop, Country, Folk",1.0347950218772117
+The Wandering Hearts,Fire And Water,1260000,"Alternative, Pop, Country, Folk",0.7568228775232049
+The Wandering Hearts,Burning Bridges,1160000,"Alternative, Pop, Country, Folk",0.7097089547513394
+The Wandering Hearts,Til The Day I Die,989330,"Alternative, Pop, Country, Folk",0.6292996227565966
+The Wandering Hearts,If I Fall,714870,"Alternative, Pop, Country, Folk",0.4999907503169344
+The Wandering Hearts,Rattle,484790,"Alternative, Pop, Country, Folk",0.39159103680342616
+The Wandering Hearts,Run,469730,"Alternative, Pop, Country, Folk",0.38449568003398327
+The Wandering Hearts,On Our Way,429130,"Alternative, Pop, Country, Folk",0.3653674273886059
+The Wandering Hearts,Heartbreak Hotel,333240,"Alternative, Pop, Country, Folk",0.320189886842664
+The Wandering Hearts,Iona,279810,"Alternative, Pop, Country, Folk",0.2950169179056562
+The Wandering Hearts,Change For The Good,267530,"Alternative, Pop, Country, Folk",0.28923132818927116
+The Wandering Hearts,Laid in the Ground,220500,"Alternative, Pop, Country, Folk",0.26707365030966274
+The Wandering Hearts,Gold,198190,"Alternative, Pop, Country, Folk",0.25656253413925956
+The Wandering Hearts,Over Your Body,180070,"Alternative, Pop, Country, Folk",0.24802549133299756
+The Wandering Hearts,Nothing Breaks Like A Break,102500,"Alternative, Pop, Country, Folk",0.21147922143886141
+The Wandering Hearts,Jealous,99030,"Alternative, Pop, Country, Folk",0.20984436831867773
+The Wandering Hearts,Build a Fire,95900,"Alternative, Pop, Country, Folk",0.20836970253591833
+The Wandering Hearts,Never Expected,85550,"Alternative, Pop, Country, Folk",0.20349341152903022
+The Wandering Hearts,Nobody's Fool,83800,"Alternative, Pop, Country, Folk",0.2026689178805226
+The Wandering Hearts,Dolores,83680,"Alternative, Pop, Country, Folk",0.20261238117319635
+The Wandering Hearts,Heart Stops Beating,83660,"Alternative, Pop, Country, Folk",0.20260295838864198
+The Wandering Hearts,When the Party's Over,75740,"Alternative, Pop, Country, Folk",0.19887153570511024
+The Wandering Hearts,I Feel It Too,74910,"Alternative, Pop, Country, Folk",0.19848049014610375
+The Wandering Hearts,No One's Gonna Love You,63950,"Alternative, Pop, Country, Folk",0.19331680421030725

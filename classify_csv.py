@@ -3,7 +3,7 @@ import numpy as np
 from scipy import stats
 
 # Read the CSV file with pandas, specifying that there is a header
-df = pd.read_csv('raw_data_small.csv', header=0, quotechar='"', escapechar='\\')
+df = pd.read_csv('raw_data.csv', header=0, quotechar='"', escapechar='\\')
 
 # Clean up the data
 df['Streams'] = pd.to_numeric(df['Streams'].str.replace(',', ''), errors='coerce')
@@ -27,14 +27,14 @@ def compute_z_score(row, artist_stats):
     return z_score
 
 # Apply z-score computation
-df['Z_Score'] = df.apply(compute_z_score, axis=1, args=(artist_stats,))
+z_score = df.apply(compute_z_score, axis=1, args=(artist_stats,))
 
-min_z = df['Z_Score'].min()
-max_z = df['Z_Score'].max()
+min_z = z_score.min()
+max_z = z_score.max()
 
 # Min-max normalization to scale to [0, 3], replacing Class (could also be like Scaled_Score or something)
 if max_z != min_z:  # Ensure min and max are not equal
-    df['Class'] = 3 * (df['Z_Score'] - min_z) / (max_z - min_z)
+    df['Class'] = 3 * (z_score - min_z) / (max_z - min_z)
 else:
     df['Class'] = 0  # If all Z_Score values are the same
 

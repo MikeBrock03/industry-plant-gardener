@@ -52,12 +52,35 @@ def create_mel_spectrogram(audio_file):
     """Create a Mel spectrogram from an audio file."""
     try:
         y, sr = librosa.load(audio_file)
-        mel_spec = librosa.feature.melspectrogram(y=y, sr=sr, hop_length = 1024, n_mels = 80, n_fft = 1024) #default is hop_length = 512, n_mels = 120, n_fft = 2048
+        
+        # Ensure exactly 30 seconds
+        target_length = 30 * sr  # 30 seconds * sample rate
+        
+        if len(y) > target_length:
+            y = y[:target_length]
+        elif len(y) < target_length:
+            # Pad with zeros if audio is shorter
+            padding = target_length - len(y)
+            y = np.pad(y, (0, padding), 'constant')
+        
+        mel_spec = librosa.feature.melspectrogram(
+            y=y, 
+            sr=sr, 
+            hop_length=1024, 
+            n_mels=80, 
+            n_fft=1024
+        )
+        
         mel_spec_db = librosa.power_to_db(mel_spec, ref=np.max)
+        
+        # Log the shape to verify consistency
+        print(f"Mel spectrogram shape: {mel_spec_db.shape}")
+        
         return mel_spec_db
+        
     except Exception as e:
         logging.error(f"Error creating Mel spectrogram for {audio_file}: {e}")
-    return None
+        return None
 
 def save_mel_spectrogram(mel_spec, filename):
     """Save the Mel spectrogram as a .npy file."""

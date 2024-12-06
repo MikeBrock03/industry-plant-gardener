@@ -123,27 +123,40 @@ if not os.path.exists(MEL_SPEC_DIR):
 
 # Process each song
 print("Processing songs with BERT (shoutout)...")
+valid_rows = [] # list to store valid rows
 for index, row in tqdm(df.iterrows(), total=len(df), desc="Processing songs"):
     artist = row['Artist']
     song = row['Song']
     
     # Get Mel spectrogram
     mel_spec_file = get_mel_spectrogram_for_track(artist, song)
-    if mel_spec_file:
-        df.at[index, 'Mel_Spectrogram'] = mel_spec_file
-    
     # Get and save lyrics with BERT processing
     lyrics = get_lyrics(artist, song)
-    if lyrics:
+    
+    # Only process and add row if both mel spectrogram and lyrics exist
+    if mel_spec_file and lyrics != "[NO_LYRICS]":
         raw_lyrics_path, processed_lyrics_path = save_lyrics(artist, song, lyrics, tokenizer, model)
-        df.at[index, 'Lyrics_File'] = raw_lyrics_path
-        df.at[index, 'Processed_Lyrics_File'] = processed_lyrics_path
+        
+        # Create a copy of the row and update it
+        valid_row = row.copy()
+        valid_row['Mel_Spectrogram'] = mel_spec_file
+        valid_row['Lyrics_File'] = raw_lyrics_path
+        valid_row['Processed_Lyrics_File'] = processed_lyrics_path
+        
+        valid_rows.append(valid_row)
     else:
-        df.at[index, 'Lyrics_File'] = ''
-        df.at[index, 'Processed_Lyrics_File'] = ''
+        print(f"Skipping {artist} - {song} due to missing {'mel spectrogram' if not mel_spec_file else 'lyrics'}")
 
-# Save the updated dataframe
-df.to_csv('preprocessed_data.csv', index=False)
+# Create new dataframe with only valid rows
+df_filtered = pd.DataFrame(valid_rows)
+
+# Save the filtered dataframe
+df_filtered.to_csv('preprocessed_data.csv', index=False)
 
 print("Processing complete! Data saved to 'preprocessed_data.csv'")
 print(f"BERT vectorizer saved to {PROCESSED_LYRICS_DIR}/tfidf_vectorizer.joblib")
+
+print("Processing complete! Data saved to 'preprocessed_data.csv'")
+print(f"Original number of songs: {len(df)}")
+print(f"Number of songs after filtering: {len(df_filtered)}")
+print(f"Number of songs removed: {len(df) - len(df_filtered)}")
