@@ -5,7 +5,7 @@ import numpy as np
 
 def plot_class_distribution():
     # Read the CSV file with header row
-    df = pd.read_csv('preprocessed_data.csv')  # now using the first row as header
+    df = pd.read_csv('new_classified_songs.csv')  # now using the first row as header
     
     # Convert Class column to numeric
     df['Class'] = pd.to_numeric(df['Class'])

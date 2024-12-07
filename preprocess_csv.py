@@ -28,7 +28,7 @@ model.eval()
 if not os.path.exists(LYRICS_DIR):
     os.makedirs(LYRICS_DIR)
 
-df = pd.read_csv('classified_songs.csv', header=0, quotechar='"', escapechar='\\')
+df = pd.read_csv('new_classified_songs.csv', header=0, quotechar='"', escapechar='\\')
 
 def get_lyrics(artist: str, song: str) -> str:
     """
@@ -151,7 +151,7 @@ for index, row in tqdm(df.iterrows(), total=len(df), desc="Processing songs"):
 df_filtered = pd.DataFrame(valid_rows)
 
 # Save the filtered dataframe
-df_filtered.to_csv('preprocessed_data.csv', index=False)
+df_filtered.to_csv('new_preprocessed_data.csv', index=False)
 
 print("Processing complete! Data saved to 'preprocessed_data.csv'")
 print(f"BERT vectorizer saved to {PROCESSED_LYRICS_DIR}/tfidf_vectorizer.joblib")

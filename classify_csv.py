@@ -3,7 +3,7 @@ import numpy as np
 from scipy import stats
 
 # Read the CSV file with pandas, specifying that there is a header
-df = pd.read_csv('raw_data.csv', header=0, quotechar='"', escapechar='\\')
+df = pd.read_csv('artist_historical_data.csv', header=0, quotechar='"', escapechar='\\')
 
 # Clean up the data
 df['Streams'] = pd.to_numeric(df['Streams'].str.replace(',', ''), errors='coerce')
@@ -39,4 +39,4 @@ else:
     df['Class'] = 0  # If all Z_Score values are the same
 
 # Save the result
-df.to_csv('classified_songs.csv', index=False)
+df.to_csv('new_classified_songs.csv', index=False)

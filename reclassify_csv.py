@@ -72,6 +72,6 @@ def reclassify_songs(file_path):
         print(f"{p}th percentile: {np.percentile(df['Class'], p):.4f}")
 
 if __name__ == "__main__":
-    file_path = 'preprocessed_data.csv'
+    file_path = 'new_classified_songs.csv'
     print("Updating class scores in", file_path)
     reclassify_songs(file_path)

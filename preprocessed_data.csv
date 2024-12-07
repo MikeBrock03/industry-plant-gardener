@@ -162,3 +162,712 @@ The Wandering Hearts,Run,469730,"Alternative, Pop, Country, Folk",1.524848284909
 The Wandering Hearts,On Our Way,429130,"Alternative, Pop, Country, Folk",1.4751517150904159,mel_spectrograms/The_Wandering_Hearts-On_Our_Way_mel_spec.npy,lyrics/The_Wandering_Hearts-On_Our_Way.txt,processed_lyrics/The_Wandering_Hearts-On_Our_Way_bert.npy
 The Wandering Hearts,Gold,198190,"Alternative, Pop, Country, Folk",1.0504502815703693,mel_spectrograms/The_Wandering_Hearts-Gold_mel_spec.npy,lyrics/The_Wandering_Hearts-Gold.txt,processed_lyrics/The_Wandering_Hearts-Gold_bert.npy
 The Wandering Hearts,Dolores,83680,"Alternative, Pop, Country, Folk",0.5764424472261035,mel_spectrograms/The_Wandering_Hearts-Dolores_mel_spec.npy,lyrics/The_Wandering_Hearts-Dolores.txt,processed_lyrics/The_Wandering_Hearts-Dolores_bert.npy
+Ice Spice,Munch (Feelin’ U),97205610,,2.0923830156346943,mel_spectrograms/Ice_Spice-Munch__Feelin__U__mel_spec.npy,lyrics/Ice_Spice-Munch_(Feelin’_U).txt,processed_lyrics/Ice_Spice-Munch_(Feelin’_U)_bert.npy
+Ice Spice,Euphoric,8436822,,1.6043519205003798,mel_spectrograms/Ice_Spice-Euphoric_mel_spec.npy,lyrics/Ice_Spice-Euphoric.txt,processed_lyrics/Ice_Spice-Euphoric_bert.npy
+Ice Spice,Name of Love,11263265,,1.6620439255867154,mel_spectrograms/Ice_Spice-Name_of_Love_mel_spec.npy,lyrics/Ice_Spice-Name_of_Love.txt,processed_lyrics/Ice_Spice-Name_of_Love_bert.npy
+Ice Spice,Be a Lady,3912307,,1.450912000501893,mel_spectrograms/Ice_Spice-Be_a_Lady_mel_spec.npy,lyrics/Ice_Spice-Be_a_Lady.txt,processed_lyrics/Ice_Spice-Be_a_Lady_bert.npy
+Ice Spice,No Clarity,17402248,,1.748909704861724,mel_spectrograms/Ice_Spice-No_Clarity_mel_spec.npy,lyrics/Ice_Spice-No_Clarity.txt,processed_lyrics/Ice_Spice-No_Clarity_bert.npy
+Ice Spice,Been Bad (Freestyle),1666,,0.0,mel_spectrograms/Ice_Spice-Been_Bad__Freestyle__mel_spec.npy,lyrics/Ice_Spice-Been_Bad_(Freestyle).txt,processed_lyrics/Ice_Spice-Been_Bad_(Freestyle)_bert.npy
+Ice Spice,Bully Freestyle,5002693,,1.5,mel_spectrograms/Ice_Spice-Bully_Freestyle_mel_spec.npy,lyrics/Ice_Spice-Bully_Freestyle.txt,processed_lyrics/Ice_Spice-Bully_Freestyle_bert.npy
+Omar Apollo,Endlessly Interlude,2925086,,1.1122975579272063,mel_spectrograms/Omar_Apollo-Endlessly_Interlude_mel_spec.npy,lyrics/Omar_Apollo-Endlessly_Interlude.txt,processed_lyrics/Omar_Apollo-Endlessly_Interlude_bert.npy
+Omar Apollo,Petrified,9005000,,1.592633488244869,mel_spectrograms/Omar_Apollo-Petrified_mel_spec.npy,lyrics/Omar_Apollo-Petrified.txt,processed_lyrics/Omar_Apollo-Petrified_bert.npy
+Omar Apollo,Ivory,5201064,,1.3581517171955602,mel_spectrograms/Omar_Apollo-Ivory_mel_spec.npy,lyrics/Omar_Apollo-Ivory.txt,processed_lyrics/Omar_Apollo-Ivory_bert.npy
+Omar Apollo,Talk,4769040,,1.32110815067347,mel_spectrograms/Omar_Apollo-Talk_mel_spec.npy,lyrics/Omar_Apollo-Talk.txt,processed_lyrics/Omar_Apollo-Talk_bert.npy
+Omar Apollo,No Good Reason,4822743,,1.325891546335249,mel_spectrograms/Omar_Apollo-No_Good_Reason_mel_spec.npy,lyrics/Omar_Apollo-No_Good_Reason.txt,processed_lyrics/Omar_Apollo-No_Good_Reason_bert.npy
+Omar Apollo,Personally,2841197,,1.099867526935487,mel_spectrograms/Omar_Apollo-Personally_mel_spec.npy,lyrics/Omar_Apollo-Personally.txt,processed_lyrics/Omar_Apollo-Personally_bert.npy
+Omar Apollo,En El Olvido,6292278,,1.439510837390644,mel_spectrograms/Omar_Apollo-En_El_Olvido_mel_spec.npy,lyrics/Omar_Apollo-En_El_Olvido.txt,processed_lyrics/Omar_Apollo-En_El_Olvido_bert.npy
+Omar Apollo,Can't Get Over You,2896982,,1.1081734811414106,mel_spectrograms/Omar_Apollo-Can_t_Get_Over_You_mel_spec.npy,lyrics/Omar_Apollo-Can't_Get_Over_You.txt,processed_lyrics/Omar_Apollo-Can't_Get_Over_You_bert.npy
+Omar Apollo,Mr. Neighbor,2208603,,0.9922778153188112,mel_spectrograms/Omar_Apollo-Mr._Neighbor_mel_spec.npy,lyrics/Omar_Apollo-Mr._Neighbor.txt,processed_lyrics/Omar_Apollo-Mr._Neighbor_bert.npy
+Omar Apollo,Waiting on You,3977908,,1.243623898864444,mel_spectrograms/Omar_Apollo-Waiting_on_You_mel_spec.npy,lyrics/Omar_Apollo-Waiting_on_You.txt,processed_lyrics/Omar_Apollo-Waiting_on_You_bert.npy
+Omar Apollo,Evergreen (You Didn’t Deserve Me At All),189189560,,2.893358798716789,mel_spectrograms/Omar_Apollo-Evergreen__You_Didn_t_Deserve_Me_At_All__mel_spec.npy,lyrics/Omar_Apollo-Evergreen_(You_Didn’t_Deserve_Me_At_All).txt,processed_lyrics/Omar_Apollo-Evergreen_(You_Didn’t_Deserve_Me_At_All)_bert.npy
+Omar Apollo,Archetype,10668727,,1.665054823564445,mel_spectrograms/Omar_Apollo-Archetype_mel_spec.npy,lyrics/Omar_Apollo-Archetype.txt,processed_lyrics/Omar_Apollo-Archetype_bert.npy
+Omar Apollo,Endlessly,13863187,,1.7769397415509098,mel_spectrograms/Omar_Apollo-Endlessly_mel_spec.npy,lyrics/Omar_Apollo-Endlessly.txt,processed_lyrics/Omar_Apollo-Endlessly_bert.npy
+Omar Apollo,Highlight,3482529,,1.1868112074128925,mel_spectrograms/Omar_Apollo-Highlight_mel_spec.npy,lyrics/Omar_Apollo-Highlight.txt,processed_lyrics/Omar_Apollo-Highlight_bert.npy
+Omar Apollo,Saving All My Love,1924130,,0.9333767056157108,mel_spectrograms/Omar_Apollo-Saving_All_My_Love_mel_spec.npy,lyrics/Omar_Apollo-Saving_All_My_Love.txt,processed_lyrics/Omar_Apollo-Saving_All_My_Love_bert.npy
+Omar Apollo,Pretty Boy,1476360,,0.8202213678776025,mel_spectrograms/Omar_Apollo-Pretty_Boy_mel_spec.npy,lyrics/Omar_Apollo-Pretty_Boy.txt,processed_lyrics/Omar_Apollo-Pretty_Boy_bert.npy
+Omar Apollo,Evergreen (You Didn’t Deserve Me At All) - Sped Up Version,1848926,,0.9163458041306878,mel_spectrograms/Omar_Apollo-Evergreen__You_Didn_t_Deserve_Me_At_All__-_Sped_Up_Version_mel_spec.npy,lyrics/Omar_Apollo-Evergreen_(You_Didn’t_Deserve_Me_At_All)_-_Sped_Up_Version.txt,processed_lyrics/Omar_Apollo-Evergreen_(You_Didn’t_Deserve_Me_At_All)_-_Sped_Up_Version_bert.npy
+Omar Apollo,Tamagotchi,12276887,,1.7250304501630027,mel_spectrograms/Omar_Apollo-Tamagotchi_mel_spec.npy,lyrics/Omar_Apollo-Tamagotchi.txt,processed_lyrics/Omar_Apollo-Tamagotchi_bert.npy
+Omar Apollo,Killing Me,22304465,,1.9800813076480264,mel_spectrograms/Omar_Apollo-Killing_Me_mel_spec.npy,lyrics/Omar_Apollo-Killing_Me.txt,processed_lyrics/Omar_Apollo-Killing_Me_bert.npy
+Omar Apollo,Invincible (feat. Daniel Caesar),34561821,,2.1671666741270332,mel_spectrograms/Omar_Apollo-Invincible__feat._Daniel_Caesar__mel_spec.npy,lyrics/Omar_Apollo-Invincible_(feat._Daniel_Caesar).txt,processed_lyrics/Omar_Apollo-Invincible_(feat._Daniel_Caesar)_bert.npy
+Omar Apollo,Bad Life (feat. Kali Uchis),15305318,,1.8192141377679292,mel_spectrograms/Omar_Apollo-Bad_Life__feat._Kali_Uchis__mel_spec.npy,lyrics/Omar_Apollo-Bad_Life_(feat._Kali_Uchis).txt,processed_lyrics/Omar_Apollo-Bad_Life_(feat._Kali_Uchis)_bert.npy
+Omar Apollo,Te Olvidaste,31369195,,2.125763778240493,mel_spectrograms/Omar_Apollo-Te_Olvidaste_mel_spec.npy,lyrics/Omar_Apollo-Te_Olvidaste.txt,processed_lyrics/Omar_Apollo-Te_Olvidaste_bert.npy
+Omar Apollo,Bi Fren,3020847,,1.1260582008118138,mel_spectrograms/Omar_Apollo-Bi_Fren_mel_spec.npy,lyrics/Omar_Apollo-Bi_Fren.txt,processed_lyrics/Omar_Apollo-Bi_Fren_bert.npy
+Omar Apollo,The Two of Us,8337062,,1.5597117383579897,mel_spectrograms/Omar_Apollo-The_Two_of_Us_mel_spec.npy,lyrics/Omar_Apollo-The_Two_of_Us.txt,processed_lyrics/Omar_Apollo-The_Two_of_Us_bert.npy
+Omar Apollo,I'm Amazing,5670255,,1.3950469177308455,mel_spectrograms/Omar_Apollo-I_m_Amazing_mel_spec.npy,lyrics/Omar_Apollo-I'm_Amazing.txt,processed_lyrics/Omar_Apollo-I'm_Amazing_bert.npy
+Omar Apollo,Hey Boy (feat. Kali Uchis),17212240,,1.8693728319415357,mel_spectrograms/Omar_Apollo-Hey_Boy__feat._Kali_Uchis__mel_spec.npy,lyrics/Omar_Apollo-Hey_Boy_(feat._Kali_Uchis).txt,processed_lyrics/Omar_Apollo-Hey_Boy_(feat._Kali_Uchis)_bert.npy
+Omar Apollo,Useless,29039258,,2.092795626556881,mel_spectrograms/Omar_Apollo-Useless_mel_spec.npy,lyrics/Omar_Apollo-Useless.txt,processed_lyrics/Omar_Apollo-Useless_bert.npy
+Omar Apollo,Go Away,26424034,,2.0524814250769747,mel_spectrograms/Omar_Apollo-Go_Away_mel_spec.npy,lyrics/Omar_Apollo-Go_Away.txt,processed_lyrics/Omar_Apollo-Go_Away_bert.npy
+Omar Apollo,Want U Around (feat. Ruel),54754728,,2.363714471077665,mel_spectrograms/Omar_Apollo-Want_U_Around__feat._Ruel__mel_spec.npy,lyrics/Omar_Apollo-Want_U_Around_(feat._Ruel).txt,processed_lyrics/Omar_Apollo-Want_U_Around_(feat._Ruel)_bert.npy
+Omar Apollo,Dos Uno Nueve (219),3783291,,1.2221961992639967,mel_spectrograms/Omar_Apollo-Dos_Uno_Nueve__219__mel_spec.npy,lyrics/Omar_Apollo-Dos_Uno_Nueve_(219).txt,processed_lyrics/Omar_Apollo-Dos_Uno_Nueve_(219)_bert.npy
+Omar Apollo,Kamikaze,21213562,,1.9586602668274689,mel_spectrograms/Omar_Apollo-Kamikaze_mel_spec.npy,lyrics/Omar_Apollo-Kamikaze.txt,processed_lyrics/Omar_Apollo-Kamikaze_bert.npy
+Omar Apollo,Stayback (feat. Bootsy Collins) - Remix,343543,,0.197396064871721,mel_spectrograms/Omar_Apollo-Stayback__feat._Bootsy_Collins__-_Remix_mel_spec.npy,lyrics/Omar_Apollo-Stayback_(feat._Bootsy_Collins)_-_Remix.txt,processed_lyrics/Omar_Apollo-Stayback_(feat._Bootsy_Collins)_-_Remix_bert.npy
+Omar Apollo,Stayback,6974592,,1.483488459842258,mel_spectrograms/Omar_Apollo-Stayback_mel_spec.npy,lyrics/Omar_Apollo-Stayback.txt,processed_lyrics/Omar_Apollo-Stayback_bert.npy
+Omar Apollo,High Hopes (feat. Omar Apollo),42741589,,2.2579077167951978,mel_spectrograms/Omar_Apollo-High_Hopes__feat._Omar_Apollo__mel_spec.npy,lyrics/Omar_Apollo-High_Hopes_(feat._Omar_Apollo).txt,processed_lyrics/Omar_Apollo-High_Hopes_(feat._Omar_Apollo)_bert.npy
+Omar Apollo,Imagine U,6511226,,1.4541220771670034,mel_spectrograms/Omar_Apollo-Imagine_U_mel_spec.npy,lyrics/Omar_Apollo-Imagine_U.txt,processed_lyrics/Omar_Apollo-Imagine_U_bert.npy
+Omar Apollo,"Late Night Lovin' (feat. Omar Apollo, Jean Dawson & Korbin In Orbit)",566448,,0.4110127004246204,mel_spectrograms/Omar_Apollo-Late_Night_Lovin___feat._Omar_Apollo__Jean_Dawson___Korbin_In_Orbit__mel_spec.npy,"lyrics/Omar_Apollo-Late_Night_Lovin'_(feat._Omar_Apollo,_Jean_Dawson_&_Korbin_In_Orbit).txt","processed_lyrics/Omar_Apollo-Late_Night_Lovin'_(feat._Omar_Apollo,_Jean_Dawson_&_Korbin_In_Orbit)_bert.npy"
+Omar Apollo,Hit Me Up,44833033,,2.278314906449609,mel_spectrograms/Omar_Apollo-Hit_Me_Up_mel_spec.npy,lyrics/Omar_Apollo-Hit_Me_Up.txt,processed_lyrics/Omar_Apollo-Hit_Me_Up_bert.npy
+Omar Apollo,Frío,13931429,,1.7790373506823638,mel_spectrograms/Omar_Apollo-Frío_mel_spec.npy,lyrics/Omar_Apollo-Frío.txt,processed_lyrics/Omar_Apollo-Frío_bert.npy
+Omar Apollo,Ipanema,22316913,,1.980319643429925,mel_spectrograms/Omar_Apollo-Ipanema_mel_spec.npy,lyrics/Omar_Apollo-Ipanema.txt,processed_lyrics/Omar_Apollo-Ipanema_bert.npy
+Omar Apollo,Hearing Your Voice,9698935,,1.624345062531146,mel_spectrograms/Omar_Apollo-Hearing_Your_Voice_mel_spec.npy,lyrics/Omar_Apollo-Hearing_Your_Voice.txt,processed_lyrics/Omar_Apollo-Hearing_Your_Voice_bert.npy
+Omar Apollo,So Good,12860285,,1.744862113175877,mel_spectrograms/Omar_Apollo-So_Good_mel_spec.npy,lyrics/Omar_Apollo-So_Good.txt,processed_lyrics/Omar_Apollo-So_Good_bert.npy
+Omar Apollo,There For Me (Interlude),2337602,,1.0165263997231704,mel_spectrograms/Omar_Apollo-There_For_Me__Interlude__mel_spec.npy,lyrics/Omar_Apollo-There_For_Me_(Interlude).txt,processed_lyrics/Omar_Apollo-There_For_Me_(Interlude)_bert.npy
+Omar Apollo,Kickback,17473715,,1.8758132991372864,mel_spectrograms/Omar_Apollo-Kickback_mel_spec.npy,lyrics/Omar_Apollo-Kickback.txt,processed_lyrics/Omar_Apollo-Kickback_bert.npy
+Omar Apollo,Friends,7241429,,1.4995265111507894,mel_spectrograms/Omar_Apollo-Friends_mel_spec.npy,lyrics/Omar_Apollo-Friends.txt,processed_lyrics/Omar_Apollo-Friends_bert.npy
+Omar Apollo,Ashamed,14350207,,1.7916888995978155,mel_spectrograms/Omar_Apollo-Ashamed_mel_spec.npy,lyrics/Omar_Apollo-Ashamed.txt,processed_lyrics/Omar_Apollo-Ashamed_bert.npy
+Omar Apollo,Trouble,25172571,,2.03175546238331,mel_spectrograms/Omar_Apollo-Trouble_mel_spec.npy,lyrics/Omar_Apollo-Trouble.txt,processed_lyrics/Omar_Apollo-Trouble_bert.npy
+Omar Apollo,Hijo de Su Madre,12721853,,1.7402389788018031,mel_spectrograms/Omar_Apollo-Hijo_de_Su_Madre_mel_spec.npy,lyrics/Omar_Apollo-Hijo_de_Su_Madre.txt,processed_lyrics/Omar_Apollo-Hijo_de_Su_Madre_bert.npy
+Omar Apollo,Stereo (Intro),3626616,,1.2041292753071686,mel_spectrograms/Omar_Apollo-Stereo__Intro__mel_spec.npy,lyrics/Omar_Apollo-Stereo_(Intro).txt,processed_lyrics/Omar_Apollo-Stereo_(Intro)_bert.npy
+Omar Apollo,Lucky,2029068,,0.9560606560671884,mel_spectrograms/Omar_Apollo-Lucky_mel_spec.npy,lyrics/Omar_Apollo-Lucky.txt,processed_lyrics/Omar_Apollo-Lucky_bert.npy
+Omar Apollo,Amor Malo,6193719,,1.4327668823186306,mel_spectrograms/Omar_Apollo-Amor_Malo_mel_spec.npy,lyrics/Omar_Apollo-Amor_Malo.txt,processed_lyrics/Omar_Apollo-Amor_Malo_bert.npy
+Omar Apollo,Ignorin,7257500,,1.5004734888492095,mel_spectrograms/Omar_Apollo-Ignorin_mel_spec.npy,lyrics/Omar_Apollo-Ignorin.txt,processed_lyrics/Omar_Apollo-Ignorin_bert.npy
+Omar Apollo,Erase,49804428,,2.323235738744115,mel_spectrograms/Omar_Apollo-Erase_mel_spec.npy,lyrics/Omar_Apollo-Erase.txt,processed_lyrics/Omar_Apollo-Erase_bert.npy
+Omar Apollo,Heart,9519523,,1.6163691905324058,mel_spectrograms/Omar_Apollo-Heart_mel_spec.npy,lyrics/Omar_Apollo-Heart.txt,processed_lyrics/Omar_Apollo-Heart_bert.npy
+Omar Apollo,Unbothered,46702915,,2.295769734870655,mel_spectrograms/Omar_Apollo-Unbothered_mel_spec.npy,lyrics/Omar_Apollo-Unbothered.txt,processed_lyrics/Omar_Apollo-Unbothered_bert.npy
+Omar Apollo,Day by Day,1992256,,0.9482396086549344,mel_spectrograms/Omar_Apollo-Day_by_Day_mel_spec.npy,lyrics/Omar_Apollo-Day_by_Day.txt,processed_lyrics/Omar_Apollo-Day_by_Day_bert.npy
+Omar Apollo,Algo,5115047,,1.3510279302639114,mel_spectrograms/Omar_Apollo-Algo_mel_spec.npy,lyrics/Omar_Apollo-Algo.txt,processed_lyrics/Omar_Apollo-Algo_bert.npy
+Omar Apollo,Brakelights,31441834,,2.126751800624365,mel_spectrograms/Omar_Apollo-Brakelights_mel_spec.npy,lyrics/Omar_Apollo-Brakelights.txt,processed_lyrics/Omar_Apollo-Brakelights_bert.npy
+Omar Apollo,Pram,8946145,,1.5898324091497145,mel_spectrograms/Omar_Apollo-Pram_mel_spec.npy,lyrics/Omar_Apollo-Pram.txt,processed_lyrics/Omar_Apollo-Pram_bert.npy
+Omar Apollo,Ugotme,66477632,,2.446586587907131,mel_spectrograms/Omar_Apollo-Ugotme_mel_spec.npy,lyrics/Omar_Apollo-Ugotme.txt,processed_lyrics/Omar_Apollo-Ugotme_bert.npy
+Omar Apollo,12:34 AM,49436572,,2.320068933553773,mel_spectrograms/Omar_Apollo-12_34_AM_mel_spec.npy,lyrics/Omar_Apollo-12:34_AM.txt,processed_lyrics/Omar_Apollo-12:34_AM_bert.npy
+Omar Apollo,Spite,11127,,0.0,mel_spectrograms/Omar_Apollo-Spite_mel_spec.npy,lyrics/Omar_Apollo-Spite.txt,processed_lyrics/Omar_Apollo-Spite_bert.npy
+Omar Apollo,Less of You,5719,,0.0,mel_spectrograms/Omar_Apollo-Less_of_You_mel_spec.npy,lyrics/Omar_Apollo-Less_of_You.txt,processed_lyrics/Omar_Apollo-Less_of_You_bert.npy
+Ethel Cain,Thoroughfare,3730088,,2.087848402364231,mel_spectrograms/Ethel_Cain-Thoroughfare_mel_spec.npy,lyrics/Ethel_Cain-Thoroughfare.txt,processed_lyrics/Ethel_Cain-Thoroughfare_bert.npy
+Ethel Cain,Hard Times,5654362,,2.403213853406611,mel_spectrograms/Ethel_Cain-Hard_Times_mel_spec.npy,lyrics/Ethel_Cain-Hard_Times.txt,processed_lyrics/Ethel_Cain-Hard_Times_bert.npy
+Ethel Cain,Family Tree (Intro),3630983,,2.0674340173750587,mel_spectrograms/Ethel_Cain-Family_Tree__Intro__mel_spec.npy,lyrics/Ethel_Cain-Family_Tree_(Intro).txt,processed_lyrics/Ethel_Cain-Family_Tree_(Intro)_bert.npy
+Ethel Cain,Family Tree,3538244,,2.047819853551819,mel_spectrograms/Ethel_Cain-Family_Tree_mel_spec.npy,lyrics/Ethel_Cain-Family_Tree.txt,processed_lyrics/Ethel_Cain-Family_Tree_bert.npy
+Ethel Cain,Ptolemaea,5947618,,2.441545974488136,mel_spectrograms/Ethel_Cain-Ptolemaea_mel_spec.npy,lyrics/Ethel_Cain-Ptolemaea.txt,processed_lyrics/Ethel_Cain-Ptolemaea_bert.npy
+Ethel Cain,A House In Nebraska,6638685,,2.5248784941931497,mel_spectrograms/Ethel_Cain-A_House_In_Nebraska_mel_spec.npy,lyrics/Ethel_Cain-A_House_In_Nebraska.txt,processed_lyrics/Ethel_Cain-A_House_In_Nebraska_bert.npy
+Ethel Cain,Sun Bleached Flies,4093395,,2.1583082344997244,mel_spectrograms/Ethel_Cain-Sun_Bleached_Flies_mel_spec.npy,lyrics/Ethel_Cain-Sun_Bleached_Flies.txt,processed_lyrics/Ethel_Cain-Sun_Bleached_Flies_bert.npy
+Ethel Cain,Western Nights,2883181,,1.892609580258076,mel_spectrograms/Ethel_Cain-Western_Nights_mel_spec.npy,lyrics/Ethel_Cain-Western_Nights.txt,processed_lyrics/Ethel_Cain-Western_Nights_bert.npy
+Ethel Cain,American Teenager,19675233,,2.1161706761018113,mel_spectrograms/Ethel_Cain-American_Teenager_mel_spec.npy,lyrics/Ethel_Cain-American_Teenager.txt,processed_lyrics/Ethel_Cain-American_Teenager_bert.npy
+Ethel Cain,Strangers,4670244,,2.258253351527337,mel_spectrograms/Ethel_Cain-Strangers_mel_spec.npy,lyrics/Ethel_Cain-Strangers.txt,processed_lyrics/Ethel_Cain-Strangers_bert.npy
+Ethel Cain,Gibson Girl,4102793,,2.1600467526558456,mel_spectrograms/Ethel_Cain-Gibson_Girl_mel_spec.npy,lyrics/Ethel_Cain-Gibson_Girl.txt,processed_lyrics/Ethel_Cain-Gibson_Girl_bert.npy
+Ethel Cain,Crush - Stripped,4566609,,2.24124132046847,mel_spectrograms/Ethel_Cain-Crush_-_Stripped_mel_spec.npy,lyrics/Ethel_Cain-Crush_-_Stripped.txt,processed_lyrics/Ethel_Cain-Crush_-_Stripped_bert.npy
+Ethel Cain,Two-Headed Mother,711971,,0.8323245365305099,mel_spectrograms/Ethel_Cain-Two-Headed_Mother_mel_spec.npy,lyrics/Ethel_Cain-Two-Headed_Mother.txt,processed_lyrics/Ethel_Cain-Two-Headed_Mother_bert.npy
+Ethel Cain,Inbred,1739715,,1.509638955667418,mel_spectrograms/Ethel_Cain-Inbred_mel_spec.npy,lyrics/Ethel_Cain-Inbred.txt,processed_lyrics/Ethel_Cain-Inbred_bert.npy
+Ethel Cain,Unpunishable,1121034,,1.176477787221927,mel_spectrograms/Ethel_Cain-Unpunishable_mel_spec.npy,lyrics/Ethel_Cain-Unpunishable.txt,processed_lyrics/Ethel_Cain-Unpunishable_bert.npy
+Ethel Cain,Crush,18905279,,2.1060830541046083,mel_spectrograms/Ethel_Cain-Crush_mel_spec.npy,lyrics/Ethel_Cain-Crush.txt,processed_lyrics/Ethel_Cain-Crush_bert.npy
+Ethel Cain,Lilies,829047,,0.947737045937512,mel_spectrograms/Ethel_Cain-Lilies_mel_spec.npy,lyrics/Ethel_Cain-Lilies.txt,processed_lyrics/Ethel_Cain-Lilies_bert.npy
+Ethel Cain,Knuckle Velvet,2100733,,1.6525897379225176,mel_spectrograms/Ethel_Cain-Knuckle_Velvet_mel_spec.npy,lyrics/Ethel_Cain-Knuckle_Velvet.txt,processed_lyrics/Ethel_Cain-Knuckle_Velvet_bert.npy
+Ethel Cain,Sunday Morning,977199,,1.0723785059637283,mel_spectrograms/Ethel_Cain-Sunday_Morning_mel_spec.npy,lyrics/Ethel_Cain-Sunday_Morning.txt,processed_lyrics/Ethel_Cain-Sunday_Morning_bert.npy
+Ethel Cain,Head in the Wall,1448715,,1.3708734010749246,mel_spectrograms/Ethel_Cain-Head_in_the_Wall_mel_spec.npy,lyrics/Ethel_Cain-Head_in_the_Wall.txt,processed_lyrics/Ethel_Cain-Head_in_the_Wall_bert.npy
+Ethel Cain,Golden Age,1642381,,1.4659920013581988,mel_spectrograms/Ethel_Cain-Golden_Age_mel_spec.npy,lyrics/Ethel_Cain-Golden_Age.txt,processed_lyrics/Ethel_Cain-Golden_Age_bert.npy
+Ethel Cain,Casings,894727,,1.0055357674665384,mel_spectrograms/Ethel_Cain-Casings_mel_spec.npy,lyrics/Ethel_Cain-Casings.txt,processed_lyrics/Ethel_Cain-Casings_bert.npy
+Ethel Cain,Dog Days,1595609,,1.4440893850794907,mel_spectrograms/Ethel_Cain-Dog_Days_mel_spec.npy,lyrics/Ethel_Cain-Dog_Days.txt,processed_lyrics/Ethel_Cain-Dog_Days_bert.npy
+Ethel Cain,Antlers,1189066,,1.2211423718662138,mel_spectrograms/Ethel_Cain-Antlers_mel_spec.npy,lyrics/Ethel_Cain-Antlers.txt,processed_lyrics/Ethel_Cain-Antlers_bert.npy
+Ethel Cain,Growing Pains,1696033,,1.490361044332582,mel_spectrograms/Ethel_Cain-Growing_Pains_mel_spec.npy,lyrics/Ethel_Cain-Growing_Pains.txt,processed_lyrics/Ethel_Cain-Growing_Pains_bert.npy
+Ethel Cain,Misuse Oh,1621734,,1.4564012496073258,mel_spectrograms/Ethel_Cain-Misuse_Oh_mel_spec.npy,lyrics/Ethel_Cain-Misuse_Oh.txt,processed_lyrics/Ethel_Cain-Misuse_Oh_bert.npy
+Alex G,Little Things,593447,,1.5037672845962622,mel_spectrograms/Alex_G-Little_Things_mel_spec.npy,lyrics/Alex_G-Little_Things.txt,processed_lyrics/Alex_G-Little_Things_bert.npy
+Alex G,Diamonds,290881,,1.1154573353321826,mel_spectrograms/Alex_G-Diamonds_mel_spec.npy,lyrics/Alex_G-Diamonds.txt,processed_lyrics/Alex_G-Diamonds_bert.npy
+Alex G,One More Night,1168520,,1.872751168328673,mel_spectrograms/Alex_G-One_More_Night_mel_spec.npy,lyrics/Alex_G-One_More_Night.txt,processed_lyrics/Alex_G-One_More_Night_bert.npy
+Alex G,Kute,1638729,,2.0569220414691465,mel_spectrograms/Alex_G-Kute_mel_spec.npy,lyrics/Alex_G-Kute.txt,processed_lyrics/Alex_G-Kute_bert.npy
+Alex G,Sarah,14914917,,2.0865387600722385,mel_spectrograms/Alex_G-Sarah_mel_spec.npy,lyrics/Alex_G-Sarah.txt,processed_lyrics/Alex_G-Sarah_bert.npy
+Alex G,Advice,1255651,,1.911915954486102,mel_spectrograms/Alex_G-Advice_mel_spec.npy,lyrics/Alex_G-Advice.txt,processed_lyrics/Alex_G-Advice_bert.npy
+Alex G,So,982371,,1.7782517186225109,mel_spectrograms/Alex_G-So_mel_spec.npy,lyrics/Alex_G-So.txt,processed_lyrics/Alex_G-So_bert.npy
+Alex G,Whale,770334,,1.645837650343766,mel_spectrograms/Alex_G-Whale_mel_spec.npy,lyrics/Alex_G-Whale.txt,processed_lyrics/Alex_G-Whale_bert.npy
+Alex G,Trick,691396,,1.5869613340285635,mel_spectrograms/Alex_G-Trick_mel_spec.npy,lyrics/Alex_G-Trick.txt,processed_lyrics/Alex_G-Trick_bert.npy
+Alex G,String,839990,,1.6929804489067726,mel_spectrograms/Alex_G-String_mel_spec.npy,lyrics/Alex_G-String.txt,processed_lyrics/Alex_G-String_bert.npy
+Alex G,People,961200,,1.7663870055010402,mel_spectrograms/Alex_G-People_mel_spec.npy,lyrics/Alex_G-People.txt,processed_lyrics/Alex_G-People_bert.npy
+Alex G,Adam,1044346,,1.811568110855155,mel_spectrograms/Alex_G-Adam_mel_spec.npy,lyrics/Alex_G-Adam.txt,processed_lyrics/Alex_G-Adam_bert.npy
+Alex G,Animals,1233620,,1.9022760535534475,mel_spectrograms/Alex_G-Animals_mel_spec.npy,lyrics/Alex_G-Animals.txt,processed_lyrics/Alex_G-Animals_bert.npy
+Alex G,Memory,1596942,,2.042855081116494,mel_spectrograms/Alex_G-Memory_mel_spec.npy,lyrics/Alex_G-Memory.txt,processed_lyrics/Alex_G-Memory_bert.npy
+Alex G,Forever,2244512,,2.2282320516996337,mel_spectrograms/Alex_G-Forever_mel_spec.npy,lyrics/Alex_G-Forever.txt,processed_lyrics/Alex_G-Forever_bert.npy
+Alex G,Mary,8498153,,2.953277425940753,mel_spectrograms/Alex_G-Mary_mel_spec.npy,lyrics/Alex_G-Mary.txt,processed_lyrics/Alex_G-Mary_bert.npy
+Alex G,Change,2669975,,2.3227624571084737,mel_spectrograms/Alex_G-Change_mel_spec.npy,lyrics/Alex_G-Change.txt,processed_lyrics/Alex_G-Change_bert.npy
+Alex G,16 Mirrors,967176,,1.769762359754551,mel_spectrograms/Alex_G-16_Mirrors_mel_spec.npy,lyrics/Alex_G-16_Mirrors.txt,processed_lyrics/Alex_G-16_Mirrors_bert.npy
+Alex G,Wanted,251539,,1.0363198976980514,mel_spectrograms/Alex_G-Wanted_mel_spec.npy,lyrics/Alex_G-Wanted.txt,processed_lyrics/Alex_G-Wanted_bert.npy
+Alex G,Too Close,645229,,1.5493261738655455,mel_spectrograms/Alex_G-Too_Close_mel_spec.npy,lyrics/Alex_G-Too_Close.txt,processed_lyrics/Alex_G-Too_Close_bert.npy
+Alex G,Find You,585293,,1.4962327154037387,mel_spectrograms/Alex_G-Find_You_mel_spec.npy,lyrics/Alex_G-Find_You.txt,processed_lyrics/Alex_G-Find_You_bert.npy
+Alex G,Tale as Old as Time,333821,,1.1904420389588484,mel_spectrograms/Alex_G-Tale_as_Old_as_Time_mel_spec.npy,lyrics/Alex_G-Tale_as_Old_as_Time.txt,processed_lyrics/Alex_G-Tale_as_Old_as_Time_bert.npy
+Alex G,4 A.M.,437209,,1.3373754948613268,mel_spectrograms/Alex_G-4_A.M._mel_spec.npy,lyrics/Alex_G-4_A.M..txt,processed_lyrics/Alex_G-4_A.M._bert.npy
+Alex G,Lego House,357458,,1.227698931022788,mel_spectrograms/Alex_G-Lego_House_mel_spec.npy,lyrics/Alex_G-Lego_House.txt,processed_lyrics/Alex_G-Lego_House_bert.npy
+Alex G,As Long as You Love Me,454766,,1.3588168533412162,mel_spectrograms/Alex_G-As_Long_as_You_Love_Me_mel_spec.npy,lyrics/Alex_G-As_Long_as_You_Love_Me.txt,processed_lyrics/Alex_G-As_Long_as_You_Love_Me_bert.npy
+Alex G,Wide Awake,556954,,1.469204808500406,mel_spectrograms/Alex_G-Wide_Awake_mel_spec.npy,lyrics/Alex_G-Wide_Awake.txt,processed_lyrics/Alex_G-Wide_Awake_bert.npy
+Alex G,Die in Your Arms,227797,,0.9823277603182764,mel_spectrograms/Alex_G-Die_in_Your_Arms_mel_spec.npy,lyrics/Alex_G-Die_in_Your_Arms.txt,processed_lyrics/Alex_G-Die_in_Your_Arms_bert.npy
+Alex G,Boyfriend,363491,,1.236813523662505,mel_spectrograms/Alex_G-Boyfriend_mel_spec.npy,lyrics/Alex_G-Boyfriend.txt,processed_lyrics/Alex_G-Boyfriend_bert.npy
+Alex G,In the Mourning,262153,,1.0588278483397937,mel_spectrograms/Alex_G-In_the_Mourning_mel_spec.npy,lyrics/Alex_G-In_the_Mourning.txt,processed_lyrics/Alex_G-In_the_Mourning_bert.npy
+Alex G,The a Team,2648703,,2.31840627198574,mel_spectrograms/Alex_G-The_a_Team_mel_spec.npy,lyrics/Alex_G-The_a_Team.txt,processed_lyrics/Alex_G-The_a_Team_bert.npy
+Alex G,Candy,1543125,,2.024186024587036,mel_spectrograms/Alex_G-Candy_mel_spec.npy,lyrics/Alex_G-Candy.txt,processed_lyrics/Alex_G-Candy_bert.npy
+Alex G,Wicked Boy,885661,,1.7218133292644764,mel_spectrograms/Alex_G-Wicked_Boy_mel_spec.npy,lyrics/Alex_G-Wicked_Boy.txt,processed_lyrics/Alex_G-Wicked_Boy_bert.npy
+Alex G,Mis,6335558,,2.793347223190492,mel_spectrograms/Alex_G-Mis_mel_spec.npy,lyrics/Alex_G-Mis.txt,processed_lyrics/Alex_G-Mis_bert.npy
+Alex G,Message,1326321,,1.9417348299340524,mel_spectrograms/Alex_G-Message_mel_spec.npy,lyrics/Alex_G-Message.txt,processed_lyrics/Alex_G-Message_bert.npy
+Alex G,Sandy,2977400,,2.3821125622497448,mel_spectrograms/Alex_G-Sandy_mel_spec.npy,lyrics/Alex_G-Sandy.txt,processed_lyrics/Alex_G-Sandy_bert.npy
+Alex G,New,19271,,0.0,mel_spectrograms/Alex_G-New_mel_spec.npy,lyrics/Alex_G-New.txt,processed_lyrics/Alex_G-New_bert.npy
+Alex G,Fighting,1566708,,2.0324458254758593,mel_spectrograms/Alex_G-Fighting_mel_spec.npy,lyrics/Alex_G-Fighting.txt,processed_lyrics/Alex_G-Fighting_bert.npy
+Alex G,Come Back,2153711,,2.205742828753708,mel_spectrograms/Alex_G-Come_Back_mel_spec.npy,lyrics/Alex_G-Come_Back.txt,processed_lyrics/Alex_G-Come_Back_bert.npy
+Alex G,Good,1031507,,1.8048315339609249,mel_spectrograms/Alex_G-Good_mel_spec.npy,lyrics/Alex_G-Good.txt,processed_lyrics/Alex_G-Good_bert.npy
+Alex G,Rules,927291,,1.7468280422262072,mel_spectrograms/Alex_G-Rules_mel_spec.npy,lyrics/Alex_G-Rules.txt,processed_lyrics/Alex_G-Rules_bert.npy
+Alex G,Know Now,713545,,1.6041337322378206,mel_spectrograms/Alex_G-Know_Now_mel_spec.npy,lyrics/Alex_G-Know_Now.txt,processed_lyrics/Alex_G-Know_Now_bert.npy
+Alex G,Water,798245,,1.6652203308574007,mel_spectrograms/Alex_G-Water_mel_spec.npy,lyrics/Alex_G-Water.txt,processed_lyrics/Alex_G-Water_bert.npy
+Alex G,I Won't Give Up,3972465,,2.539137582083681,mel_spectrograms/Alex_G-I_Won_t_Give_Up_mel_spec.npy,lyrics/Alex_G-I_Won't_Give_Up.txt,processed_lyrics/Alex_G-I_Won't_Give_Up_bert.npy
+Alex G,Breathe,65766,,0.3057614019745529,mel_spectrograms/Alex_G-Breathe_mel_spec.npy,lyrics/Alex_G-Breathe.txt,processed_lyrics/Alex_G-Breathe_bert.npy
+Alex G,Nineteen,52893,,0.1871343276835575,mel_spectrograms/Alex_G-Nineteen_mel_spec.npy,lyrics/Alex_G-Nineteen.txt,processed_lyrics/Alex_G-Nineteen_bert.npy
+Alex G,Terrified,161368,,0.7945719074671291,mel_spectrograms/Alex_G-Terrified_mel_spec.npy,lyrics/Alex_G-Terrified.txt,processed_lyrics/Alex_G-Terrified_bert.npy
+Alex G,Who Says,336807,,1.1952916761016106,mel_spectrograms/Alex_G-Who_Says_mel_spec.npy,lyrics/Alex_G-Who_Says.txt,processed_lyrics/Alex_G-Who_Says_bert.npy
+Alex G,Sparks Fly,406168,,1.2972695557330935,mel_spectrograms/Alex_G-Sparks_Fly_mel_spec.npy,lyrics/Alex_G-Sparks_Fly.txt,processed_lyrics/Alex_G-Sparks_Fly_bert.npy
+Alex G,Just a Kiss,1165935,,1.8715450931065416,mel_spectrograms/Alex_G-Just_a_Kiss_mel_spec.npy,lyrics/Alex_G-Just_a_Kiss.txt,processed_lyrics/Alex_G-Just_a_Kiss_bert.npy
+Alex G,Brighter Than the Sun (feat. Adam Stanton),159185,,0.7871544093735521,mel_spectrograms/Alex_G-Brighter_Than_the_Sun__feat._Adam_Stanton__mel_spec.npy,lyrics/Alex_G-Brighter_Than_the_Sun_(feat._Adam_Stanton).txt,processed_lyrics/Alex_G-Brighter_Than_the_Sun_(feat._Adam_Stanton)_bert.npy
+Alex G,Mean (feat. Alex G),364639,,1.2385307663637612,mel_spectrograms/Alex_G-Mean__feat._Alex_G__mel_spec.npy,lyrics/Alex_G-Mean_(feat._Alex_G).txt,processed_lyrics/Alex_G-Mean_(feat._Alex_G)_bert.npy
+Alex G,Landslide,714092,,1.6045510515599837,mel_spectrograms/Alex_G-Landslide_mel_spec.npy,lyrics/Alex_G-Landslide.txt,processed_lyrics/Alex_G-Landslide_bert.npy
+Alex G,If I Die Young,161705,,0.7957080328284046,mel_spectrograms/Alex_G-If_I_Die_Young_mel_spec.npy,lyrics/Alex_G-If_I_Die_Young.txt,processed_lyrics/Alex_G-If_I_Die_Young_bert.npy
+Alex G,Treehouse,27644371,,2.1985536778650747,mel_spectrograms/Alex_G-Treehouse_mel_spec.npy,lyrics/Alex_G-Treehouse.txt,processed_lyrics/Alex_G-Treehouse_bert.npy
+Alex G,Crab,1186260,,1.880956774584451,mel_spectrograms/Alex_G-Crab_mel_spec.npy,lyrics/Alex_G-Crab.txt,processed_lyrics/Alex_G-Crab_bert.npy
+Alex G,Cross Country,332323,,1.1879927350807409,mel_spectrograms/Alex_G-Cross_Country_mel_spec.npy,lyrics/Alex_G-Cross_Country.txt,processed_lyrics/Alex_G-Cross_Country_bert.npy
+Alex G,Go Away,351296,,1.2182292481032384,mel_spectrograms/Alex_G-Go_Away_mel_spec.npy,lyrics/Alex_G-Go_Away.txt,processed_lyrics/Alex_G-Go_Away_bert.npy
+Alex G,Let It Go,888232,,1.723391936250045,mel_spectrograms/Alex_G-Let_It_Go_mel_spec.npy,lyrics/Alex_G-Let_It_Go.txt,processed_lyrics/Alex_G-Let_It_Go_bert.npy
+Alex G,Time/Space,309262,,1.1488267311803833,mel_spectrograms/Alex_G-Time_Space_mel_spec.npy,lyrics/Alex_G-Time_Space.txt,processed_lyrics/Alex_G-Time_Space_bert.npy
+Alex G,House,899268,,1.7301165945711212,mel_spectrograms/Alex_G-House_mel_spec.npy,lyrics/Alex_G-House.txt,processed_lyrics/Alex_G-House_bert.npy
+Alex G,Remember,773477,,1.6480550799231668,mel_spectrograms/Alex_G-Remember_mel_spec.npy,lyrics/Alex_G-Remember.txt,processed_lyrics/Alex_G-Remember_bert.npy
+Alex G,The Same,953306,,1.7618960169598026,mel_spectrograms/Alex_G-The_Same_mel_spec.npy,lyrics/Alex_G-The_Same.txt,processed_lyrics/Alex_G-The_Same_bert.npy
+Alex G,Trash,798670,,1.6655102027761448,mel_spectrograms/Alex_G-Trash_mel_spec.npy,lyrics/Alex_G-Trash.txt,processed_lyrics/Alex_G-Trash_bert.npy
+Alex G,TV,1425801,,1.981122163580393,mel_spectrograms/Alex_G-TV_mel_spec.npy,lyrics/Alex_G-TV.txt,processed_lyrics/Alex_G-TV_bert.npy
+Alex G,Gnaw,5487016,,2.715038853110636,mel_spectrograms/Alex_G-Gnaw_mel_spec.npy,lyrics/Alex_G-Gnaw.txt,processed_lyrics/Alex_G-Gnaw_bert.npy
+Alex G,Race,491227,,1.4008173546379616,mel_spectrograms/Alex_G-Race_mel_spec.npy,lyrics/Alex_G-Race.txt,processed_lyrics/Alex_G-Race_bert.npy
+Alex G,Things to Do,553962,,1.4662713484048322,mel_spectrograms/Alex_G-Things_to_Do_mel_spec.npy,lyrics/Alex_G-Things_to_Do.txt,processed_lyrics/Alex_G-Things_to_Do_bert.npy
+Alex G,Haunted (acoustic),528634,,1.4407847143965382,mel_spectrograms/Alex_G-Haunted__acoustic__mel_spec.npy,lyrics/Alex_G-Haunted_(acoustic).txt,processed_lyrics/Alex_G-Haunted_(acoustic)_bert.npy
+Alex G,Back Home,348968,,1.214608310137559,mel_spectrograms/Alex_G-Back_Home_mel_spec.npy,lyrics/Alex_G-Back_Home.txt,processed_lyrics/Alex_G-Back_Home_bert.npy
+Alex G,"Tonight, Tonight",965178,,1.7686361791388252,mel_spectrograms/Alex_G-Tonight__Tonight_mel_spec.npy,"lyrics/Alex_G-Tonight,_Tonight.txt","processed_lyrics/Alex_G-Tonight,_Tonight_bert.npy"
+Tones and I,Colourblind,16559200,,1.2487554216773886,mel_spectrograms/Tones_and_I-Colourblind_mel_spec.npy,lyrics/Tones_and_I-Colourblind.txt,processed_lyrics/Tones_and_I-Colourblind_bert.npy
+Tones and I,Jimmy,18519260,,1.3017006056644638,mel_spectrograms/Tones_and_I-Jimmy_mel_spec.npy,lyrics/Tones_and_I-Jimmy.txt,processed_lyrics/Tones_and_I-Jimmy_bert.npy
+Tones and I,The Kids Are Coming,28157222,,1.5,mel_spectrograms/Tones_and_I-The_Kids_Are_Coming_mel_spec.npy,lyrics/Tones_and_I-The_Kids_Are_Coming.txt,processed_lyrics/Tones_and_I-The_Kids_Are_Coming_bert.npy
+Tones and I,Never Seen the Rain,231556966,,2.4972042526928844,mel_spectrograms/Tones_and_I-Never_Seen_the_Rain_mel_spec.npy,lyrics/Tones_and_I-Never_Seen_the_Rain.txt,processed_lyrics/Tones_and_I-Never_Seen_the_Rain_bert.npy
+Tones and I,Dance Monkey,1802177865,,2.1561108272275455,mel_spectrograms/Tones_and_I-Dance_Monkey_mel_spec.npy,lyrics/Tones_and_I-Dance_Monkey.txt,processed_lyrics/Tones_and_I-Dance_Monkey_bert.npy
+Tones and I,Dance Monkey - Stripped Back,26918351,,1.4787046218384785,mel_spectrograms/Tones_and_I-Dance_Monkey_-_Stripped_Back_mel_spec.npy,lyrics/Tones_and_I-Dance_Monkey_-_Stripped_Back.txt,processed_lyrics/Tones_and_I-Dance_Monkey_-_Stripped_Back_bert.npy
+Tones and I,Johnny Run Away,59691180,,1.855610763951559,mel_spectrograms/Tones_and_I-Johnny_Run_Away_mel_spec.npy,lyrics/Tones_and_I-Johnny_Run_Away.txt,processed_lyrics/Tones_and_I-Johnny_Run_Away_bert.npy
+Tom Misch,Me & You ◑,32234363,,2.333245122104443,mel_spectrograms/Tom_Misch-Me___You___mel_spec.npy,lyrics/Tom_Misch-Me_&_You_◑.txt,processed_lyrics/Tom_Misch-Me_&_You_◑_bert.npy
+Tom Misch,Me & You ◑,32234363,,2.333245122104443,mel_spectrograms/Tom_Misch-Me___You___mel_spec.npy,lyrics/Tom_Misch-Me_&_You_◑.txt,processed_lyrics/Tom_Misch-Me_&_You_◑_bert.npy
+Tom Misch,Cos I Love You,7982464,,1.7051997907573988,mel_spectrograms/Tom_Misch-Cos_I_Love_You_mel_spec.npy,lyrics/Tom_Misch-Cos_I_Love_You.txt,processed_lyrics/Tom_Misch-Cos_I_Love_You_bert.npy
+Tom Misch,We've Come So Far,4937905,,1.489082191521493,mel_spectrograms/Tom_Misch-We_ve_Come_So_Far_mel_spec.npy,lyrics/Tom_Misch-We've_Come_So_Far.txt,processed_lyrics/Tom_Misch-We've_Come_So_Far_bert.npy
+Tom Misch,You're On My Mind,14766536,,1.9819764580154815,mel_spectrograms/Tom_Misch-You_re_On_My_Mind_mel_spec.npy,lyrics/Tom_Misch-You're_On_My_Mind.txt,processed_lyrics/Tom_Misch-You're_On_My_Mind_bert.npy
+Tom Misch,Disco Yes,25357497,,2.2252737629115766,mel_spectrograms/Tom_Misch-Disco_Yes_mel_spec.npy,lyrics/Tom_Misch-Disco_Yes.txt,processed_lyrics/Tom_Misch-Disco_Yes_bert.npy
+Tom Misch,Tick Tock,9106980,,1.7645015873291028,mel_spectrograms/Tom_Misch-Tick_Tock_mel_spec.npy,lyrics/Tom_Misch-Tick_Tock.txt,processed_lyrics/Tom_Misch-Tick_Tock_bert.npy
+Tom Misch,Before Paris,7832488,,1.6966654681513678,mel_spectrograms/Tom_Misch-Before_Paris_mel_spec.npy,lyrics/Tom_Misch-Before_Paris.txt,processed_lyrics/Tom_Misch-Before_Paris_bert.npy
+Tom Misch,Man Like You,8096636,,1.7115898858444354,mel_spectrograms/Tom_Misch-Man_Like_You_mel_spec.npy,lyrics/Tom_Misch-Man_Like_You.txt,processed_lyrics/Tom_Misch-Man_Like_You_bert.npy
+Tom Misch,Lost in Paris,28802173,,2.282587825653588,mel_spectrograms/Tom_Misch-Lost_in_Paris_mel_spec.npy,lyrics/Tom_Misch-Lost_in_Paris.txt,processed_lyrics/Tom_Misch-Lost_in_Paris_bert.npy
+Tom Misch,It Runs Through Me (feat. De La Soul),54900301,,2.5728414767853836,mel_spectrograms/Tom_Misch-It_Runs_Through_Me__feat._De_La_Soul__mel_spec.npy,lyrics/Tom_Misch-It_Runs_Through_Me_(feat._De_La_Soul).txt,processed_lyrics/Tom_Misch-It_Runs_Through_Me_(feat._De_La_Soul)_bert.npy
+Tom Misch,Water Baby,13916349,,1.955294294734904,mel_spectrograms/Tom_Misch-Water_Baby_mel_spec.npy,lyrics/Tom_Misch-Water_Baby.txt,processed_lyrics/Tom_Misch-Water_Baby_bert.npy
+Tom Misch,Movie,60756639,,2.618448131139508,mel_spectrograms/Tom_Misch-Movie_mel_spec.npy,lyrics/Tom_Misch-Movie.txt,processed_lyrics/Tom_Misch-Movie_bert.npy
+Tom Misch,South of the River,29563205,,2.2943225912367273,mel_spectrograms/Tom_Misch-South_of_the_River_mel_spec.npy,lyrics/Tom_Misch-South_of_the_River.txt,processed_lyrics/Tom_Misch-South_of_the_River_bert.npy
+Tom Misch,Day 4: Everybody Get Down,7412252,,1.6718521171698408,mel_spectrograms/Tom_Misch-Day_4__Everybody_Get_Down_mel_spec.npy,lyrics/Tom_Misch-Day_4:_Everybody_Get_Down.txt,processed_lyrics/Tom_Misch-Day_4:_Everybody_Get_Down_bert.npy
+Tom Misch,Day 2: Feeling,8517673,,1.7344002976003354,mel_spectrograms/Tom_Misch-Day_2__Feeling_mel_spec.npy,lyrics/Tom_Misch-Day_2:_Feeling.txt,processed_lyrics/Tom_Misch-Day_2:_Feeling_bert.npy
+Tom Misch,Day 3: When You Want to Love,5059184,,1.5,mel_spectrograms/Tom_Misch-Day_3__When_You_Want_to_Love_mel_spec.npy,lyrics/Tom_Misch-Day_3:_When_You_Want_to_Love.txt,processed_lyrics/Tom_Misch-Day_3:_When_You_Want_to_Love_bert.npy
+Tom Misch,Day 1: Ephemeral,4504450,,1.4477421273874471,mel_spectrograms/Tom_Misch-Day_1__Ephemeral_mel_spec.npy,lyrics/Tom_Misch-Day_1:_Ephemeral.txt,processed_lyrics/Tom_Misch-Day_1:_Ephemeral_bert.npy
+Tom Misch,Damselfly,46474444,,2.4978711190367964,mel_spectrograms/Tom_Misch-Damselfly_mel_spec.npy,lyrics/Tom_Misch-Damselfly.txt,processed_lyrics/Tom_Misch-Damselfly_bert.npy
+Tom Misch,Losing My Way,54783,,0.0,mel_spectrograms/Tom_Misch-Losing_My_Way_mel_spec.npy,lyrics/Tom_Misch-Losing_My_Way.txt,processed_lyrics/Tom_Misch-Losing_My_Way_bert.npy
+Tom Misch,Midnight Mischief - Tom Misch Remix,22125758,,2.163930069924344,mel_spectrograms/Tom_Misch-Midnight_Mischief_-_Tom_Misch_Remix_mel_spec.npy,lyrics/Tom_Misch-Midnight_Mischief_-_Tom_Misch_Remix.txt,processed_lyrics/Tom_Misch-Midnight_Mischief_-_Tom_Misch_Remix_bert.npy
+Tom Misch,Follow,12654032,,1.9125084726525736,mel_spectrograms/Tom_Misch-Follow_mel_spec.npy,lyrics/Tom_Misch-Follow.txt,processed_lyrics/Tom_Misch-Follow_bert.npy
+Tom Misch,I Wish,16531782,,2.032786265625115,mel_spectrograms/Tom_Misch-I_Wish_mel_spec.npy,lyrics/Tom_Misch-I_Wish.txt,processed_lyrics/Tom_Misch-I_Wish_bert.npy
+Tom Misch,Crazy Dream,40629568,,2.4373938118136818,mel_spectrograms/Tom_Misch-Crazy_Dream_mel_spec.npy,lyrics/Tom_Misch-Crazy_Dream.txt,processed_lyrics/Tom_Misch-Crazy_Dream_bert.npy
+Tom Misch,Watch Me Dance,12766645,,1.916495107196218,mel_spectrograms/Tom_Misch-Watch_Me_Dance_mel_spec.npy,lyrics/Tom_Misch-Watch_Me_Dance.txt,processed_lyrics/Tom_Misch-Watch_Me_Dance_bert.npy
+Tom Misch,Stay Close,2094846,,1.1032606251675028,mel_spectrograms/Tom_Misch-Stay_Close_mel_spec.npy,lyrics/Tom_Misch-Stay_Close.txt,processed_lyrics/Tom_Misch-Stay_Close_bert.npy
+Tom Misch,Colours of Freedom,7339593,,1.6674196172954945,mel_spectrograms/Tom_Misch-Colours_of_Freedom_mel_spec.npy,lyrics/Tom_Misch-Colours_of_Freedom.txt,processed_lyrics/Tom_Misch-Colours_of_Freedom_bert.npy
+Tom Misch,Beautiful Escape,48649037,,2.518447458586474,mel_spectrograms/Tom_Misch-Beautiful_Escape_mel_spec.npy,lyrics/Tom_Misch-Beautiful_Escape.txt,processed_lyrics/Tom_Misch-Beautiful_Escape_bert.npy
+Tom Misch,Your Love,10408586,,1.8246114526499164,mel_spectrograms/Tom_Misch-Your_Love_mel_spec.npy,lyrics/Tom_Misch-Your_Love.txt,processed_lyrics/Tom_Misch-Your_Love_bert.npy
+Tom Misch,Nightgowns,13020814,,1.9253652428781587,mel_spectrograms/Tom_Misch-Nightgowns_mel_spec.npy,lyrics/Tom_Misch-Nightgowns.txt,processed_lyrics/Tom_Misch-Nightgowns_bert.npy
+Tom Misch,Wander With Me,14946135,,1.987416092058038,mel_spectrograms/Tom_Misch-Wander_With_Me_mel_spec.npy,lyrics/Tom_Misch-Wander_With_Me.txt,processed_lyrics/Tom_Misch-Wander_With_Me_bert.npy
+Tom Misch,Wake Up This Day,18802099,,2.090688599363272,mel_spectrograms/Tom_Misch-Wake_Up_This_Day_mel_spec.npy,lyrics/Tom_Misch-Wake_Up_This_Day.txt,processed_lyrics/Tom_Misch-Wake_Up_This_Day_bert.npy
+Tom Misch,In the Midst of It All,27787836,,2.266455714384895,mel_spectrograms/Tom_Misch-In_the_Midst_of_It_All_mel_spec.npy,lyrics/Tom_Misch-In_the_Midst_of_It_All.txt,processed_lyrics/Tom_Misch-In_the_Midst_of_It_All_bert.npy
+Tom Misch,No Peace,1136684,,0.8281721823865248,mel_spectrograms/Tom_Misch-No_Peace_mel_spec.npy,lyrics/Tom_Misch-No_Peace.txt,processed_lyrics/Tom_Misch-No_Peace_bert.npy
+Tom Misch,Sunshine,12601907,,1.9106511586487336,mel_spectrograms/Tom_Misch-Sunshine_mel_spec.npy,lyrics/Tom_Misch-Sunshine.txt,processed_lyrics/Tom_Misch-Sunshine_bert.npy
+Tom Misch,With You,4059610,,1.4009559814968622,mel_spectrograms/Tom_Misch-With_You_mel_spec.npy,lyrics/Tom_Misch-With_You.txt,processed_lyrics/Tom_Misch-With_You_bert.npy
+Tom Misch,Release You,6644269,,1.6226358594347816,mel_spectrograms/Tom_Misch-Release_You_mel_spec.npy,lyrics/Tom_Misch-Release_You.txt,processed_lyrics/Tom_Misch-Release_You_bert.npy
+Tom Misch,Outro,2451062,,1.1739226465347938,mel_spectrograms/Tom_Misch-Outro_mel_spec.npy,lyrics/Tom_Misch-Outro.txt,processed_lyrics/Tom_Misch-Outro_bert.npy
+Tom Misch,Paper Planes,4593478,,1.4565485615335727,mel_spectrograms/Tom_Misch-Paper_Planes_mel_spec.npy,lyrics/Tom_Misch-Paper_Planes.txt,processed_lyrics/Tom_Misch-Paper_Planes_bert.npy
+Tom Misch,So Close,12148574,,1.894166330213136,mel_spectrograms/Tom_Misch-So_Close_mel_spec.npy,lyrics/Tom_Misch-So_Close.txt,processed_lyrics/Tom_Misch-So_Close_bert.npy
+Tom Misch,Memory,7275725,,1.663487015660054,mel_spectrograms/Tom_Misch-Memory_mel_spec.npy,lyrics/Tom_Misch-Memory.txt,processed_lyrics/Tom_Misch-Memory_bert.npy
+Tom Misch,You Got Me Flying,872185,,0.708992325903127,mel_spectrograms/Tom_Misch-You_Got_Me_Flying_mel_spec.npy,lyrics/Tom_Misch-You_Got_Me_Flying.txt,processed_lyrics/Tom_Misch-You_Got_Me_Flying_bert.npy
+Boy Pablo,Losing You,39722916,,2.5004217937490187,mel_spectrograms/Boy_Pablo-Losing_You_mel_spec.npy,lyrics/Boy_Pablo-Losing_You.txt,processed_lyrics/Boy_Pablo-Losing_You_bert.npy
+Boy Pablo,Ready / Problems,12711522,,1.5,mel_spectrograms/Boy_Pablo-Ready___Problems_mel_spec.npy,lyrics/Boy_Pablo-Ready___Problems.txt,processed_lyrics/Boy_Pablo-Ready___Problems_bert.npy
+Boy Pablo,Everytime,72722525,,2.010458219220192,mel_spectrograms/Boy_Pablo-Everytime_mel_spec.npy,lyrics/Boy_Pablo-Everytime.txt,processed_lyrics/Boy_Pablo-Everytime_bert.npy
+Boy Pablo,"Dance, Baby!",69907389,,2.996710975010828,mel_spectrograms/Boy_Pablo-Dance__Baby__mel_spec.npy,"lyrics/Boy_Pablo-Dance,_Baby!.txt","processed_lyrics/Boy_Pablo-Dance,_Baby!_bert.npy"
+Boy Pablo,Yeah (Fantasizing),7740138,,1.0644285861923235,mel_spectrograms/Boy_Pablo-Yeah__Fantasizing__mel_spec.npy,lyrics/Boy_Pablo-Yeah_(Fantasizing).txt,processed_lyrics/Boy_Pablo-Yeah_(Fantasizing)_bert.npy
+Boy Pablo,imreallytiredthisdaysucks,8648884,,1.1618971665187603,mel_spectrograms/Boy_Pablo-imreallytiredthisdaysucks_mel_spec.npy,lyrics/Boy_Pablo-imreallytiredthisdaysucks.txt,processed_lyrics/Boy_Pablo-imreallytiredthisdaysucks_bert.npy
+Boy Pablo,ur phone,12192341,,1.4633862250947145,mel_spectrograms/Boy_Pablo-ur_phone_mel_spec.npy,lyrics/Boy_Pablo-ur_phone.txt,processed_lyrics/Boy_Pablo-ur_phone_bert.npy
+Boy Pablo,Beach House,14327932,,1.605099646658971,mel_spectrograms/Boy_Pablo-Beach_House_mel_spec.npy,lyrics/Boy_Pablo-Beach_House.txt,processed_lyrics/Boy_Pablo-Beach_House_bert.npy
+Boy Pablo,Flowers,8393721,,1.1356039531551942,mel_spectrograms/Boy_Pablo-Flowers_mel_spec.npy,lyrics/Boy_Pablo-Flowers.txt,processed_lyrics/Boy_Pablo-Flowers_bert.npy
+Yellow Days,The Way Things Change,24345224,,2.5468135079387357,mel_spectrograms/Yellow_Days-The_Way_Things_Change_mel_spec.npy,lyrics/Yellow_Days-The_Way_Things_Change.txt,processed_lyrics/Yellow_Days-The_Way_Things_Change_bert.npy
+Yellow Days,A Smiling Face,1567949,,0.9049048114671584,mel_spectrograms/Yellow_Days-A_Smiling_Face_mel_spec.npy,lyrics/Yellow_Days-A_Smiling_Face.txt,processed_lyrics/Yellow_Days-A_Smiling_Face_bert.npy
+Yellow Days,I've Been Thinking Too Hard,6985341,,1.7993535585622786,mel_spectrograms/Yellow_Days-I_ve_Been_Thinking_Too_Hard_mel_spec.npy,lyrics/Yellow_Days-I've_Been_Thinking_Too_Hard.txt,processed_lyrics/Yellow_Days-I've_Been_Thinking_Too_Hard_bert.npy
+Yellow Days,Outro (Lost in a World with You),1219384,,0.754384269537314,mel_spectrograms/Yellow_Days-Outro__Lost_in_a_World_with_You__mel_spec.npy,lyrics/Yellow_Days-Outro_(Lost_in_a_World_with_You).txt,processed_lyrics/Yellow_Days-Outro_(Lost_in_a_World_with_You)_bert.npy
+Yellow Days,Weight of the World,1275178,,0.7811689877741356,mel_spectrograms/Yellow_Days-Weight_of_the_World_mel_spec.npy,lyrics/Yellow_Days-Weight_of_the_World.txt,processed_lyrics/Yellow_Days-Weight_of_the_World_bert.npy
+Yellow Days,Tired,1787381,,0.9833211496652312,mel_spectrograms/Yellow_Days-Tired_mel_spec.npy,lyrics/Yellow_Days-Tired.txt,processed_lyrics/Yellow_Days-Tired_bert.npy
+Yellow Days,A Bag of Dutch,2172442,,1.1001230419186043,mel_spectrograms/Yellow_Days-A_Bag_of_Dutch_mel_spec.npy,lyrics/Yellow_Days-A_Bag_of_Dutch.txt,processed_lyrics/Yellow_Days-A_Bag_of_Dutch_bert.npy
+Yellow Days,The Tree I Climb,2271630,,1.1268513692574111,mel_spectrograms/Yellow_Days-The_Tree_I_Climb_mel_spec.npy,lyrics/Yellow_Days-The_Tree_I_Climb.txt,processed_lyrics/Yellow_Days-The_Tree_I_Climb_bert.npy
+Yellow Days,Lately I (feat. Rejjie Snow),2833990,,1.259271237165541,mel_spectrograms/Yellow_Days-Lately_I__feat._Rejjie_Snow__mel_spec.npy,lyrics/Yellow_Days-Lately_I_(feat._Rejjie_Snow).txt,processed_lyrics/Yellow_Days-Lately_I_(feat._Rejjie_Snow)_bert.npy
+Yellow Days,Nothing's Going to Keep Me Down,8458179,,1.913892279476071,mel_spectrograms/Yellow_Days-Nothing_s_Going_to_Keep_Me_Down_mel_spec.npy,lyrics/Yellow_Days-Nothing's_Going_to_Keep_Me_Down.txt,processed_lyrics/Yellow_Days-Nothing's_Going_to_Keep_Me_Down_bert.npy
+Yellow Days,Holding On,3960501,,1.4596389860647572,mel_spectrograms/Yellow_Days-Holding_On_mel_spec.npy,lyrics/Yellow_Days-Holding_On.txt,processed_lyrics/Yellow_Days-Holding_On_bert.npy
+Yellow Days,I Believe in Love,4623353,,1.5522838667877568,mel_spectrograms/Yellow_Days-I_Believe_in_Love_mel_spec.npy,lyrics/Yellow_Days-I_Believe_in_Love.txt,processed_lyrics/Yellow_Days-I_Believe_in_Love_bert.npy
+Yellow Days,Hurt in Love,4532188,,1.540361013935242,mel_spectrograms/Yellow_Days-Hurt_in_Love_mel_spec.npy,lyrics/Yellow_Days-Hurt_in_Love.txt,processed_lyrics/Yellow_Days-Hurt_in_Love_bert.npy
+Yellow Days,That Easy,12235388,,2.1349225205992224,mel_spectrograms/Yellow_Days-That_Easy_mel_spec.npy,lyrics/Yellow_Days-That_Easy.txt,processed_lyrics/Yellow_Days-That_Easy_bert.npy
+Yellow Days,Go Home,4921076,,1.589645432151224,mel_spectrograms/Yellow_Days-Go_Home_mel_spec.npy,lyrics/Yellow_Days-Go_Home.txt,processed_lyrics/Yellow_Days-Go_Home_bert.npy
+Yellow Days,A Little While,43597972,,2.8956469675070413,mel_spectrograms/Yellow_Days-A_Little_While_mel_spec.npy,lyrics/Yellow_Days-A_Little_While.txt,processed_lyrics/Yellow_Days-A_Little_While_bert.npy
+Yellow Days,Intro,178954,,0.0,mel_spectrograms/Yellow_Days-Intro_mel_spec.npy,lyrics/Yellow_Days-Intro.txt,processed_lyrics/Yellow_Days-Intro_bert.npy
+Yellow Days,Outro (Baked in the Sunshine),3667433,,1.4136136478963772,mel_spectrograms/Yellow_Days-Outro__Baked_in_the_Sunshine__mel_spec.npy,lyrics/Yellow_Days-Outro_(Baked_in_the_Sunshine).txt,processed_lyrics/Yellow_Days-Outro_(Baked_in_the_Sunshine)_bert.npy
+Yellow Days,People,6326128,,1.740009544452391,mel_spectrograms/Yellow_Days-People_mel_spec.npy,lyrics/Yellow_Days-People.txt,processed_lyrics/Yellow_Days-People_bert.npy
+Yellow Days,Interlude (It's Alright),1985162,,1.0461516191780753,mel_spectrograms/Yellow_Days-Interlude__It_s_Alright__mel_spec.npy,lyrics/Yellow_Days-Interlude_(It's_Alright).txt,processed_lyrics/Yellow_Days-Interlude_(It's_Alright)_bert.npy
+Yellow Days,Gap in the Clouds,37545935,,2.8061775332349006,mel_spectrograms/Yellow_Days-Gap_in_the_Clouds_mel_spec.npy,lyrics/Yellow_Days-Gap_in_the_Clouds.txt,processed_lyrics/Yellow_Days-Gap_in_the_Clouds_bert.npy
+Yellow Days,Your Hand Holding Mine,23398568,,2.5230695022435032,mel_spectrograms/Yellow_Days-Your_Hand_Holding_Mine_mel_spec.npy,lyrics/Yellow_Days-Your_Hand_Holding_Mine.txt,processed_lyrics/Yellow_Days-Your_Hand_Holding_Mine_bert.npy
+Gus Dapperton,I'm Just Snacking,45775984,,1.6270503259248996,mel_spectrograms/Gus_Dapperton-I_m_Just_Snacking_mel_spec.npy,lyrics/Gus_Dapperton-I'm_Just_Snacking.txt,processed_lyrics/Gus_Dapperton-I'm_Just_Snacking_bert.npy
+Gus Dapperton,Ditch,23553627,,1.5,mel_spectrograms/Gus_Dapperton-Ditch_mel_spec.npy,lyrics/Gus_Dapperton-Ditch.txt,processed_lyrics/Gus_Dapperton-Ditch_bert.npy
+Gus Dapperton,"Moodna, Once With Grace",24562965,,1.5080228651364138,mel_spectrograms/Gus_Dapperton-Moodna__Once_With_Grace_mel_spec.npy,"lyrics/Gus_Dapperton-Moodna,_Once_With_Grace.txt","processed_lyrics/Gus_Dapperton-Moodna,_Once_With_Grace_bert.npy"
+Gus Dapperton,Faceless,7225107,,1.2740523803850512,mel_spectrograms/Gus_Dapperton-Faceless_mel_spec.npy,lyrics/Gus_Dapperton-Faceless.txt,processed_lyrics/Gus_Dapperton-Faceless_bert.npy
+Gus Dapperton,Pumped Up Kicks - Gus Dapperton Version,1291,,0.0,mel_spectrograms/Gus_Dapperton-Pumped_Up_Kicks_-_Gus_Dapperton_Version_mel_spec.npy,lyrics/Gus_Dapperton-Pumped_Up_Kicks_-_Gus_Dapperton_Version.txt,processed_lyrics/Gus_Dapperton-Pumped_Up_Kicks_-_Gus_Dapperton_Version_bert.npy
+Crumb,Thirty-Nine,4148042,,0.2238999327660871,mel_spectrograms/Crumb-Thirty-Nine_mel_spec.npy,lyrics/Crumb-Thirty-Nine.txt,processed_lyrics/Crumb-Thirty-Nine_bert.npy
+Crumb,Recently Played,12171552,,1.3773394117864648,mel_spectrograms/Crumb-Recently_Played_mel_spec.npy,lyrics/Crumb-Recently_Played.txt,processed_lyrics/Crumb-Recently_Played_bert.npy
+Crumb,Locket,42982320,,2.729246106588545,mel_spectrograms/Crumb-Locket_mel_spec.npy,lyrics/Crumb-Locket.txt,processed_lyrics/Crumb-Locket_bert.npy
+Crumb,Plants,24033823,,2.106350534493646,mel_spectrograms/Crumb-Plants_mel_spec.npy,lyrics/Crumb-Plants.txt,processed_lyrics/Crumb-Plants_bert.npy
+Crumb,So Tired,13647772,,1.5,mel_spectrograms/Crumb-So_Tired_mel_spec.npy,lyrics/Crumb-So_Tired.txt,processed_lyrics/Crumb-So_Tired_bert.npy
+Crumb,Bones,27236607,,2.240395806932166,mel_spectrograms/Crumb-Bones_mel_spec.npy,lyrics/Crumb-Bones.txt,processed_lyrics/Crumb-Bones_bert.npy
+Crumb,Vinta,11952556,,1.3578848359429627,mel_spectrograms/Crumb-Vinta_mel_spec.npy,lyrics/Crumb-Vinta.txt,processed_lyrics/Crumb-Vinta_bert.npy
+Summer Salt,Time Away from Home - Remastered 2024,8077966,,1.5,mel_spectrograms/Summer_Salt-Time_Away_from_Home_-_Remastered_2024_mel_spec.npy,lyrics/Summer_Salt-Time_Away_from_Home_-_Remastered_2024.txt,processed_lyrics/Summer_Salt-Time_Away_from_Home_-_Remastered_2024_bert.npy
+Summer Salt,Give My Heart a Little Break,4797374,,0.9188755023278872,mel_spectrograms/Summer_Salt-Give_My_Heart_a_Little_Break_mel_spec.npy,lyrics/Summer_Salt-Give_My_Heart_a_Little_Break.txt,processed_lyrics/Summer_Salt-Give_My_Heart_a_Little_Break_bert.npy
+Summer Salt,Tidal Waves,6364630,,1.234142415041648,mel_spectrograms/Summer_Salt-Tidal_Waves_mel_spec.npy,lyrics/Summer_Salt-Tidal_Waves.txt,processed_lyrics/Summer_Salt-Tidal_Waves_bert.npy
+Summer Salt,Sweet to Me,27842578,,2.8800388666704446,mel_spectrograms/Summer_Salt-Sweet_to_Me_mel_spec.npy,lyrics/Summer_Salt-Sweet_to_Me.txt,processed_lyrics/Summer_Salt-Sweet_to_Me_bert.npy
+Summer Salt,Time Away from Home,6486447,,1.255286228012668,mel_spectrograms/Summer_Salt-Time_Away_from_Home_mel_spec.npy,lyrics/Summer_Salt-Time_Away_from_Home.txt,processed_lyrics/Summer_Salt-Time_Away_from_Home_bert.npy
+Summer Salt,Driving to Hawaii,29189566,,2.9327286943462214,mel_spectrograms/Summer_Salt-Driving_to_Hawaii_mel_spec.npy,lyrics/Summer_Salt-Driving_to_Hawaii.txt,processed_lyrics/Summer_Salt-Driving_to_Hawaii_bert.npy
+Summer Salt,Rockaway,9711157,,1.705356784731752,mel_spectrograms/Summer_Salt-Rockaway_mel_spec.npy,lyrics/Summer_Salt-Rockaway.txt,processed_lyrics/Summer_Salt-Rockaway_bert.npy
+Benee,Blu,6033491,,1.06988253692262,mel_spectrograms/Benee-Blu_mel_spec.npy,lyrics/Benee-Blu.txt,processed_lyrics/Benee-Blu_bert.npy
+Benee,Monsta,10460796,,1.3698809314320304,mel_spectrograms/Benee-Monsta_mel_spec.npy,lyrics/Benee-Monsta.txt,processed_lyrics/Benee-Monsta_bert.npy
+Benee,Find an Island,32884056,,1.9942652981319449,mel_spectrograms/Benee-Find_an_Island_mel_spec.npy,lyrics/Benee-Find_an_Island.txt,processed_lyrics/Benee-Find_an_Island_bert.npy
+Benee,Kua Kore He Kupu / Soaked,1571569,,0.3365249028066082,mel_spectrograms/Benee-Kua_Kore_He_Kupu___Soaked_mel_spec.npy,lyrics/Benee-Kua_Kore_He_Kupu___Soaked.txt,processed_lyrics/Benee-Kua_Kore_He_Kupu___Soaked_bert.npy
+Benee,Wishful Thinking,19833142,,1.7186213834072264,mel_spectrograms/Benee-Wishful_Thinking_mel_spec.npy,lyrics/Benee-Wishful_Thinking.txt,processed_lyrics/Benee-Wishful_Thinking_bert.npy
+Benee,Glitter,99548339,,2.5980988213234637,mel_spectrograms/Benee-Glitter_mel_spec.npy,lyrics/Benee-Glitter.txt,processed_lyrics/Benee-Glitter_bert.npy
+Benee,Want Me Back,16861083,,1.6301190685679696,mel_spectrograms/Benee-Want_Me_Back_mel_spec.npy,lyrics/Benee-Want_Me_Back.txt,processed_lyrics/Benee-Want_Me_Back_bert.npy
+Benee,Evil Spider,17987709,,1.6653793628575149,mel_spectrograms/Benee-Evil_Spider_mel_spec.npy,lyrics/Benee-Evil_Spider.txt,processed_lyrics/Benee-Evil_Spider_bert.npy
+Benee,Supalonely,452154180,,2.14103709120014,mel_spectrograms/Benee-Supalonely_mel_spec.npy,lyrics/Benee-Supalonely.txt,processed_lyrics/Benee-Supalonely_bert.npy
+Benee,Soaked,53094144,,2.2554329707054848,mel_spectrograms/Benee-Soaked_mel_spec.npy,lyrics/Benee-Soaked.txt,processed_lyrics/Benee-Soaked_bert.npy
+Surfaces,This View,14342289,,1.970389774399322,mel_spectrograms/Surfaces-This_View_mel_spec.npy,lyrics/Surfaces-This_View.txt,processed_lyrics/Surfaces-This_View_bert.npy
+Surfaces,Grace,12431681,,1.916774441869352,mel_spectrograms/Surfaces-Grace_mel_spec.npy,lyrics/Surfaces-Grace.txt,processed_lyrics/Surfaces-Grace_bert.npy
+Surfaces,Someday,4764444,,1.557099305608287,mel_spectrograms/Surfaces-Someday_mel_spec.npy,lyrics/Surfaces-Someday.txt,processed_lyrics/Surfaces-Someday_bert.npy
+Surfaces,Home,2524942,,1.3189718229112044,mel_spectrograms/Surfaces-Home_mel_spec.npy,lyrics/Surfaces-Home.txt,processed_lyrics/Surfaces-Home_bert.npy
+Surfaces,Sunday Best,183333355,,2.9259911670325973,mel_spectrograms/Surfaces-Sunday_Best_mel_spec.npy,lyrics/Surfaces-Sunday_Best.txt,processed_lyrics/Surfaces-Sunday_Best_bert.npy
+Surfaces,Where The Light Is,8138335,,1.7578899903663183,mel_spectrograms/Surfaces-Where_The_Light_Is_mel_spec.npy,lyrics/Surfaces-Where_The_Light_Is.txt,processed_lyrics/Surfaces-Where_The_Light_Is_bert.npy
+Surfaces,Ocean Breeze - Acoustic,575125,,0.7641641014005349,mel_spectrograms/Surfaces-Ocean_Breeze_-_Acoustic_mel_spec.npy,lyrics/Surfaces-Ocean_Breeze_-_Acoustic.txt,processed_lyrics/Surfaces-Ocean_Breeze_-_Acoustic_bert.npy
+Surfaces,Kid Kingdoms - Acoustic,722705,,0.8498250514714806,mel_spectrograms/Surfaces-Kid_Kingdoms_-_Acoustic_mel_spec.npy,lyrics/Surfaces-Kid_Kingdoms_-_Acoustic.txt,processed_lyrics/Surfaces-Kid_Kingdoms_-_Acoustic_bert.npy
+Surfaces,Loving - Acoustic,675133,,0.8242890384086017,mel_spectrograms/Surfaces-Loving_-_Acoustic_mel_spec.npy,lyrics/Surfaces-Loving_-_Acoustic.txt,processed_lyrics/Surfaces-Loving_-_Acoustic_bert.npy
+Surfaces,Heaven Falls / Fall on Me,44500609,,2.39502812610855,mel_spectrograms/Surfaces-Heaven_Falls___Fall_on_Me_mel_spec.npy,lyrics/Surfaces-Heaven_Falls___Fall_on_Me.txt,processed_lyrics/Surfaces-Heaven_Falls___Fall_on_Me_bert.npy
+Surfaces,Shine On Top,14639523,,1.9780824876040328,mel_spectrograms/Surfaces-Shine_On_Top_mel_spec.npy,lyrics/Surfaces-Shine_On_Top.txt,processed_lyrics/Surfaces-Shine_On_Top_bert.npy
+Surfaces,Low,4301305,,1.51874826061426,mel_spectrograms/Surfaces-Low_mel_spec.npy,lyrics/Surfaces-Low.txt,processed_lyrics/Surfaces-Low_bert.npy
+Surfaces,Ocean Breeze,4547636,,1.5396331069280496,mel_spectrograms/Surfaces-Ocean_Breeze_mel_spec.npy,lyrics/Surfaces-Ocean_Breeze.txt,processed_lyrics/Surfaces-Ocean_Breeze_bert.npy
+Surfaces,Stay,4091561,,1.5,mel_spectrograms/Surfaces-Stay_mel_spec.npy,lyrics/Surfaces-Stay.txt,processed_lyrics/Surfaces-Stay_bert.npy
+Surfaces,The Way,1108974,,1.0104070455550642,mel_spectrograms/Surfaces-The_Way_mel_spec.npy,lyrics/Surfaces-The_Way.txt,processed_lyrics/Surfaces-The_Way_bert.npy
+Surfaces,24 / 7 / 365,56651285,,2.485563828548469,mel_spectrograms/Surfaces-24___7___365_mel_spec.npy,lyrics/Surfaces-24___7___365.txt,processed_lyrics/Surfaces-24___7___365_bert.npy
+Surfaces,Seattle Interlude,891628,,0.9285983761341003,mel_spectrograms/Surfaces-Seattle_Interlude_mel_spec.npy,lyrics/Surfaces-Seattle_Interlude.txt,processed_lyrics/Surfaces-Seattle_Interlude_bert.npy
+Surfaces,Islands,1138732,,1.0203377628154011,mel_spectrograms/Surfaces-Islands_mel_spec.npy,lyrics/Surfaces-Islands.txt,processed_lyrics/Surfaces-Islands_bert.npy
+Surfaces,Alone,2075121,,1.2453922655257057,mel_spectrograms/Surfaces-Alone_mel_spec.npy,lyrics/Surfaces-Alone.txt,processed_lyrics/Surfaces-Alone_bert.npy
+Surfaces,Kid Kingdoms,1706632,,1.172075607967757,mel_spectrograms/Surfaces-Kid_Kingdoms_mel_spec.npy,lyrics/Surfaces-Kid_Kingdoms.txt,processed_lyrics/Surfaces-Kid_Kingdoms_bert.npy
+Surfaces,Loving,15996463,,2.011325807615692,mel_spectrograms/Surfaces-Loving_mel_spec.npy,lyrics/Surfaces-Loving.txt,processed_lyrics/Surfaces-Loving_bert.npy
+Surfaces,Falling,5472787,,1.609080581651314,mel_spectrograms/Surfaces-Falling_mel_spec.npy,lyrics/Surfaces-Falling.txt,processed_lyrics/Surfaces-Falling_bert.npy
+Surfaces,Be Alright,5599227,,1.617646384127586,mel_spectrograms/Surfaces-Be_Alright_mel_spec.npy,lyrics/Surfaces-Be_Alright.txt,processed_lyrics/Surfaces-Be_Alright_bert.npy
+Surfaces,Sheesh!,875388,,0.9217047349776776,mel_spectrograms/Surfaces-Sheesh__mel_spec.npy,lyrics/Surfaces-Sheesh!.txt,processed_lyrics/Surfaces-Sheesh!_bert.npy
+Powfu,So Long,164267,,0.4697698332728697,mel_spectrograms/Powfu-So_Long_mel_spec.npy,lyrics/Powfu-So_Long.txt,processed_lyrics/Powfu-So_Long_bert.npy
+Powfu,make you mine (feat. Powfu),4664596,,1.8002779812111207,mel_spectrograms/Powfu-make_you_mine__feat._Powfu__mel_spec.npy,lyrics/Powfu-make_you_mine_(feat._Powfu).txt,processed_lyrics/Powfu-make_you_mine_(feat._Powfu)_bert.npy
+Powfu,Won't Be the Last Time,361118,,0.78297116996326,mel_spectrograms/Powfu-Won_t_Be_the_Last_Time_mel_spec.npy,lyrics/Powfu-Won't_Be_the_Last_Time.txt,processed_lyrics/Powfu-Won't_Be_the_Last_Time_bert.npy
+Powfu,the day i died,4639566,,1.7981386761460345,mel_spectrograms/Powfu-the_day_i_died_mel_spec.npy,lyrics/Powfu-the_day_i_died.txt,processed_lyrics/Powfu-the_day_i_died_bert.npy
+Powfu,don't fall asleep yet,6432395,,1.928048487253475,mel_spectrograms/Powfu-don_t_fall_asleep_yet_mel_spec.npy,lyrics/Powfu-don't_fall_asleep_yet.txt,processed_lyrics/Powfu-don't_fall_asleep_yet_bert.npy
+Powfu,Are You Okay?,6420278,,1.9272987831469697,mel_spectrograms/Powfu-Are_You_Okay__mel_spec.npy,lyrics/Powfu-Are_You_Okay?.txt,processed_lyrics/Powfu-Are_You_Okay?_bert.npy
+Powfu,Betrayal,583040,,0.9734466149811052,mel_spectrograms/Powfu-Betrayal_mel_spec.npy,lyrics/Powfu-Betrayal.txt,processed_lyrics/Powfu-Betrayal_bert.npy
+Powfu,Laying on my porch while we watch the world end.,14275553,,2.2450244082737765,mel_spectrograms/Powfu-Laying_on_my_porch_while_we_watch_the_world_end._mel_spec.npy,lyrics/Powfu-Laying_on_my_porch_while_we_watch_the_world_end..txt,processed_lyrics/Powfu-Laying_on_my_porch_while_we_watch_the_world_end._bert.npy
+Powfu,Hide in Your Blue Eyes,2554363,,1.5608374775627458,mel_spectrograms/Powfu-Hide_in_Your_Blue_Eyes_mel_spec.npy,lyrics/Powfu-Hide_in_Your_Blue_Eyes.txt,processed_lyrics/Powfu-Hide_in_Your_Blue_Eyes_bert.npy
+Powfu,We Need a Break,131091,,0.3800688847630471,mel_spectrograms/Powfu-We_Need_a_Break_mel_spec.npy,lyrics/Powfu-We_Need_a_Break.txt,processed_lyrics/Powfu-We_Need_a_Break_bert.npy
+Powfu,about you,2135122,,1.489554204075297,mel_spectrograms/Powfu-about_you_mel_spec.npy,lyrics/Powfu-about_you.txt,processed_lyrics/Powfu-about_you_bert.npy
+Powfu,Fall in Love,321155,,0.7363391524788385,mel_spectrograms/Powfu-Fall_in_Love_mel_spec.npy,lyrics/Powfu-Fall_in_Love.txt,processed_lyrics/Powfu-Fall_in_Love_bert.npy
+Powfu,Hear my thoughts,6580364,,1.9370913967376395,mel_spectrograms/Powfu-Hear_my_thoughts_mel_spec.npy,lyrics/Powfu-Hear_my_thoughts.txt,processed_lyrics/Powfu-Hear_my_thoughts_bert.npy
+Powfu,when things were awkward,3005640,,1.6255238209837832,mel_spectrograms/Powfu-when_things_were_awkward_mel_spec.npy,lyrics/Powfu-when_things_were_awkward.txt,processed_lyrics/Powfu-when_things_were_awkward_bert.npy
+Powfu,step into my life,10125654,,2.1084545336283864,mel_spectrograms/Powfu-step_into_my_life_mel_spec.npy,lyrics/Powfu-step_into_my_life.txt,processed_lyrics/Powfu-step_into_my_life_bert.npy
+Powfu,Dead Eyes,48097779,,2.727997272608155,mel_spectrograms/Powfu-Dead_Eyes_mel_spec.npy,lyrics/Powfu-Dead_Eyes.txt,processed_lyrics/Powfu-Dead_Eyes_bert.npy
+Powfu,Letters in December,4634332,,1.7976898692360812,mel_spectrograms/Powfu-Letters_in_December_mel_spec.npy,lyrics/Powfu-Letters_in_December.txt,processed_lyrics/Powfu-Letters_in_December_bert.npy
+Powfu,when we were 16,8453534,,2.036690710718836,mel_spectrograms/Powfu-when_we_were_16_mel_spec.npy,lyrics/Powfu-when_we_were_16.txt,processed_lyrics/Powfu-when_we_were_16_bert.npy
+Powfu,tell me when you change,3727194,,1.7110757841994977,mel_spectrograms/Powfu-tell_me_when_you_change_mel_spec.npy,lyrics/Powfu-tell_me_when_you_change.txt,processed_lyrics/Powfu-tell_me_when_you_change_bert.npy
+Powfu,Mindurmanners,5150059,,1.8396442038819107,mel_spectrograms/Powfu-Mindurmanners_mel_spec.npy,lyrics/Powfu-Mindurmanners.txt,processed_lyrics/Powfu-Mindurmanners_bert.npy
+Powfu,All Again,3072471,,1.6342679160639386,mel_spectrograms/Powfu-All_Again_mel_spec.npy,lyrics/Powfu-All_Again.txt,processed_lyrics/Powfu-All_Again_bert.npy
+Powfu,I Can See the Light,108054,,0.303227013221897,mel_spectrograms/Powfu-I_Can_See_the_Light_mel_spec.npy,lyrics/Powfu-I_Can_See_the_Light.txt,processed_lyrics/Powfu-I_Can_See_the_Light_bert.npy
+Powfu,Koolaid Summers,2316431,,1.5219610018066885,mel_spectrograms/Powfu-Koolaid_Summers_mel_spec.npy,lyrics/Powfu-Koolaid_Summers.txt,processed_lyrics/Powfu-Koolaid_Summers_bert.npy
+Powfu,Chocolate Milk,124492,,0.3595323351824555,mel_spectrograms/Powfu-Chocolate_Milk_mel_spec.npy,lyrics/Powfu-Chocolate_Milk.txt,processed_lyrics/Powfu-Chocolate_Milk_bert.npy
+Powfu,Break Ups Suck Ass,7274690,,1.9769761836194408,mel_spectrograms/Powfu-Break_Ups_Suck_Ass_mel_spec.npy,lyrics/Powfu-Break_Ups_Suck_Ass.txt,processed_lyrics/Powfu-Break_Ups_Suck_Ass_bert.npy
+Powfu,Would Look Perfect,23179946,,2.437761869812098,mel_spectrograms/Powfu-Would_Look_Perfect_mel_spec.npy,lyrics/Powfu-Would_Look_Perfect.txt,processed_lyrics/Powfu-Would_Look_Perfect_bert.npy
+Powfu,"Different Class, Same Boat",5322233,,1.852719545881765,mel_spectrograms/Powfu-Different_Class__Same_Boat_mel_spec.npy,"lyrics/Powfu-Different_Class,_Same_Boat.txt","processed_lyrics/Powfu-Different_Class,_Same_Boat_bert.npy"
+Powfu,Separate from You,812242,,1.105271316756054,mel_spectrograms/Powfu-Separate_from_You_mel_spec.npy,lyrics/Powfu-Separate_from_You.txt,processed_lyrics/Powfu-Separate_from_You_bert.npy
+Powfu,Bored Without You,449642,,0.8701459049737161,mel_spectrograms/Powfu-Bored_Without_You_mel_spec.npy,lyrics/Powfu-Bored_Without_You.txt,processed_lyrics/Powfu-Bored_Without_You_bert.npy
+Powfu,"Long Fights, Short Tempers",2535948,,1.5579606269601936,mel_spectrograms/Powfu-Long_Fights__Short_Tempers_mel_spec.npy,"lyrics/Powfu-Long_Fights,_Short_Tempers.txt","processed_lyrics/Powfu-Long_Fights,_Short_Tempers_bert.npy"
+Powfu,Letter to the Rich,242440,,0.6245434758320546,mel_spectrograms/Powfu-Letter_to_the_Rich_mel_spec.npy,lyrics/Powfu-Letter_to_the_Rich.txt,processed_lyrics/Powfu-Letter_to_the_Rich_bert.npy
+Powfu,Imagine You,477352,,0.8939239556830588,mel_spectrograms/Powfu-Imagine_You_mel_spec.npy,lyrics/Powfu-Imagine_You.txt,processed_lyrics/Powfu-Imagine_You_bert.npy
+Powfu,Thoughts,251641,,0.6393541050433047,mel_spectrograms/Powfu-Thoughts_mel_spec.npy,lyrics/Powfu-Thoughts.txt,processed_lyrics/Powfu-Thoughts_bert.npy
+Powfu,All My Friends,400684,,0.8243099859969043,mel_spectrograms/Powfu-All_My_Friends_mel_spec.npy,lyrics/Powfu-All_My_Friends.txt,processed_lyrics/Powfu-All_My_Friends_bert.npy
+Powfu,Patient,54059,,0.0278633103167091,mel_spectrograms/Powfu-Patient_mel_spec.npy,lyrics/Powfu-Patient.txt,processed_lyrics/Powfu-Patient_bert.npy
+Powfu,I Miss the Old You,2088711,,1.4808160511811177,mel_spectrograms/Powfu-I_Miss_the_Old_You_mel_spec.npy,lyrics/Powfu-I_Miss_the_Old_You.txt,processed_lyrics/Powfu-I_Miss_the_Old_You_bert.npy
+Powfu,Feel Inside,29720,,0.0,mel_spectrograms/Powfu-Feel_Inside_mel_spec.npy,lyrics/Powfu-Feel_Inside.txt,processed_lyrics/Powfu-Feel_Inside_bert.npy
+Powfu,What This Means,2042271,,1.4718758936061127,mel_spectrograms/Powfu-What_This_Means_mel_spec.npy,lyrics/Powfu-What_This_Means.txt,processed_lyrics/Powfu-What_This_Means_bert.npy
+Powfu,Met at a Party,2245982,,1.5096808780039426,mel_spectrograms/Powfu-Met_at_a_Party_mel_spec.npy,lyrics/Powfu-Met_at_a_Party.txt,processed_lyrics/Powfu-Met_at_a_Party_bert.npy
+Powfu,I Won't Let U Down,1488962,,1.3462376333697934,mel_spectrograms/Powfu-I_Won_t_Let_U_Down_mel_spec.npy,lyrics/Powfu-I_Won't_Let_U_Down.txt,processed_lyrics/Powfu-I_Won't_Let_U_Down_bert.npy
+Powfu,My Mind,89467,,0.2281742601982916,mel_spectrograms/Powfu-My_Mind_mel_spec.npy,lyrics/Powfu-My_Mind.txt,processed_lyrics/Powfu-My_Mind_bert.npy
+Powfu,Her Ocean Eyes,2570334,,1.5633157744567587,mel_spectrograms/Powfu-Her_Ocean_Eyes_mel_spec.npy,lyrics/Powfu-Her_Ocean_Eyes.txt,processed_lyrics/Powfu-Her_Ocean_Eyes_bert.npy
+Powfu,Innocence,192871,,0.5335973089736985,mel_spectrograms/Powfu-Innocence_mel_spec.npy,lyrics/Powfu-Innocence.txt,processed_lyrics/Powfu-Innocence_bert.npy
+Powfu,Good for Nothing,2360205,,1.52940460720288,mel_spectrograms/Powfu-Good_for_Nothing_mel_spec.npy,lyrics/Powfu-Good_for_Nothing.txt,processed_lyrics/Powfu-Good_for_Nothing_bert.npy
+Powfu,death bed (coffee for your head),874031080,,2.2936736248982608,mel_spectrograms/Powfu-death_bed__coffee_for_your_head__mel_spec.npy,lyrics/Powfu-death_bed_(coffee_for_your_head).txt,processed_lyrics/Powfu-death_bed_(coffee_for_your_head)_bert.npy
+Powfu,Blue Waves,2667180,,1.57802175571592,mel_spectrograms/Powfu-Blue_Waves_mel_spec.npy,lyrics/Powfu-Blue_Waves.txt,processed_lyrics/Powfu-Blue_Waves_bert.npy
+Powfu,To Be With You,152289,,0.4396656681373925,mel_spectrograms/Powfu-To_Be_With_You_mel_spec.npy,lyrics/Powfu-To_Be_With_You.txt,processed_lyrics/Powfu-To_Be_With_You_bert.npy
+Powfu,Phases,202994,,0.5539369276404082,mel_spectrograms/Powfu-Phases_mel_spec.npy,lyrics/Powfu-Phases.txt,processed_lyrics/Powfu-Phases_bert.npy
+Powfu,Mislead,118483,,0.3398619085059018,mel_spectrograms/Powfu-Mislead_mel_spec.npy,lyrics/Powfu-Mislead.txt,processed_lyrics/Powfu-Mislead_bert.npy
+Powfu,Feel That Again,3503281,,1.6864415294718245,mel_spectrograms/Powfu-Feel_That_Again_mel_spec.npy,lyrics/Powfu-Feel_That_Again.txt,processed_lyrics/Powfu-Feel_That_Again_bert.npy
+Powfu,Running Through the Rain,2273408,,1.5145067519026276,mel_spectrograms/Powfu-Running_Through_the_Rain_mel_spec.npy,lyrics/Powfu-Running_Through_the_Rain.txt,processed_lyrics/Powfu-Running_Through_the_Rain_bert.npy
+Powfu,Like Autumn,136278,,0.3954981277747513,mel_spectrograms/Powfu-Like_Autumn_mel_spec.npy,lyrics/Powfu-Like_Autumn.txt,processed_lyrics/Powfu-Like_Autumn_bert.npy
+Powfu,Life Is Changing,3054055,,1.6318775172169715,mel_spectrograms/Powfu-Life_Is_Changing_mel_spec.npy,lyrics/Powfu-Life_Is_Changing.txt,processed_lyrics/Powfu-Life_Is_Changing_bert.npy
+Powfu,Nothing Matters,2499963,,1.5522781346155845,mel_spectrograms/Powfu-Nothing_Matters_mel_spec.npy,lyrics/Powfu-Nothing_Matters.txt,processed_lyrics/Powfu-Nothing_Matters_bert.npy
+Powfu,I Can't Sleep,32554152,,2.5727974183164246,mel_spectrograms/Powfu-I_Can_t_Sleep_mel_spec.npy,lyrics/Powfu-I_Can't_Sleep.txt,processed_lyrics/Powfu-I_Can't_Sleep_bert.npy
+Powfu,The Story of the Paper Boy,3505836,,1.6867314077474944,mel_spectrograms/Powfu-The_Story_of_the_Paper_Boy_mel_spec.npy,lyrics/Powfu-The_Story_of_the_Paper_Boy.txt,processed_lyrics/Powfu-The_Story_of_the_Paper_Boy_bert.npy
+Powfu,In a Bit,1633279,,1.3830207518986084,mel_spectrograms/Powfu-In_a_Bit_mel_spec.npy,lyrics/Powfu-In_a_Bit.txt,processed_lyrics/Powfu-In_a_Bit_bert.npy
+Powfu,Lovemark,21465773,,2.407214309303489,mel_spectrograms/Powfu-Lovemark_mel_spec.npy,lyrics/Powfu-Lovemark.txt,processed_lyrics/Powfu-Lovemark_bert.npy
+Powfu,You Melt Away the Snow,585580,,0.9751750319509028,mel_spectrograms/Powfu-You_Melt_Away_the_Snow_mel_spec.npy,lyrics/Powfu-You_Melt_Away_the_Snow.txt,processed_lyrics/Powfu-You_Melt_Away_the_Snow_bert.npy
+Powfu,Scars on My Heart,8281494,,2.0285153595331393,mel_spectrograms/Powfu-Scars_on_My_Heart_mel_spec.npy,lyrics/Powfu-Scars_on_My_Heart.txt,processed_lyrics/Powfu-Scars_on_My_Heart_bert.npy
+Powfu,Breakfast With the Moon,10729923,,2.131501714782127,mel_spectrograms/Powfu-Breakfast_With_the_Moon_mel_spec.npy,lyrics/Powfu-Breakfast_With_the_Moon.txt,processed_lyrics/Powfu-Breakfast_With_the_Moon_bert.npy
+Powfu,I Know You're Not Happy,4268907,,1.7650324127944963,mel_spectrograms/Powfu-I_Know_You_re_Not_Happy_mel_spec.npy,lyrics/Powfu-I_Know_You're_Not_Happy.txt,processed_lyrics/Powfu-I_Know_You're_Not_Happy_bert.npy
+Powfu,Sorry I Never Apologized,7136637,,1.9693581430734008,mel_spectrograms/Powfu-Sorry_I_Never_Apologized_mel_spec.npy,lyrics/Powfu-Sorry_I_Never_Apologized.txt,processed_lyrics/Powfu-Sorry_I_Never_Apologized_bert.npy
+Powfu,Douchebags,2008941,,1.46533332769169,mel_spectrograms/Powfu-Douchebags_mel_spec.npy,lyrics/Powfu-Douchebags.txt,processed_lyrics/Powfu-Douchebags_bert.npy
+Powfu,Sleepless Nights,379243,,0.8024430673513863,mel_spectrograms/Powfu-Sleepless_Nights_mel_spec.npy,lyrics/Powfu-Sleepless_Nights.txt,processed_lyrics/Powfu-Sleepless_Nights_bert.npy
+Powfu,Days We Had,5273241,,1.8490425260598695,mel_spectrograms/Powfu-Days_We_Had_mel_spec.npy,lyrics/Powfu-Days_We_Had.txt,processed_lyrics/Powfu-Days_We_Had_bert.npy
+Powfu,I See Your Ghost When I'm Alone,1556844,,1.3639636930521783,mel_spectrograms/Powfu-I_See_Your_Ghost_When_I_m_Alone_mel_spec.npy,lyrics/Powfu-I_See_Your_Ghost_When_I'm_Alone.txt,processed_lyrics/Powfu-I_See_Your_Ghost_When_I'm_Alone_bert.npy
+Powfu,I Could Never Be Loved,20708632,,2.392936465642759,mel_spectrograms/Powfu-I_Could_Never_Be_Loved_mel_spec.npy,lyrics/Powfu-I_Could_Never_Be_Loved.txt,processed_lyrics/Powfu-I_Could_Never_Be_Loved_bert.npy
+Powfu,Ghost in Town,2106377,,1.484164839451725,mel_spectrograms/Powfu-Ghost_in_Town_mel_spec.npy,lyrics/Powfu-Ghost_in_Town.txt,processed_lyrics/Powfu-Ghost_in_Town_bert.npy
+Powfu,Feel It All,2373816,,1.5316909905385423,mel_spectrograms/Powfu-Feel_It_All_mel_spec.npy,lyrics/Powfu-Feel_It_All.txt,processed_lyrics/Powfu-Feel_It_All_bert.npy
+Powfu,Another Love Song,821596,,1.109824139743047,mel_spectrograms/Powfu-Another_Love_Song_mel_spec.npy,lyrics/Powfu-Another_Love_Song.txt,processed_lyrics/Powfu-Another_Love_Song_bert.npy
+Powfu,Ray Gun,558577,,0.9564037269164204,mel_spectrograms/Powfu-Ray_Gun_mel_spec.npy,lyrics/Powfu-Ray_Gun.txt,processed_lyrics/Powfu-Ray_Gun_bert.npy
+Powfu,Breathe In,174106,,0.4928991770933693,mel_spectrograms/Powfu-Breathe_In_mel_spec.npy,lyrics/Powfu-Breathe_In.txt,processed_lyrics/Powfu-Breathe_In_bert.npy
+Powfu,Friends,31253,,0.0,mel_spectrograms/Powfu-Friends_mel_spec.npy,lyrics/Powfu-Friends.txt,processed_lyrics/Powfu-Friends_bert.npy
+Beach Bunny,Prom Queen,170840941,,2.231956315444887,mel_spectrograms/Beach_Bunny-Prom_Queen_mel_spec.npy,lyrics/Beach_Bunny-Prom_Queen.txt,processed_lyrics/Beach_Bunny-Prom_Queen_bert.npy
+Beach Bunny,Adulting,2643923,,1.5428932816541274,mel_spectrograms/Beach_Bunny-Adulting_mel_spec.npy,lyrics/Beach_Bunny-Adulting.txt,processed_lyrics/Beach_Bunny-Adulting_bert.npy
+Beach Bunny,Goodbye Summer :(,1671372,,1.306020937677525,mel_spectrograms/Beach_Bunny-Goodbye_Summer____mel_spec.npy,lyrics/Beach_Bunny-Goodbye_Summer_:(.txt,processed_lyrics/Beach_Bunny-Goodbye_Summer_:(_bert.npy
+Beach Bunny,Painkiller,25871947,,2.720954563585078,mel_spectrograms/Beach_Bunny-Painkiller_mel_spec.npy,lyrics/Beach_Bunny-Painkiller.txt,processed_lyrics/Beach_Bunny-Painkiller_bert.npy
+Beach Bunny,Sports,70537067,,2.0796613322907236,mel_spectrograms/Beach_Bunny-Sports_mel_spec.npy,lyrics/Beach_Bunny-Sports.txt,processed_lyrics/Beach_Bunny-Sports_bert.npy
+Beach Bunny,Boys,8155610,,2.124690170567592,mel_spectrograms/Beach_Bunny-Boys_mel_spec.npy,lyrics/Beach_Bunny-Boys.txt,processed_lyrics/Beach_Bunny-Boys_bert.npy
+Beach Bunny,February,7204709,,2.0606602010830732,mel_spectrograms/Beach_Bunny-February_mel_spec.npy,lyrics/Beach_Bunny-February.txt,processed_lyrics/Beach_Bunny-February_bert.npy
+Beach Bunny,Jenny,3683791,,1.7142021558257785,mel_spectrograms/Beach_Bunny-Jenny_mel_spec.npy,lyrics/Beach_Bunny-Jenny.txt,processed_lyrics/Beach_Bunny-Jenny_bert.npy
+Beach Bunny,Ghost,1645384,,1.2979269875564456,mel_spectrograms/Beach_Bunny-Ghost_mel_spec.npy,lyrics/Beach_Bunny-Ghost.txt,processed_lyrics/Beach_Bunny-Ghost_bert.npy
+Beach Bunny,July,2239312,,1.4571067183458717,mel_spectrograms/Beach_Bunny-July_mel_spec.npy,lyrics/Beach_Bunny-July.txt,processed_lyrics/Beach_Bunny-July_bert.npy
+Beach Bunny,Deja Vu,1248059,,1.1551771739701826,mel_spectrograms/Beach_Bunny-Deja_Vu_mel_spec.npy,lyrics/Beach_Bunny-Deja_Vu.txt,processed_lyrics/Beach_Bunny-Deja_Vu_bert.npy
+Beach Bunny,Waves,1533216,,1.2614595072827544,mel_spectrograms/Beach_Bunny-Waves_mel_spec.npy,lyrics/Beach_Bunny-Waves.txt,processed_lyrics/Beach_Bunny-Waves_bert.npy
+Beach Bunny,Greetings from California,1166772,,1.120392281090079,mel_spectrograms/Beach_Bunny-Greetings_from_California_mel_spec.npy,lyrics/Beach_Bunny-Greetings_from_California.txt,processed_lyrics/Beach_Bunny-Greetings_from_California_bert.npy
+Beach Bunny,Shoegazer,1723702,,1.3219440586124027,mel_spectrograms/Beach_Bunny-Shoegazer_mel_spec.npy,lyrics/Beach_Bunny-Shoegazer.txt,processed_lyrics/Beach_Bunny-Shoegazer_bert.npy
+Beach Bunny,6 Weeks,5366283,,1.9085023796059464,mel_spectrograms/Beach_Bunny-6_Weeks_mel_spec.npy,lyrics/Beach_Bunny-6_Weeks.txt,processed_lyrics/Beach_Bunny-6_Weeks_bert.npy
+Beach Bunny,Call Me Baby,3813228,,1.7320384830863569,mel_spectrograms/Beach_Bunny-Call_Me_Baby_mel_spec.npy,lyrics/Beach_Bunny-Call_Me_Baby.txt,processed_lyrics/Beach_Bunny-Call_Me_Baby_bert.npy
+Beach Bunny,Oozin,1354684,,1.197518369257522,mel_spectrograms/Beach_Bunny-Oozin_mel_spec.npy,lyrics/Beach_Bunny-Oozin.txt,processed_lyrics/Beach_Bunny-Oozin_bert.npy
+The Marias,Over the Moon,23522341,,1.7217719155008169,mel_spectrograms/The_Marias-Over_the_Moon_mel_spec.npy,lyrics/The_Marias-Over_the_Moon.txt,processed_lyrics/The_Marias-Over_the_Moon_bert.npy
+The Marias,ABQ,6451781,,0.5823610243037851,mel_spectrograms/The_Marias-ABQ_mel_spec.npy,lyrics/The_Marias-ABQ.txt,processed_lyrics/The_Marias-ABQ_bert.npy
+The Marias,Loverboy,4714597,,0.306057321702839,mel_spectrograms/The_Marias-Loverboy_mel_spec.npy,lyrics/The_Marias-Loverboy.txt,processed_lyrics/The_Marias-Loverboy_bert.npy
+The Marias,Ruthless,26705853,,1.8335749855506365,mel_spectrograms/The_Marias-Ruthless_mel_spec.npy,lyrics/The_Marias-Ruthless.txt,processed_lyrics/The_Marias-Ruthless_bert.npy
+The Marias,Clueless,25275133,,1.785076063620499,mel_spectrograms/The_Marias-Clueless_mel_spec.npy,lyrics/The_Marias-Clueless.txt,processed_lyrics/The_Marias-Clueless_bert.npy
+The Marias,Cariño,24819976,,1.7690697951901309,mel_spectrograms/The_Marias-Cariño_mel_spec.npy,lyrics/The_Marias-Cariño.txt,processed_lyrics/The_Marias-Cariño_bert.npy
+The Marias,Only in My Dreams,45946337,,2.3114949119479418,mel_spectrograms/The_Marias-Only_in_My_Dreams_mel_spec.npy,lyrics/The_Marias-Only_in_My_Dreams.txt,processed_lyrics/The_Marias-Only_in_My_Dreams_bert.npy
+The Marias,Basta Ya,14216270,,1.2782280844991865,mel_spectrograms/The_Marias-Basta_Ya_mel_spec.npy,lyrics/The_Marias-Basta_Ya.txt,processed_lyrics/The_Marias-Basta_Ya_bert.npy
+The Marias,Superclean,4690989,,0.3016356507649704,mel_spectrograms/The_Marias-Superclean_mel_spec.npy,lyrics/The_Marias-Superclean.txt,processed_lyrics/The_Marias-Superclean_bert.npy
+The Marias,I Like It,7618027,,0.7287174559788496,mel_spectrograms/The_Marias-I_Like_It_mel_spec.npy,lyrics/The_Marias-I_Like_It.txt,processed_lyrics/The_Marias-I_Like_It_bert.npy
+The Marias,Déjate Llevar,8077729,,0.7803270671293929,mel_spectrograms/The_Marias-Déjate_Llevar_mel_spec.npy,lyrics/The_Marias-Déjate_Llevar.txt,processed_lyrics/The_Marias-Déjate_Llevar_bert.npy
+The Marias,I Don't Know You,64773840,,2.6139894701392157,mel_spectrograms/The_Marias-I_Don_t_Know_You_mel_spec.npy,lyrics/The_Marias-I_Don't_Know_You.txt,processed_lyrics/The_Marias-I_Don't_Know_You_bert.npy
+Sales,Sorry Bro,16561083,,1.391199218077645,mel_spectrograms/Sales-Sorry_Bro_mel_spec.npy,lyrics/Sales-Sorry_Bro.txt,processed_lyrics/Sales-Sorry_Bro_bert.npy
+Sales,Crash,2958290,,0.2894953145712762,mel_spectrograms/Sales-Crash_mel_spec.npy,lyrics/Sales-Crash.txt,processed_lyrics/Sales-Crash_bert.npy
+Sales,Pope Is a Rockstar,36812760,,1.9021179860520196,mel_spectrograms/Sales-Pope_Is_a_Rockstar_mel_spec.npy,lyrics/Sales-Pope_Is_a_Rockstar.txt,processed_lyrics/Sales-Pope_Is_a_Rockstar_bert.npy
+Sales,Best Times,2852103,,0.2661142728718053,mel_spectrograms/Sales-Best_Times_mel_spec.npy,lyrics/Sales-Best_Times.txt,processed_lyrics/Sales-Best_Times_bert.npy
+Sales,Jamz,17879187,,1.4401821854935295,mel_spectrograms/Sales-Jamz_mel_spec.npy,lyrics/Sales-Jamz.txt,processed_lyrics/Sales-Jamz_bert.npy
+Sales,Big Sis,31588495,,1.8042236566268304,mel_spectrograms/Sales-Big_Sis_mel_spec.npy,lyrics/Sales-Big_Sis.txt,processed_lyrics/Sales-Big_Sis_bert.npy
+Sales,Toto (Xxyyxx Remix),2124402,,0.0777048399131712,mel_spectrograms/Sales-Toto__Xxyyxx_Remix__mel_spec.npy,lyrics/Sales-Toto_(Xxyyxx_Remix).txt,processed_lyrics/Sales-Toto_(Xxyyxx_Remix)_bert.npy
+Sales,Getting It On,21556556,,1.5598178145064705,mel_spectrograms/Sales-Getting_It_On_mel_spec.npy,lyrics/Sales-Getting_It_On.txt,processed_lyrics/Sales-Getting_It_On_bert.npy
+Sales,Chinese New Year,78570502,,2.387044554653067,mel_spectrograms/Sales-Chinese_New_Year_mel_spec.npy,lyrics/Sales-Chinese_New_Year.txt,processed_lyrics/Sales-Chinese_New_Year_bert.npy
+Sales,Renee,26352606,,1.6883086066890476,mel_spectrograms/Sales-Renee_mel_spec.npy,lyrics/Sales-Renee.txt,processed_lyrics/Sales-Renee_bert.npy
+Mother Mother,Heart Heavy,2318,,0.0,mel_spectrograms/Mother_Mother-Heart_Heavy_mel_spec.npy,lyrics/Mother_Mother-Heart_Heavy.txt,processed_lyrics/Mother_Mother-Heart_Heavy_bert.npy
+Mother Mother,Burning Pile,89678609,,2.372379142247129,mel_spectrograms/Mother_Mother-Burning_Pile_mel_spec.npy,lyrics/Mother_Mother-Burning_Pile.txt,processed_lyrics/Mother_Mother-Burning_Pile_bert.npy
+Mother Mother,Body Of Years,4983562,,1.6011862285591512,mel_spectrograms/Mother_Mother-Body_Of_Years_mel_spec.npy,lyrics/Mother_Mother-Body_Of_Years.txt,processed_lyrics/Mother_Mother-Body_Of_Years_bert.npy
+Mother Mother,O My Heart,7670946,,1.716273286621317,mel_spectrograms/Mother_Mother-O_My_Heart_mel_spec.npy,lyrics/Mother_Mother-O_My_Heart.txt,processed_lyrics/Mother_Mother-O_My_Heart_bert.npy
+Mother Mother,Sleep Awake,3981029,,1.5412525998490696,mel_spectrograms/Mother_Mother-Sleep_Awake_mel_spec.npy,lyrics/Mother_Mother-Sleep_Awake.txt,processed_lyrics/Mother_Mother-Sleep_Awake_bert.npy
+Mother Mother,Try To Change,3348600,,1.4950897086641384,mel_spectrograms/Mother_Mother-Try_To_Change_mel_spec.npy,lyrics/Mother_Mother-Try_To_Change.txt,processed_lyrics/Mother_Mother-Try_To_Change_bert.npy
+Mother Mother,Miles,3410790,,1.5,mel_spectrograms/Mother_Mother-Miles_mel_spec.npy,lyrics/Mother_Mother-Miles.txt,processed_lyrics/Mother_Mother-Miles_bert.npy
+Mother Mother,Wisdom,6366053,,1.666518097398968,mel_spectrograms/Mother_Mother-Wisdom_mel_spec.npy,lyrics/Mother_Mother-Wisdom.txt,processed_lyrics/Mother_Mother-Wisdom_bert.npy
+Mother Mother,Wrecking Ball,27446244,,2.0564389646454773,mel_spectrograms/Mother_Mother-Wrecking_Ball_mel_spec.npy,lyrics/Mother_Mother-Wrecking_Ball.txt,processed_lyrics/Mother_Mother-Wrecking_Ball_bert.npy
+Mother Mother,Ghosting,47227016,,2.2012632262589493,mel_spectrograms/Mother_Mother-Ghosting_mel_spec.npy,lyrics/Mother_Mother-Ghosting.txt,processed_lyrics/Mother_Mother-Ghosting_bert.npy
+Mother Mother,Body,50692938,,2.2201610207894955,mel_spectrograms/Mother_Mother-Body_mel_spec.npy,lyrics/Mother_Mother-Body.txt,processed_lyrics/Mother_Mother-Body_bert.npy
+Mother Mother,Arms Tonite,77283105,,2.332684745937971,mel_spectrograms/Mother_Mother-Arms_Tonite_mel_spec.npy,lyrics/Mother_Mother-Arms_Tonite.txt,processed_lyrics/Mother_Mother-Arms_Tonite_bert.npy
+Mother Mother,Oh Ana,74299082,,2.322177420481689,mel_spectrograms/Mother_Mother-Oh_Ana_mel_spec.npy,lyrics/Mother_Mother-Oh_Ana.txt,processed_lyrics/Mother_Mother-Oh_Ana_bert.npy
+Mother Mother,Tic Toc,3524304,,1.5087361045202916,mel_spectrograms/Mother_Mother-Tic_Toc_mel_spec.npy,lyrics/Mother_Mother-Tic_Toc.txt,processed_lyrics/Mother_Mother-Tic_Toc_bert.npy
+Mother Mother,Touch Up,1909950,,1.3452679739495834,mel_spectrograms/Mother_Mother-Touch_Up_mel_spec.npy,lyrics/Mother_Mother-Touch_Up.txt,processed_lyrics/Mother_Mother-Touch_Up_bert.npy
+Mother Mother,Verbatim,101129837,,2.4044461739787484,mel_spectrograms/Mother_Mother-Verbatim_mel_spec.npy,lyrics/Mother_Mother-Verbatim.txt,processed_lyrics/Mother_Mother-Verbatim_bert.npy
+Mother Mother,Little Hands,1180916,,1.2169746080920318,mel_spectrograms/Mother_Mother-Little_Hands_mel_spec.npy,lyrics/Mother_Mother-Little_Hands.txt,processed_lyrics/Mother_Mother-Little_Hands_bert.npy
+Mother Mother,Ball Cap,1537735,,1.287425878703617,mel_spectrograms/Mother_Mother-Ball_Cap_mel_spec.npy,lyrics/Mother_Mother-Ball_Cap.txt,processed_lyrics/Mother_Mother-Ball_Cap_bert.npy
+Mother Mother,Neighbour,3764438,,1.526325067968766,mel_spectrograms/Mother_Mother-Neighbour_mel_spec.npy,lyrics/Mother_Mother-Neighbour.txt,processed_lyrics/Mother_Mother-Neighbour_bert.npy
+Mother Mother,Train Of Thought,1223464,,1.2264196329181816,mel_spectrograms/Mother_Mother-Train_Of_Thought_mel_spec.npy,lyrics/Mother_Mother-Train_Of_Thought.txt,processed_lyrics/Mother_Mother-Train_Of_Thought_bert.npy
+Mother Mother,Legs Away,3068938,,1.4718183309627717,mel_spectrograms/Mother_Mother-Legs_Away_mel_spec.npy,lyrics/Mother_Mother-Legs_Away.txt,processed_lyrics/Mother_Mother-Legs_Away_bert.npy
+Mother Mother,Polynesia,1752085,,1.322247490076956,mel_spectrograms/Mother_Mother-Polynesia_mel_spec.npy,lyrics/Mother_Mother-Polynesia.txt,processed_lyrics/Mother_Mother-Polynesia_bert.npy
+Mother Mother,Angry Sea,1818549,,1.33218261068694,mel_spectrograms/Mother_Mother-Angry_Sea_mel_spec.npy,lyrics/Mother_Mother-Angry_Sea.txt,processed_lyrics/Mother_Mother-Angry_Sea_bert.npy
+Mother Mother,Dirty Town,6162706,,1.657855465381336,mel_spectrograms/Mother_Mother-Dirty_Town_mel_spec.npy,lyrics/Mother_Mother-Dirty_Town.txt,processed_lyrics/Mother_Mother-Dirty_Town_bert.npy
+Mother Mother,Love And Truth,1875094,,1.3403532317264175,mel_spectrograms/Mother_Mother-Love_And_Truth_mel_spec.npy,lyrics/Mother_Mother-Love_And_Truth.txt,processed_lyrics/Mother_Mother-Love_And_Truth_bert.npy
+Mother Mother,Fat Kids,26554,,0.2043598845749477,mel_spectrograms/Mother_Mother-Fat_Kids_mel_spec.npy,lyrics/Mother_Mother-Fat_Kids.txt,processed_lyrics/Mother_Mother-Fat_Kids_bert.npy
+Mother Mother,Babies,23368,,0.1702555882784706,mel_spectrograms/Mother_Mother-Babies_mel_spec.npy,lyrics/Mother_Mother-Babies.txt,processed_lyrics/Mother_Mother-Babies_bert.npy
+Mother Mother,Mamma Told Me,24010,,0.1774874253827738,mel_spectrograms/Mother_Mother-Mamma_Told_Me_mel_spec.npy,lyrics/Mother_Mother-Mamma_Told_Me.txt,processed_lyrics/Mother_Mother-Mamma_Told_Me_bert.npy
+Mother Mother,Home Recording,19542,,0.1225462861850297,mel_spectrograms/Mother_Mother-Home_Recording_mel_spec.npy,lyrics/Mother_Mother-Home_Recording.txt,processed_lyrics/Mother_Mother-Home_Recording_bert.npy
+Nilüfer Yanya,Same Damn Luck,1759334,,1.5359685335002458,mel_spectrograms/Nilüfer_Yanya-Same_Damn_Luck_mel_spec.npy,lyrics/Nilüfer_Yanya-Same_Damn_Luck.txt,processed_lyrics/Nilüfer_Yanya-Same_Damn_Luck_bert.npy
+Nilüfer Yanya,Crash,1786057,,1.5422615673762603,mel_spectrograms/Nilüfer_Yanya-Crash_mel_spec.npy,lyrics/Nilüfer_Yanya-Crash.txt,processed_lyrics/Nilüfer_Yanya-Crash_bert.npy
+Nilüfer Yanya,Super Rich Kids - triple j Like A Version,866872,,1.2405003132851844,mel_spectrograms/Nilüfer_Yanya-Super_Rich_Kids_-_triple_j_Like_A_Version_mel_spec.npy,lyrics/Nilüfer_Yanya-Super_Rich_Kids_-_triple_j_Like_A_Version.txt,processed_lyrics/Nilüfer_Yanya-Super_Rich_Kids_-_triple_j_Like_A_Version_bert.npy
+Nilüfer Yanya,Melt,1049215,,1.320193396557193,mel_spectrograms/Nilüfer_Yanya-Melt_mel_spec.npy,lyrics/Nilüfer_Yanya-Melt.txt,processed_lyrics/Nilüfer_Yanya-Melt_bert.npy
+Nilüfer Yanya,Heat Rises,1293145,,1.4074542776948409,mel_spectrograms/Nilüfer_Yanya-Heat_Rises_mel_spec.npy,lyrics/Nilüfer_Yanya-Heat_Rises.txt,processed_lyrics/Nilüfer_Yanya-Heat_Rises_bert.npy
+Nilüfer Yanya,“Sparkle” GOD HELP ME,489756,,1.0021452945622245,mel_spectrograms/Nilüfer_Yanya-_Sparkle__GOD_HELP_ME_mel_spec.npy,lyrics/Nilüfer_Yanya-“Sparkle”_GOD_HELP_ME.txt,processed_lyrics/Nilüfer_Yanya-“Sparkle”_GOD_HELP_ME_bert.npy
+Nilüfer Yanya,Baby Blu,9737014,,2.2502192777370937,mel_spectrograms/Nilüfer_Yanya-Baby_Blu_mel_spec.npy,lyrics/Nilüfer_Yanya-Baby_Blu.txt,processed_lyrics/Nilüfer_Yanya-Baby_Blu_bert.npy
+Nilüfer Yanya,WWAY HEALTH ™,665888,,1.1303906114355071,mel_spectrograms/Nilüfer_Yanya-WWAY_HEALTH___mel_spec.npy,lyrics/Nilüfer_Yanya-WWAY_HEALTH_™.txt,processed_lyrics/Nilüfer_Yanya-WWAY_HEALTH_™_bert.npy
+Nilüfer Yanya,Experience?,652591,,1.1219703508163312,mel_spectrograms/Nilüfer_Yanya-Experience__mel_spec.npy,lyrics/Nilüfer_Yanya-Experience?.txt,processed_lyrics/Nilüfer_Yanya-Experience?_bert.npy
+Nilüfer Yanya,Give Up Function,359196,,0.8727208056014351,mel_spectrograms/Nilüfer_Yanya-Give_Up_Function_mel_spec.npy,lyrics/Nilüfer_Yanya-Give_Up_Function.txt,processed_lyrics/Nilüfer_Yanya-Give_Up_Function_bert.npy
+Nilüfer Yanya,Paralysed,1533258,,1.4785527650805128,mel_spectrograms/Nilüfer_Yanya-Paralysed_mel_spec.npy,lyrics/Nilüfer_Yanya-Paralysed.txt,processed_lyrics/Nilüfer_Yanya-Paralysed_bert.npy
+Nilüfer Yanya,Angels,1083585,,1.33364882737048,mel_spectrograms/Nilüfer_Yanya-Angels_mel_spec.npy,lyrics/Nilüfer_Yanya-Angels.txt,processed_lyrics/Nilüfer_Yanya-Angels_bert.npy
+Nilüfer Yanya,The Unordained,555811,,1.054960965987596,mel_spectrograms/Nilüfer_Yanya-The_Unordained_mel_spec.npy,lyrics/Nilüfer_Yanya-The_Unordained.txt,processed_lyrics/Nilüfer_Yanya-The_Unordained_bert.npy
+Nilüfer Yanya,Paradise,1188170,,1.37211204748429,mel_spectrograms/Nilüfer_Yanya-Paradise_mel_spec.npy,lyrics/Nilüfer_Yanya-Paradise.txt,processed_lyrics/Nilüfer_Yanya-Paradise_bert.npy
+Nilüfer Yanya,Tears,2356326,,1.6579331619490074,mel_spectrograms/Nilüfer_Yanya-Tears_mel_spec.npy,lyrics/Nilüfer_Yanya-Tears.txt,processed_lyrics/Nilüfer_Yanya-Tears_bert.npy
+Nilüfer Yanya,In Your Head,4267997,,1.9059135328018164,mel_spectrograms/Nilüfer_Yanya-In_Your_Head_mel_spec.npy,lyrics/Nilüfer_Yanya-In_Your_Head.txt,processed_lyrics/Nilüfer_Yanya-In_Your_Head_bert.npy
+Nilüfer Yanya,Heavyweight Champion of the Year,4155773,,1.8947901764113315,mel_spectrograms/Nilüfer_Yanya-Heavyweight_Champion_of_the_Year_mel_spec.npy,lyrics/Nilüfer_Yanya-Heavyweight_Champion_of_the_Year.txt,processed_lyrics/Nilüfer_Yanya-Heavyweight_Champion_of_the_Year_bert.npy
+Nilüfer Yanya,Thanks 4 Nothing - Jazzi Bobbi Remix,138435,,0.4747008920108193,mel_spectrograms/Nilüfer_Yanya-Thanks_4_Nothing_-_Jazzi_Bobbi_Remix_mel_spec.npy,lyrics/Nilüfer_Yanya-Thanks_4_Nothing_-_Jazzi_Bobbi_Remix.txt,processed_lyrics/Nilüfer_Yanya-Thanks_4_Nothing_-_Jazzi_Bobbi_Remix_bert.npy
+Nilüfer Yanya,Thanks 4 Nothing,4519282,,1.9297950267323711,mel_spectrograms/Nilüfer_Yanya-Thanks_4_Nothing_mel_spec.npy,lyrics/Nilüfer_Yanya-Thanks_4_Nothing.txt,processed_lyrics/Nilüfer_Yanya-Thanks_4_Nothing_bert.npy
+Nilüfer Yanya,Baby Luv,5981373,,2.0468040622703714,mel_spectrograms/Nilüfer_Yanya-Baby_Luv_mel_spec.npy,lyrics/Nilüfer_Yanya-Baby_Luv.txt,processed_lyrics/Nilüfer_Yanya-Baby_Luv_bert.npy
+Nilüfer Yanya,Sliding Doors,3484114,,1.8212007429768744,mel_spectrograms/Nilüfer_Yanya-Sliding_Doors_mel_spec.npy,lyrics/Nilüfer_Yanya-Sliding_Doors.txt,processed_lyrics/Nilüfer_Yanya-Sliding_Doors_bert.npy
+Nilüfer Yanya,Golden Cage,3194503,,1.7849737870527953,mel_spectrograms/Nilüfer_Yanya-Golden_Cage_mel_spec.npy,lyrics/Nilüfer_Yanya-Golden_Cage.txt,processed_lyrics/Nilüfer_Yanya-Golden_Cage_bert.npy
+Nilüfer Yanya,Keep on Calling,14057147,,2.403504206708657,mel_spectrograms/Nilüfer_Yanya-Keep_on_Calling_mel_spec.npy,lyrics/Nilüfer_Yanya-Keep_on_Calling.txt,processed_lyrics/Nilüfer_Yanya-Keep_on_Calling_bert.npy
+Nilüfer Yanya,Small Crimes,2093863,,1.608635676944981,mel_spectrograms/Nilüfer_Yanya-Small_Crimes_mel_spec.npy,lyrics/Nilüfer_Yanya-Small_Crimes.txt,processed_lyrics/Nilüfer_Yanya-Small_Crimes_bert.npy
+Nilüfer Yanya,Hey,7304427,,2.1302226144886287,mel_spectrograms/Nilüfer_Yanya-Hey_mel_spec.npy,lyrics/Nilüfer_Yanya-Hey.txt,processed_lyrics/Nilüfer_Yanya-Hey_bert.npy
+Eyedress,Jealous,87182045,,2.3283131251830778,mel_spectrograms/Eyedress-Jealous_mel_spec.npy,lyrics/Eyedress-Jealous.txt,processed_lyrics/Eyedress-Jealous_bert.npy
+Eyedress,Trauma,957182,,2.090585510019446,mel_spectrograms/Eyedress-Trauma_mel_spec.npy,lyrics/Eyedress-Trauma.txt,processed_lyrics/Eyedress-Trauma_bert.npy
+Eyedress,I Don't Wanna Be Your Friend,3167029,,2.5929834428584284,mel_spectrograms/Eyedress-I_Don_t_Wanna_Be_Your_Friend_mel_spec.npy,lyrics/Eyedress-I_Don't_Wanna_Be_Your_Friend.txt,processed_lyrics/Eyedress-I_Don't_Wanna_Be_Your_Friend_bert.npy
+Eyedress,I Know They Hating,66249,,0.96929691674575,mel_spectrograms/Eyedress-I_Know_They_Hating_mel_spec.npy,lyrics/Eyedress-I_Know_They_Hating.txt,processed_lyrics/Eyedress-I_Know_They_Hating_bert.npy
+Eyedress,Sensitive G,358012,,1.6776743876689453,mel_spectrograms/Eyedress-Sensitive_G_mel_spec.npy,lyrics/Eyedress-Sensitive_G.txt,processed_lyrics/Eyedress-Sensitive_G_bert.npy
+Eyedress,PTSD,187800,,1.4067797460341356,mel_spectrograms/Eyedress-PTSD_mel_spec.npy,lyrics/Eyedress-PTSD.txt,processed_lyrics/Eyedress-PTSD_bert.npy
+Eyedress,My Child / Old Soul,137323,,1.2753436184435276,mel_spectrograms/Eyedress-My_Child___Old_Soul_mel_spec.npy,lyrics/Eyedress-My_Child___Old_Soul.txt,processed_lyrics/Eyedress-My_Child___Old_Soul_bert.npy
+Eyedress,Stay Calm,1130383,,2.160417540772781,mel_spectrograms/Eyedress-Stay_Calm_mel_spec.npy,lyrics/Eyedress-Stay_Calm.txt,processed_lyrics/Eyedress-Stay_Calm_bert.npy
+Eyedress,Young Old Man,140653,,1.2854036602318004,mel_spectrograms/Eyedress-Young_Old_Man_mel_spec.npy,lyrics/Eyedress-Young_Old_Man.txt,processed_lyrics/Eyedress-Young_Old_Man_bert.npy
+Eyedress,Babygirl,280377,,1.575045223978081,mel_spectrograms/Eyedress-Babygirl_mel_spec.npy,lyrics/Eyedress-Babygirl.txt,processed_lyrics/Eyedress-Babygirl_bert.npy
+Eyedress,Sleeping on the Couch,157867,,1.333880323261316,mel_spectrograms/Eyedress-Sleeping_on_the_Couch_mel_spec.npy,lyrics/Eyedress-Sleeping_on_the_Couch.txt,processed_lyrics/Eyedress-Sleeping_on_the_Couch_bert.npy
+Eyedress,Cure for Cancer,248652,,1.5246270487115148,mel_spectrograms/Eyedress-Cure_for_Cancer_mel_spec.npy,lyrics/Eyedress-Cure_for_Cancer.txt,processed_lyrics/Eyedress-Cure_for_Cancer_bert.npy
+Eyedress,Suntory Times,151772,,1.3173486599998383,mel_spectrograms/Eyedress-Suntory_Times_mel_spec.npy,lyrics/Eyedress-Suntory_Times.txt,processed_lyrics/Eyedress-Suntory_Times_bert.npy
+Eyedress,Ancient Love,180183,,1.3893952911229963,mel_spectrograms/Eyedress-Ancient_Love_mel_spec.npy,lyrics/Eyedress-Ancient_Love.txt,processed_lyrics/Eyedress-Ancient_Love_bert.npy
+Eyedress,No Love in the City,319714,,1.6301705399909376,mel_spectrograms/Eyedress-No_Love_in_the_City_mel_spec.npy,lyrics/Eyedress-No_Love_in_the_City.txt,processed_lyrics/Eyedress-No_Love_in_the_City_bert.npy
+Eyedress,Window Eyes,1010084,,2.113172506367438,mel_spectrograms/Eyedress-Window_Eyes_mel_spec.npy,lyrics/Eyedress-Window_Eyes.txt,processed_lyrics/Eyedress-Window_Eyes_bert.npy
+Eyedress,Nice Girl from a Nice Part of Town,222389,,1.4777587049258831,mel_spectrograms/Eyedress-Nice_Girl_from_a_Nice_Part_of_Town_mel_spec.npy,lyrics/Eyedress-Nice_Girl_from_a_Nice_Part_of_Town.txt,processed_lyrics/Eyedress-Nice_Girl_from_a_Nice_Part_of_Town_bert.npy
+Eyedress,Xenophobic,3388164,,2.621322271552695,mel_spectrograms/Eyedress-Xenophobic_mel_spec.npy,lyrics/Eyedress-Xenophobic.txt,processed_lyrics/Eyedress-Xenophobic_bert.npy
+Eyedress,Alone Time,576838,,1.8779499825463648,mel_spectrograms/Eyedress-Alone_Time_mel_spec.npy,lyrics/Eyedress-Alone_Time.txt,processed_lyrics/Eyedress-Alone_Time_bert.npy
+Eyedress,Be a Better Friend,1497472,,2.278494161570606,mel_spectrograms/Eyedress-Be_a_Better_Friend_mel_spec.npy,lyrics/Eyedress-Be_a_Better_Friend.txt,processed_lyrics/Eyedress-Be_a_Better_Friend_bert.npy
+Eyedress,No Fun,300954,,1.604781306652445,mel_spectrograms/Eyedress-No_Fun_mel_spec.npy,lyrics/Eyedress-No_Fun.txt,processed_lyrics/Eyedress-No_Fun_bert.npy
+Eyedress,Toxic Masculinity,800317,,2.015434827966884,mel_spectrograms/Eyedress-Toxic_Masculinity_mel_spec.npy,lyrics/Eyedress-Toxic_Masculinity.txt,processed_lyrics/Eyedress-Toxic_Masculinity_bert.npy
+Eyedress,Bolero Lang Sila - feat. Sexy Jay,245942,,1.5200258791439512,mel_spectrograms/Eyedress-Bolero_Lang_Sila_-_feat._Sexy_Jay_mel_spec.npy,lyrics/Eyedress-Bolero_Lang_Sila_-_feat._Sexy_Jay.txt,processed_lyrics/Eyedress-Bolero_Lang_Sila_-_feat._Sexy_Jay_bert.npy
+Eyedress,Gwapo ko Galing Sa'Yo,337145,,1.6524598180461547,mel_spectrograms/Eyedress-Gwapo_ko_Galing_Sa_Yo_mel_spec.npy,lyrics/Eyedress-Gwapo_ko_Galing_Sa'Yo.txt,processed_lyrics/Eyedress-Gwapo_ko_Galing_Sa'Yo_bert.npy
+Eyedress,Cocaine Sunday,140206,,1.2840671827265893,mel_spectrograms/Eyedress-Cocaine_Sunday_mel_spec.npy,lyrics/Eyedress-Cocaine_Sunday.txt,processed_lyrics/Eyedress-Cocaine_Sunday_bert.npy
+Eyedress,Girls,29534,,0.6301006819204836,mel_spectrograms/Eyedress-Girls_mel_spec.npy,lyrics/Eyedress-Girls.txt,processed_lyrics/Eyedress-Girls_bert.npy
+Eyedress,Love All Around,204536,,1.4426223968026373,mel_spectrograms/Eyedress-Love_All_Around_mel_spec.npy,lyrics/Eyedress-Love_All_Around.txt,processed_lyrics/Eyedress-Love_All_Around_bert.npy
+Eyedress,Pentagram Land,151251,,1.315904867130082,mel_spectrograms/Eyedress-Pentagram_Land_mel_spec.npy,lyrics/Eyedress-Pentagram_Land.txt,processed_lyrics/Eyedress-Pentagram_Land_bert.npy
+Eyedress,Third Eye Kisses,364341,,1.6850320648159918,mel_spectrograms/Eyedress-Third_Eye_Kisses_mel_spec.npy,lyrics/Eyedress-Third_Eye_Kisses.txt,processed_lyrics/Eyedress-Third_Eye_Kisses_bert.npy
+Eyedress,Used to Be Good Friends,234487,,1.5,mel_spectrograms/Eyedress-Used_to_Be_Good_Friends_mel_spec.npy,lyrics/Eyedress-Used_to_Be_Good_Friends.txt,processed_lyrics/Eyedress-Used_to_Be_Good_Friends_bert.npy
+Eyedress,Feel Like Givinig Up,214419,,1.462435163326856,mel_spectrograms/Eyedress-Feel_Like_Givinig_Up_mel_spec.npy,lyrics/Eyedress-Feel_Like_Givinig_Up.txt,processed_lyrics/Eyedress-Feel_Like_Givinig_Up_bert.npy
+Eyedress,Family Tree,156146,,1.3292779692014909,mel_spectrograms/Eyedress-Family_Tree_mel_spec.npy,lyrics/Eyedress-Family_Tree.txt,processed_lyrics/Eyedress-Family_Tree_bert.npy
+Eyedress,Sofia Coppola,685525,,1.9504293577564724,mel_spectrograms/Eyedress-Sofia_Coppola_mel_spec.npy,lyrics/Eyedress-Sofia_Coppola.txt,processed_lyrics/Eyedress-Sofia_Coppola_bert.npy
+Eyedress,Big Shoes,427676,,1.752326890247676,mel_spectrograms/Eyedress-Big_Shoes_mel_spec.npy,lyrics/Eyedress-Big_Shoes.txt,processed_lyrics/Eyedress-Big_Shoes_bert.npy
+Eyedress,Can't Run From Pain,319424,,1.6297895204664077,mel_spectrograms/Eyedress-Can_t_Run_From_Pain_mel_spec.npy,lyrics/Eyedress-Can't_Run_From_Pain.txt,processed_lyrics/Eyedress-Can't_Run_From_Pain_bert.npy
+Eyedress,Living Room,89852,,1.0972480122929813,mel_spectrograms/Eyedress-Living_Room_mel_spec.npy,lyrics/Eyedress-Living_Room.txt,processed_lyrics/Eyedress-Living_Room_bert.npy
+Eyedress,Separation Anxiety,6422236,,2.8898201317798105,mel_spectrograms/Eyedress-Separation_Anxiety_mel_spec.npy,lyrics/Eyedress-Separation_Anxiety.txt,processed_lyrics/Eyedress-Separation_Anxiety_bert.npy
+Eyedress,Manila Ice,3323993,,2.613293760583971,mel_spectrograms/Eyedress-Manila_Ice_mel_spec.npy,lyrics/Eyedress-Manila_Ice.txt,processed_lyrics/Eyedress-Manila_Ice_bert.npy
+Eyedress,High Street Drive By,637754,,1.92010118627084,mel_spectrograms/Eyedress-High_Street_Drive_By_mel_spec.npy,lyrics/Eyedress-High_Street_Drive_By.txt,processed_lyrics/Eyedress-High_Street_Drive_By_bert.npy
+Eyedress,Where My Girl At?,158844,,1.3364707734910697,mel_spectrograms/Eyedress-Where_My_Girl_At__mel_spec.npy,lyrics/Eyedress-Where_My_Girl_At?.txt,processed_lyrics/Eyedress-Where_My_Girl_At?_bert.npy
+Eyedress,When I'm Gone,725844,,1.9744249761454848,mel_spectrograms/Eyedress-When_I_m_Gone_mel_spec.npy,lyrics/Eyedress-When_I'm_Gone.txt,processed_lyrics/Eyedress-When_I'm_Gone_bert.npy
+Eyedress,Tokyo Ghost,971922,,2.097001963427131,mel_spectrograms/Eyedress-Tokyo_Ghost_mel_spec.npy,lyrics/Eyedress-Tokyo_Ghost.txt,processed_lyrics/Eyedress-Tokyo_Ghost_bert.npy
+Eyedress,Nature Trips,7650882,,2.9633203536998747,mel_spectrograms/Eyedress-Nature_Trips_mel_spec.npy,lyrics/Eyedress-Nature_Trips.txt,processed_lyrics/Eyedress-Nature_Trips_bert.npy
+Japanese Breakfast,Paprika,8800892,,2.1935843034892493,mel_spectrograms/Japanese_Breakfast-Paprika_mel_spec.npy,lyrics/Japanese_Breakfast-Paprika.txt,processed_lyrics/Japanese_Breakfast-Paprika_bert.npy
+Japanese Breakfast,Posing For Cars,2848782,,1.578537106700754,mel_spectrograms/Japanese_Breakfast-Posing_For_Cars_mel_spec.npy,lyrics/Japanese_Breakfast-Posing_For_Cars.txt,processed_lyrics/Japanese_Breakfast-Posing_For_Cars_bert.npy
+Japanese Breakfast,"Kokomo, IN",6211488,,2.003582426922953,mel_spectrograms/Japanese_Breakfast-Kokomo__IN_mel_spec.npy,"lyrics/Japanese_Breakfast-Kokomo,_IN.txt","processed_lyrics/Japanese_Breakfast-Kokomo,_IN_bert.npy"
+Japanese Breakfast,Tactics,2431520,,1.4921795016987758,mel_spectrograms/Japanese_Breakfast-Tactics_mel_spec.npy,lyrics/Japanese_Breakfast-Tactics.txt,processed_lyrics/Japanese_Breakfast-Tactics_bert.npy
+Japanese Breakfast,Sit,2424586,,1.4906223173420916,mel_spectrograms/Japanese_Breakfast-Sit_mel_spec.npy,lyrics/Japanese_Breakfast-Sit.txt,processed_lyrics/Japanese_Breakfast-Sit_bert.npy
+Japanese Breakfast,In Hell,2466645,,1.5,mel_spectrograms/Japanese_Breakfast-In_Hell_mel_spec.npy,lyrics/Japanese_Breakfast-In_Hell.txt,processed_lyrics/Japanese_Breakfast-In_Hell_bert.npy
+Japanese Breakfast,Slide Tackle,4818795,,1.8651503268486411,mel_spectrograms/Japanese_Breakfast-Slide_Tackle_mel_spec.npy,lyrics/Japanese_Breakfast-Slide_Tackle.txt,processed_lyrics/Japanese_Breakfast-Slide_Tackle_bert.npy
+Japanese Breakfast,Savage Good Boy,6401970,,2.0200525544645704,mel_spectrograms/Japanese_Breakfast-Savage_Good_Boy_mel_spec.npy,lyrics/Japanese_Breakfast-Savage_Good_Boy.txt,processed_lyrics/Japanese_Breakfast-Savage_Good_Boy_bert.npy
+Japanese Breakfast,Be Sweet,22857885,,2.7140165895411035,mel_spectrograms/Japanese_Breakfast-Be_Sweet_mel_spec.npy,lyrics/Japanese_Breakfast-Be_Sweet.txt,processed_lyrics/Japanese_Breakfast-Be_Sweet_bert.npy
+Japanese Breakfast,Head Over Heels,4787667,,1.8616165964312368,mel_spectrograms/Japanese_Breakfast-Head_Over_Heels_mel_spec.npy,lyrics/Japanese_Breakfast-Head_Over_Heels.txt,processed_lyrics/Japanese_Breakfast-Head_Over_Heels_bert.npy
+Japanese Breakfast,Essentially,5269872,,1.9139425600783015,mel_spectrograms/Japanese_Breakfast-Essentially_mel_spec.npy,lyrics/Japanese_Breakfast-Essentially.txt,processed_lyrics/Japanese_Breakfast-Essentially_bert.npy
+Japanese Breakfast,Maybes - RAC Mix,16439494,,2.5342893225556544,mel_spectrograms/Japanese_Breakfast-Maybes_-_RAC_Mix_mel_spec.npy,lyrics/Japanese_Breakfast-Maybes_-_RAC_Mix.txt,processed_lyrics/Japanese_Breakfast-Maybes_-_RAC_Mix_bert.npy
+Japanese Breakfast,Posing In Bondage,5717093,,1.9583574544853617,mel_spectrograms/Japanese_Breakfast-Posing_In_Bondage_mel_spec.npy,lyrics/Japanese_Breakfast-Posing_In_Bondage.txt,processed_lyrics/Japanese_Breakfast-Posing_In_Bondage_bert.npy
+Japanese Breakfast,Maybes,1839421,,1.3400124804672713,mel_spectrograms/Japanese_Breakfast-Maybes_mel_spec.npy,lyrics/Japanese_Breakfast-Maybes.txt,processed_lyrics/Japanese_Breakfast-Maybes_bert.npy
+Japanese Breakfast,12 Steps,3197417,,1.6414898502363235,mel_spectrograms/Japanese_Breakfast-12_Steps_mel_spec.npy,lyrics/Japanese_Breakfast-12_Steps.txt,processed_lyrics/Japanese_Breakfast-12_Steps_bert.npy
+Japanese Breakfast,Till Death,5945429,,1.9797115694089689,mel_spectrograms/Japanese_Breakfast-Till_Death_mel_spec.npy,lyrics/Japanese_Breakfast-Till_Death.txt,processed_lyrics/Japanese_Breakfast-Till_Death_bert.npy
+Japanese Breakfast,Diving Woman,13465798,,2.425488971600199,mel_spectrograms/Japanese_Breakfast-Diving_Woman_mel_spec.npy,lyrics/Japanese_Breakfast-Diving_Woman.txt,processed_lyrics/Japanese_Breakfast-Diving_Woman_bert.npy
+Japanese Breakfast,Jimmy Fallon Big!,2131308,,1.420323034467581,mel_spectrograms/Japanese_Breakfast-Jimmy_Fallon_Big__mel_spec.npy,lyrics/Japanese_Breakfast-Jimmy_Fallon_Big!.txt,processed_lyrics/Japanese_Breakfast-Jimmy_Fallon_Big!_bert.npy
+Japanese Breakfast,The Body Is a Blade,4768949,,1.8594806025302104,mel_spectrograms/Japanese_Breakfast-The_Body_Is_a_Blade_mel_spec.npy,lyrics/Japanese_Breakfast-The_Body_Is_a_Blade.txt,processed_lyrics/Japanese_Breakfast-The_Body_Is_a_Blade_bert.npy
+Japanese Breakfast,This House,2742261,,1.5577574179121418,mel_spectrograms/Japanese_Breakfast-This_House_mel_spec.npy,lyrics/Japanese_Breakfast-This_House.txt,processed_lyrics/Japanese_Breakfast-This_House_bert.npy
+Japanese Breakfast,Road Head,29351359,,2.850358202762352,mel_spectrograms/Japanese_Breakfast-Road_Head_mel_spec.npy,lyrics/Japanese_Breakfast-Road_Head.txt,processed_lyrics/Japanese_Breakfast-Road_Head_bert.npy
+Japanese Breakfast,Boyish,20059921,,2.6428190079817333,mel_spectrograms/Japanese_Breakfast-Boyish_mel_spec.npy,lyrics/Japanese_Breakfast-Boyish.txt,processed_lyrics/Japanese_Breakfast-Boyish_bert.npy
+Japanese Breakfast,Machinist,7360834,,2.0961549685466707,mel_spectrograms/Japanese_Breakfast-Machinist_mel_spec.npy,lyrics/Japanese_Breakfast-Machinist.txt,processed_lyrics/Japanese_Breakfast-Machinist_bert.npy
+Japanese Breakfast,Triple 7,1385212,,1.185374347236788,mel_spectrograms/Japanese_Breakfast-Triple_7_mel_spec.npy,lyrics/Japanese_Breakfast-Triple_7.txt,processed_lyrics/Japanese_Breakfast-Triple_7_bert.npy
+Japanese Breakfast,The Woman That Loves You,4677664,,1.8489420501354168,mel_spectrograms/Japanese_Breakfast-The_Woman_That_Loves_You_mel_spec.npy,lyrics/Japanese_Breakfast-The_Woman_That_Loves_You.txt,processed_lyrics/Japanese_Breakfast-The_Woman_That_Loves_You_bert.npy
+Japanese Breakfast,Jane Cum,1719167,,1.3031460399345078,mel_spectrograms/Japanese_Breakfast-Jane_Cum_mel_spec.npy,lyrics/Japanese_Breakfast-Jane_Cum.txt,processed_lyrics/Japanese_Breakfast-Jane_Cum_bert.npy
+Japanese Breakfast,Everybody Wants to Love You,14961291,,2.4829134864063085,mel_spectrograms/Japanese_Breakfast-Everybody_Wants_to_Love_You_mel_spec.npy,lyrics/Japanese_Breakfast-Everybody_Wants_to_Love_You.txt,processed_lyrics/Japanese_Breakfast-Everybody_Wants_to_Love_You_bert.npy
+Japanese Breakfast,In Heaven,3253470,,1.650966055497046,mel_spectrograms/Japanese_Breakfast-In_Heaven_mel_spec.npy,lyrics/Japanese_Breakfast-In_Heaven.txt,processed_lyrics/Japanese_Breakfast-In_Heaven_bert.npy
+Japanese Breakfast,Psychopomp,1483828,,1.2228738782163422,mel_spectrograms/Japanese_Breakfast-Psychopomp_mel_spec.npy,lyrics/Japanese_Breakfast-Psychopomp.txt,processed_lyrics/Japanese_Breakfast-Psychopomp_bert.npy
+Japanese Breakfast,Rugged Country,1859681,,1.3459854662173605,mel_spectrograms/Japanese_Breakfast-Rugged_Country_mel_spec.npy,lyrics/Japanese_Breakfast-Rugged_Country.txt,processed_lyrics/Japanese_Breakfast-Rugged_Country_bert.npy
+Mitski,Me and My Husband,38225863,,2.650220723766308,mel_spectrograms/Mitski-Me_and_My_Husband_mel_spec.npy,lyrics/Mitski-Me_and_My_Husband.txt,processed_lyrics/Mitski-Me_and_My_Husband_bert.npy
+Mitski,A Horse Named Cold Air,3671754,,1.10162691815839,mel_spectrograms/Mitski-A_Horse_Named_Cold_Air_mel_spec.npy,lyrics/Mitski-A_Horse_Named_Cold_Air.txt,processed_lyrics/Mitski-A_Horse_Named_Cold_Air_bert.npy
+Mitski,Lonesome Love,6301455,,1.4586344688025965,mel_spectrograms/Mitski-Lonesome_Love_mel_spec.npy,lyrics/Mitski-Lonesome_Love.txt,processed_lyrics/Mitski-Lonesome_Love_bert.npy
+Mitski,Why Didn't You Stop Me?,7100099,,1.5375090950883583,mel_spectrograms/Mitski-Why_Didn_t_You_Stop_Me__mel_spec.npy,lyrics/Mitski-Why_Didn't_You_Stop_Me?.txt,processed_lyrics/Mitski-Why_Didn't_You_Stop_Me?_bert.npy
+Mitski,Come into the Water,5068371,,1.3146967488069656,mel_spectrograms/Mitski-Come_into_the_Water_mel_spec.npy,lyrics/Mitski-Come_into_the_Water.txt,processed_lyrics/Mitski-Come_into_the_Water_bert.npy
+Mitski,A Pearl,12343685,,1.9030598264660217,mel_spectrograms/Mitski-A_Pearl_mel_spec.npy,lyrics/Mitski-A_Pearl.txt,processed_lyrics/Mitski-A_Pearl_bert.npy
+Mitski,Washing Machine Heart,10194263,,1.776599712350213,mel_spectrograms/Mitski-Washing_Machine_Heart_mel_spec.npy,lyrics/Mitski-Washing_Machine_Heart.txt,processed_lyrics/Mitski-Washing_Machine_Heart_bert.npy
+Mitski,Blue Light,4072504,,1.1700978307053238,mel_spectrograms/Mitski-Blue_Light_mel_spec.npy,lyrics/Mitski-Blue_Light.txt,processed_lyrics/Mitski-Blue_Light_bert.npy
+Mitski,Remember My Name,6985849,,1.526786399163089,mel_spectrograms/Mitski-Remember_My_Name_mel_spec.npy,lyrics/Mitski-Remember_My_Name.txt,processed_lyrics/Mitski-Remember_My_Name_bert.npy
+Mitski,Old Friend,7246147,,1.5509675958632507,mel_spectrograms/Mitski-Old_Friend_mel_spec.npy,lyrics/Mitski-Old_Friend.txt,processed_lyrics/Mitski-Old_Friend_bert.npy
+Mitski,Pink in the Night,10958010,,1.8243532635211777,mel_spectrograms/Mitski-Pink_in_the_Night_mel_spec.npy,lyrics/Mitski-Pink_in_the_Night.txt,processed_lyrics/Mitski-Pink_in_the_Night_bert.npy
+Mitski,Two Slow Dancers,11965344,,1.8824831499310233,mel_spectrograms/Mitski-Two_Slow_Dancers_mel_spec.npy,lyrics/Mitski-Two_Slow_Dancers.txt,processed_lyrics/Mitski-Two_Slow_Dancers_bert.npy
+Mitski,Nobody,59109951,,2.938337316179888,mel_spectrograms/Mitski-Nobody_mel_spec.npy,lyrics/Mitski-Nobody.txt,processed_lyrics/Mitski-Nobody_bert.npy
+Mitski,Geyser,12712136,,1.9225011923935449,mel_spectrograms/Mitski-Geyser_mel_spec.npy,lyrics/Mitski-Geyser.txt,processed_lyrics/Mitski-Geyser_bert.npy
+Mitski,Between the Breaths,1182911,,0.352930624082667,mel_spectrograms/Mitski-Between_the_Breaths_mel_spec.npy,lyrics/Mitski-Between_the_Breaths.txt,processed_lyrics/Mitski-Between_the_Breaths_bert.npy
+Mitski,A Burning Hill,12511521,,1.9119866863850865,mel_spectrograms/Mitski-A_Burning_Hill_mel_spec.npy,lyrics/Mitski-A_Burning_Hill.txt,processed_lyrics/Mitski-A_Burning_Hill_bert.npy
+Mitski,Thursday Girl,5949213,,1.4206133036782096,mel_spectrograms/Mitski-Thursday_Girl_mel_spec.npy,lyrics/Mitski-Thursday_Girl.txt,processed_lyrics/Mitski-Thursday_Girl_bert.npy
+Mitski,Once More to See You,10259795,,1.780835164534882,mel_spectrograms/Mitski-Once_More_to_See_You_mel_spec.npy,lyrics/Mitski-Once_More_to_See_You.txt,processed_lyrics/Mitski-Once_More_to_See_You_bert.npy
+Mitski,My Body's Made of Crushed Little Stars,7212828,,1.5479212475333095,mel_spectrograms/Mitski-My_Body_s_Made_of_Crushed_Little_Stars_mel_spec.npy,lyrics/Mitski-My_Body's_Made_of_Crushed_Little_Stars.txt,processed_lyrics/Mitski-My_Body's_Made_of_Crushed_Little_Stars_bert.npy
+Mitski,Fireworks,10210680,,1.777663323456535,mel_spectrograms/Mitski-Fireworks_mel_spec.npy,lyrics/Mitski-Fireworks.txt,processed_lyrics/Mitski-Fireworks_bert.npy
+Mitski,I Bet on Losing Dogs,55971529,,2.9022762972812366,mel_spectrograms/Mitski-I_Bet_on_Losing_Dogs_mel_spec.npy,lyrics/Mitski-I_Bet_on_Losing_Dogs.txt,processed_lyrics/Mitski-I_Bet_on_Losing_Dogs_bert.npy
+Mitski,Dan the Dancer,4796807,,1.2782967543815456,mel_spectrograms/Mitski-Dan_the_Dancer_mel_spec.npy,lyrics/Mitski-Dan_the_Dancer.txt,processed_lyrics/Mitski-Dan_the_Dancer_bert.npy
+Mitski,A Loving Feeling,5538479,,1.3733267828456124,mel_spectrograms/Mitski-A_Loving_Feeling_mel_spec.npy,lyrics/Mitski-A_Loving_Feeling.txt,processed_lyrics/Mitski-A_Loving_Feeling_bert.npy
+Mitski,Crack Baby,7839063,,1.6029540194039913,mel_spectrograms/Mitski-Crack_Baby_mel_spec.npy,lyrics/Mitski-Crack_Baby.txt,processed_lyrics/Mitski-Crack_Baby_bert.npy
+Mitski,Happy,9894741,,1.756887886066889,mel_spectrograms/Mitski-Happy_mel_spec.npy,lyrics/Mitski-Happy.txt,processed_lyrics/Mitski-Happy_bert.npy
+Mitski,Your Best American Girl,42098717,,2.7140094491443754,mel_spectrograms/Mitski-Your_Best_American_Girl_mel_spec.npy,lyrics/Mitski-Your_Best_American_Girl.txt,processed_lyrics/Mitski-Your_Best_American_Girl_bert.npy
+Mitski,I Don't Smoke - Audiotree Live Version,819865,,0.1106162160593613,mel_spectrograms/Mitski-I_Don_t_Smoke_-_Audiotree_Live_Version_mel_spec.npy,lyrics/Mitski-I_Don't_Smoke_-_Audiotree_Live_Version.txt,processed_lyrics/Mitski-I_Don't_Smoke_-_Audiotree_Live_Version_bert.npy
+Mitski,Liquid Smooth (Audiotree Live Version),742394,,0.0450067750128027,mel_spectrograms/Mitski-Liquid_Smooth__Audiotree_Live_Version__mel_spec.npy,lyrics/Mitski-Liquid_Smooth_(Audiotree_Live_Version).txt,processed_lyrics/Mitski-Liquid_Smooth_(Audiotree_Live_Version)_bert.npy
+Mitski,Last Words of a Shooting Star (Audiotree Live Version),1037278,,0.2660910070897047,mel_spectrograms/Mitski-Last_Words_of_a_Shooting_Star__Audiotree_Live_Version__mel_spec.npy,lyrics/Mitski-Last_Words_of_a_Shooting_Star_(Audiotree_Live_Version).txt,processed_lyrics/Mitski-Last_Words_of_a_Shooting_Star_(Audiotree_Live_Version)_bert.npy
+Mitski,Townie,11023282,,1.8282788029318249,mel_spectrograms/Mitski-Townie_mel_spec.npy,lyrics/Mitski-Townie.txt,processed_lyrics/Mitski-Townie_bert.npy
+Mitski,Drunk Walk Home,4672654,,1.2609634583943865,mel_spectrograms/Mitski-Drunk_Walk_Home_mel_spec.npy,lyrics/Mitski-Drunk_Walk_Home.txt,processed_lyrics/Mitski-Drunk_Walk_Home_bert.npy
+Mitski,I Will,7102871,,1.5377671061945906,mel_spectrograms/Mitski-I_Will_mel_spec.npy,lyrics/Mitski-I_Will.txt,processed_lyrics/Mitski-I_Will_bert.npy
+Mitski,Carry Me Out,5520304,,1.3711541227095718,mel_spectrograms/Mitski-Carry_Me_Out_mel_spec.npy,lyrics/Mitski-Carry_Me_Out.txt,processed_lyrics/Mitski-Carry_Me_Out_bert.npy
+Mitski,Last Words of a Shooting Star,14521823,,2.0104758325538445,mel_spectrograms/Mitski-Last_Words_of_a_Shooting_Star_mel_spec.npy,lyrics/Mitski-Last_Words_of_a_Shooting_Star.txt,processed_lyrics/Mitski-Last_Words_of_a_Shooting_Star_bert.npy
+Mitski,Jobless Monday,4454919,,1.229422155167013,mel_spectrograms/Mitski-Jobless_Monday_mel_spec.npy,lyrics/Mitski-Jobless_Monday.txt,processed_lyrics/Mitski-Jobless_Monday_bert.npy
+Mitski,I Don't Smoke,6708409,,1.5,mel_spectrograms/Mitski-I_Don_t_Smoke_mel_spec.npy,lyrics/Mitski-I_Don't_Smoke.txt,processed_lyrics/Mitski-I_Don't_Smoke_bert.npy
+Mitski,Francis Forever,37981704,,2.645985264437318,mel_spectrograms/Mitski-Francis_Forever_mel_spec.npy,lyrics/Mitski-Francis_Forever.txt,processed_lyrics/Mitski-Francis_Forever_bert.npy
+Mitski,Texas Reznikoff,6105518,,1.4377554033370812,mel_spectrograms/Mitski-Texas_Reznikoff_mel_spec.npy,lyrics/Mitski-Texas_Reznikoff.txt,processed_lyrics/Mitski-Texas_Reznikoff_bert.npy
+Mitski,First Love/Late Spring,37487582,,2.637329716940207,mel_spectrograms/Mitski-First_Love_Late_Spring_mel_spec.npy,lyrics/Mitski-First_Love_Late_Spring.txt,processed_lyrics/Mitski-First_Love_Late_Spring_bert.npy
+Mitski,Class of 2013 - Audiotree Live Version,19862087,,2.2174713408283333,mel_spectrograms/Mitski-Class_of_2013_-_Audiotree_Live_Version_mel_spec.npy,lyrics/Mitski-Class_of_2013_-_Audiotree_Live_Version.txt,processed_lyrics/Mitski-Class_of_2013_-_Audiotree_Live_Version_bert.npy
+Mitski,"Goodbye, My Danish Sweetheart",12760117,,1.9249913498853908,mel_spectrograms/Mitski-Goodbye__My_Danish_Sweetheart_mel_spec.npy,"lyrics/Mitski-Goodbye,_My_Danish_Sweetheart.txt","processed_lyrics/Mitski-Goodbye,_My_Danish_Sweetheart_bert.npy"
+Mitski,Shame,2809006,,0.924588407251172,mel_spectrograms/Mitski-Shame_mel_spec.npy,lyrics/Mitski-Shame.txt,processed_lyrics/Mitski-Shame_bert.npy
+Mitski,Strawberry Blond,47470657,,2.7933906273847,mel_spectrograms/Mitski-Strawberry_Blond_mel_spec.npy,lyrics/Mitski-Strawberry_Blond.txt,processed_lyrics/Mitski-Strawberry_Blond_bert.npy
+Mitski,I Want You,19808894,,2.2156987594477124,mel_spectrograms/Mitski-I_Want_You_mel_spec.npy,lyrics/Mitski-I_Want_You.txt,processed_lyrics/Mitski-I_Want_You_bert.npy
+Mitski,Square,2799953,,0.922454699782322,mel_spectrograms/Mitski-Square_mel_spec.npy,lyrics/Mitski-Square.txt,processed_lyrics/Mitski-Square_bert.npy
+Mitski,Circle,2130307,,0.7417822622727297,mel_spectrograms/Mitski-Circle_mel_spec.npy,lyrics/Mitski-Circle.txt,processed_lyrics/Mitski-Circle_bert.npy
+Mitski,"Because Dreaming Costs Money, My Dear",5710011,,1.3934876364067192,mel_spectrograms/Mitski-Because_Dreaming_Costs_Money__My_Dear_mel_spec.npy,"lyrics/Mitski-Because_Dreaming_Costs_Money,_My_Dear.txt","processed_lyrics/Mitski-Because_Dreaming_Costs_Money,_My_Dear_bert.npy"
+Mitski,Humpty,5404980,,1.357199200693714,mel_spectrograms/Mitski-Humpty_mel_spec.npy,lyrics/Mitski-Humpty.txt,processed_lyrics/Mitski-Humpty_bert.npy
+Mitski,Brand New City,12853515,,1.9298118567102307,mel_spectrograms/Mitski-Brand_New_City_mel_spec.npy,lyrics/Mitski-Brand_New_City.txt,processed_lyrics/Mitski-Brand_New_City_bert.npy
+Mitski,Bag of Bones,6282362,,1.4566286742704004,mel_spectrograms/Mitski-Bag_of_Bones_mel_spec.npy,lyrics/Mitski-Bag_of_Bones.txt,processed_lyrics/Mitski-Bag_of_Bones_bert.npy
+Mitski,Abbey,4057050,,1.1675847930028334,mel_spectrograms/Mitski-Abbey_mel_spec.npy,lyrics/Mitski-Abbey.txt,processed_lyrics/Mitski-Abbey_bert.npy
+Mitski,Door,1652044,,0.573723986861854,mel_spectrograms/Mitski-Door_mel_spec.npy,lyrics/Mitski-Door.txt,processed_lyrics/Mitski-Door_bert.npy
+Mitski,Eric,2381393,,0.8154293291573331,mel_spectrograms/Mitski-Eric_mel_spec.npy,lyrics/Mitski-Eric.txt,processed_lyrics/Mitski-Eric_bert.npy
+Mitski,Wife,3089878,,0.9875812732059503,mel_spectrograms/Mitski-Wife_mel_spec.npy,lyrics/Mitski-Wife.txt,processed_lyrics/Mitski-Wife_bert.npy
+Mitski,Liquid Smooth,13307814,,1.9527707000918275,mel_spectrograms/Mitski-Liquid_Smooth_mel_spec.npy,lyrics/Mitski-Liquid_Smooth.txt,processed_lyrics/Mitski-Liquid_Smooth_bert.npy
+Mitski,Pearl Diver - Audiotree Live Version,4948945,,1.2989354354624645,mel_spectrograms/Mitski-Pearl_Diver_-_Audiotree_Live_Version_mel_spec.npy,lyrics/Mitski-Pearl_Diver_-_Audiotree_Live_Version.txt,processed_lyrics/Mitski-Pearl_Diver_-_Audiotree_Live_Version_bert.npy
+Mitski,Real Men,7010247,,1.5290908746476402,mel_spectrograms/Mitski-Real_Men_mel_spec.npy,lyrics/Mitski-Real_Men.txt,processed_lyrics/Mitski-Real_Men_bert.npy
+PinkPantheress,Noticed I Cried,7841677,,1.377761951615944,mel_spectrograms/PinkPantheress-Noticed_I_Cried_mel_spec.npy,lyrics/PinkPantheress-Noticed_I_Cried.txt,processed_lyrics/PinkPantheress-Noticed_I_Cried_bert.npy
+PinkPantheress,Nineteen,5950994,,1.293432071474074,mel_spectrograms/PinkPantheress-Nineteen_mel_spec.npy,lyrics/PinkPantheress-Nineteen.txt,processed_lyrics/PinkPantheress-Nineteen_bert.npy
+PinkPantheress,Reason,11697415,,1.5,mel_spectrograms/PinkPantheress-Reason_mel_spec.npy,lyrics/PinkPantheress-Reason.txt,processed_lyrics/PinkPantheress-Reason_bert.npy
+PinkPantheress,All My Friends Know,11338951,,1.4904866127822698,mel_spectrograms/PinkPantheress-All_My_Friends_Know_mel_spec.npy,lyrics/PinkPantheress-All_My_Friends_Know.txt,processed_lyrics/PinkPantheress-All_My_Friends_Know_bert.npy
+PinkPantheress,Last Valentines,8363111,,1.3974396579416457,mel_spectrograms/PinkPantheress-Last_Valentines_mel_spec.npy,lyrics/PinkPantheress-Last_Valentines.txt,processed_lyrics/PinkPantheress-Last_Valentines_bert.npy
+PinkPantheress,I Must Apologise,38009442,,1.8602100993968536,mel_spectrograms/PinkPantheress-I_Must_Apologise_mel_spec.npy,lyrics/PinkPantheress-I_Must_Apologise.txt,processed_lyrics/PinkPantheress-I_Must_Apologise_bert.npy
+PinkPantheress,Just for Me,113658452,,2.1950188242574664,mel_spectrograms/PinkPantheress-Just_for_Me_mel_spec.npy,lyrics/PinkPantheress-Just_for_Me.txt,processed_lyrics/PinkPantheress-Just_for_Me_bert.npy
+PinkPantheress,Passion,59545653,,1.9974235193288807,mel_spectrograms/PinkPantheress-Passion_mel_spec.npy,lyrics/PinkPantheress-Passion.txt,processed_lyrics/PinkPantheress-Passion_bert.npy
+PinkPantheress,"Evian (feat. PinkPantheress, Rizloski & Rax)",10802548,,1.475673794255047,mel_spectrograms/PinkPantheress-Evian__feat._PinkPantheress__Rizloski___Rax__mel_spec.npy,"lyrics/PinkPantheress-Evian_(feat._PinkPantheress,_Rizloski_&_Rax).txt","processed_lyrics/PinkPantheress-Evian_(feat._PinkPantheress,_Rizloski_&_Rax)_bert.npy"
+PinkPantheress,Reason - Evilgiane Remix,320541,,0.4005074456718211,mel_spectrograms/PinkPantheress-Reason_-_Evilgiane_Remix_mel_spec.npy,lyrics/PinkPantheress-Reason_-_Evilgiane_Remix.txt,processed_lyrics/PinkPantheress-Reason_-_Evilgiane_Remix_bert.npy
+PinkPantheress,Attracted to You,50331429,,1.946037925698796,mel_spectrograms/PinkPantheress-Attracted_to_You_mel_spec.npy,lyrics/PinkPantheress-Attracted_to_You.txt,processed_lyrics/PinkPantheress-Attracted_to_You_bert.npy
+PinkPantheress,Pain,217069308,,2.3927865707162908,mel_spectrograms/PinkPantheress-Pain_mel_spec.npy,lyrics/PinkPantheress-Pain.txt,processed_lyrics/PinkPantheress-Pain_bert.npy
+PinkPantheress,Break it off,138791212,,2.2560813789374023,mel_spectrograms/PinkPantheress-Break_it_off_mel_spec.npy,lyrics/PinkPantheress-Break_it_off.txt,processed_lyrics/PinkPantheress-Break_it_off_bert.npy
+PinkPantheress,Turn it up,24710,,0.0,mel_spectrograms/PinkPantheress-Turn_it_up_mel_spec.npy,lyrics/PinkPantheress-Turn_it_up.txt,processed_lyrics/PinkPantheress-Turn_it_up_bert.npy
+Magdalena Bay,The Beginning,1179594,,1.8043924871961616,mel_spectrograms/Magdalena_Bay-The_Beginning_mel_spec.npy,lyrics/Magdalena_Bay-The_Beginning.txt,processed_lyrics/Magdalena_Bay-The_Beginning_bert.npy
+Magdalena Bay,Dreamcatching,1413848,,1.903116381356921,mel_spectrograms/Magdalena_Bay-Dreamcatching_mel_spec.npy,lyrics/Magdalena_Bay-Dreamcatching.txt,processed_lyrics/Magdalena_Bay-Dreamcatching_bert.npy
+Magdalena Bay,Mercurial World,2154730,,2.132752381145341,mel_spectrograms/Magdalena_Bay-Mercurial_World_mel_spec.npy,lyrics/Magdalena_Bay-Mercurial_World.txt,processed_lyrics/Magdalena_Bay-Mercurial_World_bert.npy
+Magdalena Bay,Something for 2,1199306,,1.8134246327670356,mel_spectrograms/Magdalena_Bay-Something_for_2_mel_spec.npy,lyrics/Magdalena_Bay-Something_for_2.txt,processed_lyrics/Magdalena_Bay-Something_for_2_bert.npy
+Magdalena Bay,The End,1205710,,1.8163270568437584,mel_spectrograms/Magdalena_Bay-The_End_mel_spec.npy,lyrics/Magdalena_Bay-The_End.txt,processed_lyrics/Magdalena_Bay-The_End_bert.npy
+Magdalena Bay,Halfway,1209838,,1.8181897912199572,mel_spectrograms/Magdalena_Bay-Halfway_mel_spec.npy,lyrics/Magdalena_Bay-Halfway.txt,processed_lyrics/Magdalena_Bay-Halfway_bert.npy
+Magdalena Bay,Domino,834291,,1.615635411816872,mel_spectrograms/Magdalena_Bay-Domino_mel_spec.npy,lyrics/Magdalena_Bay-Domino.txt,processed_lyrics/Magdalena_Bay-Domino_bert.npy
+Magdalena Bay,Dawning of the Season,2309686,,2.1706005514002538,mel_spectrograms/Magdalena_Bay-Dawning_of_the_Season_mel_spec.npy,lyrics/Magdalena_Bay-Dawning_of_the_Season.txt,processed_lyrics/Magdalena_Bay-Dawning_of_the_Season_bert.npy
+Magdalena Bay,Follow The Leader,827387,,1.6111066160231398,mel_spectrograms/Magdalena_Bay-Follow_The_Leader_mel_spec.npy,lyrics/Magdalena_Bay-Follow_The_Leader.txt,processed_lyrics/Magdalena_Bay-Follow_The_Leader_bert.npy
+Magdalena Bay,Prophecy,822077,,1.6075976472542233,mel_spectrograms/Magdalena_Bay-Prophecy_mel_spec.npy,lyrics/Magdalena_Bay-Prophecy.txt,processed_lyrics/Magdalena_Bay-Prophecy_bert.npy
+Magdalena Bay,Hysterical Us,3256800,,2.357880910215902,mel_spectrograms/Magdalena_Bay-Hysterical_Us_mel_spec.npy,lyrics/Magdalena_Bay-Hysterical_Us.txt,processed_lyrics/Magdalena_Bay-Hysterical_Us_bert.npy
+Magdalena Bay,You Lose!,4833901,,2.5731062625801853,mel_spectrograms/Magdalena_Bay-You_Lose__mel_spec.npy,lyrics/Magdalena_Bay-You_Lose!.txt,processed_lyrics/Magdalena_Bay-You_Lose!_bert.npy
+Magdalena Bay,Secrets (Your Fire),5765264,,2.6691337656415244,mel_spectrograms/Magdalena_Bay-Secrets__Your_Fire__mel_spec.npy,lyrics/Magdalena_Bay-Secrets_(Your_Fire).txt,processed_lyrics/Magdalena_Bay-Secrets_(Your_Fire)_bert.npy
+Magdalena Bay,Chaeri,4831827,,2.572872378345405,mel_spectrograms/Magdalena_Bay-Chaeri_mel_spec.npy,lyrics/Magdalena_Bay-Chaeri.txt,processed_lyrics/Magdalena_Bay-Chaeri_bert.npy
+Magdalena Bay,Push Me Away,894102,,1.6533698908053545,mel_spectrograms/Magdalena_Bay-Push_Me_Away_mel_spec.npy,lyrics/Magdalena_Bay-Push_Me_Away.txt,processed_lyrics/Magdalena_Bay-Push_Me_Away_bert.npy
+Magdalena Bay,Sky2Fall - Reprise,86007,,0.3773163949718237,mel_spectrograms/Magdalena_Bay-Sky2Fall_-_Reprise_mel_spec.npy,lyrics/Magdalena_Bay-Sky2Fall_-_Reprise.txt,processed_lyrics/Magdalena_Bay-Sky2Fall_-_Reprise_bert.npy
+Magdalena Bay,Body,342780,,1.1308620419795372,mel_spectrograms/Magdalena_Bay-Body_mel_spec.npy,lyrics/Magdalena_Bay-Body.txt,processed_lyrics/Magdalena_Bay-Body_bert.npy
+Magdalena Bay,I Don't Want to Cry Anymore,219497,,0.8879288373896277,mel_spectrograms/Magdalena_Bay-I_Don_t_Want_to_Cry_Anymore_mel_spec.npy,lyrics/Magdalena_Bay-I_Don't_Want_to_Cry_Anymore.txt,processed_lyrics/Magdalena_Bay-I_Don't_Want_to_Cry_Anymore_bert.npy
+Magdalena Bay,Sky2Fall,535518,,1.3740110517061224,mel_spectrograms/Magdalena_Bay-Sky2Fall_mel_spec.npy,lyrics/Magdalena_Bay-Sky2Fall.txt,processed_lyrics/Magdalena_Bay-Sky2Fall_bert.npy
+Magdalena Bay,Hideaway,314851,,1.0845429601706988,mel_spectrograms/Magdalena_Bay-Hideaway_mel_spec.npy,lyrics/Magdalena_Bay-Hideaway.txt,processed_lyrics/Magdalena_Bay-Hideaway_bert.npy
+Magdalena Bay,Woww,244846,,0.9474921562298848,mel_spectrograms/Magdalena_Bay-Woww_mel_spec.npy,lyrics/Magdalena_Bay-Woww.txt,processed_lyrics/Magdalena_Bay-Woww_bert.npy
+Magdalena Bay,Live 4ever,537346,,1.3758682487289122,mel_spectrograms/Magdalena_Bay-Live_4ever_mel_spec.npy,lyrics/Magdalena_Bay-Live_4ever.txt,processed_lyrics/Magdalena_Bay-Live_4ever_bert.npy
+Magdalena Bay,Superficial Love,3553293,,2.4053665999109217,mel_spectrograms/Magdalena_Bay-Superficial_Love_mel_spec.npy,lyrics/Magdalena_Bay-Superficial_Love.txt,processed_lyrics/Magdalena_Bay-Superficial_Love_bert.npy
+Magdalena Bay,Stop & Go,317499,,1.089107410362375,mel_spectrograms/Magdalena_Bay-Stop___Go_mel_spec.npy,lyrics/Magdalena_Bay-Stop_&_Go.txt,processed_lyrics/Magdalena_Bay-Stop_&_Go_bert.npy
+Magdalena Bay,Story,587368,,1.4243782878880902,mel_spectrograms/Magdalena_Bay-Story_mel_spec.npy,lyrics/Magdalena_Bay-Story.txt,processed_lyrics/Magdalena_Bay-Story_bert.npy
+Magdalena Bay,Airplane,633161,,1.465293144778944,mel_spectrograms/Magdalena_Bay-Airplane_mel_spec.npy,lyrics/Magdalena_Bay-Airplane.txt,processed_lyrics/Magdalena_Bay-Airplane_bert.npy
+Magdalena Bay,How to Get Physical,3946897,,2.4626215631300985,mel_spectrograms/Magdalena_Bay-How_to_Get_Physical_mel_spec.npy,lyrics/Magdalena_Bay-How_to_Get_Physical.txt,processed_lyrics/Magdalena_Bay-How_to_Get_Physical_bert.npy
+Magdalena Bay,Oh Hell,787060,,1.583874036314302,mel_spectrograms/Magdalena_Bay-Oh_Hell_mel_spec.npy,lyrics/Magdalena_Bay-Oh_Hell.txt,processed_lyrics/Magdalena_Bay-Oh_Hell_bert.npy
+Magdalena Bay,Power,112253,,0.5224630082876232,mel_spectrograms/Magdalena_Bay-Power_mel_spec.npy,lyrics/Magdalena_Bay-Power.txt,processed_lyrics/Magdalena_Bay-Power_bert.npy
+Magdalena Bay,Killshot,24087442,,2.149465649968593,mel_spectrograms/Magdalena_Bay-Killshot_mel_spec.npy,lyrics/Magdalena_Bay-Killshot.txt,processed_lyrics/Magdalena_Bay-Killshot_bert.npy
+Magdalena Bay,Good Intentions,777262,,1.577046826410302,mel_spectrograms/Magdalena_Bay-Good_Intentions_mel_spec.npy,lyrics/Magdalena_Bay-Good_Intentions.txt,processed_lyrics/Magdalena_Bay-Good_Intentions_bert.npy
+Magdalena Bay,Venice,2134240,,2.127545005579931,mel_spectrograms/Magdalena_Bay-Venice_mel_spec.npy,lyrics/Magdalena_Bay-Venice.txt,processed_lyrics/Magdalena_Bay-Venice_bert.npy
+Magdalena Bay,El Dorado,254321,,0.968184544958034,mel_spectrograms/Magdalena_Bay-El_Dorado_mel_spec.npy,lyrics/Magdalena_Bay-El_Dorado.txt,processed_lyrics/Magdalena_Bay-El_Dorado_bert.npy
+Magdalena Bay,Nothing Baby,319424,,1.092401766977888,mel_spectrograms/Magdalena_Bay-Nothing_Baby_mel_spec.npy,lyrics/Magdalena_Bay-Nothing_Baby.txt,processed_lyrics/Magdalena_Bay-Nothing_Baby_bert.npy
+Magdalena Bay,Turning off the Rain,220965,,0.8915616591865139,mel_spectrograms/Magdalena_Bay-Turning_off_the_Rain_mel_spec.npy,lyrics/Magdalena_Bay-Turning_off_the_Rain.txt,processed_lyrics/Magdalena_Bay-Turning_off_the_Rain_bert.npy
+Magdalena Bay,U Wanna Dance?,2398037,,2.1910592605590256,mel_spectrograms/Magdalena_Bay-U_Wanna_Dance__mel_spec.npy,lyrics/Magdalena_Bay-U_Wanna_Dance?.txt,processed_lyrics/Magdalena_Bay-U_Wanna_Dance?_bert.npy
+Magdalena Bay,Mine,498834,,1.3353372806497268,mel_spectrograms/Magdalena_Bay-Mine_mel_spec.npy,lyrics/Magdalena_Bay-Mine.txt,processed_lyrics/Magdalena_Bay-Mine_bert.npy
+Magdalena Bay,Only If You Want It,383169,,1.1915680037477094,mel_spectrograms/Magdalena_Bay-Only_If_You_Want_It_mel_spec.npy,lyrics/Magdalena_Bay-Only_If_You_Want_It.txt,processed_lyrics/Magdalena_Bay-Only_If_You_Want_It_bert.npy
+Magdalena Bay,Money Lover,423267,,1.2458101499675711,mel_spectrograms/Magdalena_Bay-Money_Lover_mel_spec.npy,lyrics/Magdalena_Bay-Money_Lover.txt,processed_lyrics/Magdalena_Bay-Money_Lover_bert.npy
+Magdalena Bay,Ghost,1216714,,1.8212784783569689,mel_spectrograms/Magdalena_Bay-Ghost_mel_spec.npy,lyrics/Magdalena_Bay-Ghost.txt,processed_lyrics/Magdalena_Bay-Ghost_bert.npy
+Magdalena Bay,The Girls,500357,,1.3369986940397147,mel_spectrograms/Magdalena_Bay-The_Girls_mel_spec.npy,lyrics/Magdalena_Bay-The_Girls.txt,processed_lyrics/Magdalena_Bay-The_Girls_bert.npy
+Magdalena Bay,Waking Up,719164,,1.534706855221055,mel_spectrograms/Magdalena_Bay-Waking_Up_mel_spec.npy,lyrics/Magdalena_Bay-Waking_Up.txt,processed_lyrics/Magdalena_Bay-Waking_Up_bert.npy
+Magdalena Bay,Move Slow,447946,,1.2766949836232533,mel_spectrograms/Magdalena_Bay-Move_Slow_mel_spec.npy,lyrics/Magdalena_Bay-Move_Slow.txt,processed_lyrics/Magdalena_Bay-Move_Slow_bert.npy
+Magdalena Bay,Drive Alone,425168,,1.2482523998279351,mel_spectrograms/Magdalena_Bay-Drive_Alone_mel_spec.npy,lyrics/Magdalena_Bay-Drive_Alone.txt,processed_lyrics/Magdalena_Bay-Drive_Alone_bert.npy
+Magdalena Bay,Redbone,1246958,,1.8346599739693288,mel_spectrograms/Magdalena_Bay-Redbone_mel_spec.npy,lyrics/Magdalena_Bay-Redbone.txt,processed_lyrics/Magdalena_Bay-Redbone_bert.npy
+Magdalena Bay,Set Me Off,200226,,0.8378479849766729,mel_spectrograms/Magdalena_Bay-Set_Me_Off_mel_spec.npy,lyrics/Magdalena_Bay-Set_Me_Off.txt,processed_lyrics/Magdalena_Bay-Set_Me_Off_bert.npy
+Magdalena Bay,Neon,4697273,,2.5574801905666513,mel_spectrograms/Magdalena_Bay-Neon_mel_spec.npy,lyrics/Magdalena_Bay-Neon.txt,processed_lyrics/Magdalena_Bay-Neon_bert.npy
+Magdalena Bay,#wastehistime,172138,,0.7554714773413252,mel_spectrograms/Magdalena_Bay-_wastehistime_mel_spec.npy,lyrics/Magdalena_Bay-#wastehistime.txt,processed_lyrics/Magdalena_Bay-#wastehistime_bert.npy
+Magdalena Bay,Head Over Heels,201655,,0.8417237842152843,mel_spectrograms/Magdalena_Bay-Head_Over_Heels_mel_spec.npy,lyrics/Magdalena_Bay-Head_Over_Heels.txt,processed_lyrics/Magdalena_Bay-Head_Over_Heels_bert.npy
+Spill Tab,Cotton Candy,6574803,,2.468142234209693,mel_spectrograms/Spill_Tab-Cotton_Candy_mel_spec.npy,lyrics/Spill_Tab-Cotton_Candy.txt,processed_lyrics/Spill_Tab-Cotton_Candy_bert.npy
+Spill Tab,Calvaire,3142023,,1.7716696309315152,mel_spectrograms/Spill_Tab-Calvaire_mel_spec.npy,lyrics/Spill_Tab-Calvaire.txt,processed_lyrics/Spill_Tab-Calvaire_bert.npy
+Spill Tab,Decompose,748977,,0.419135334926954,mel_spectrograms/Spill_Tab-Decompose_mel_spec.npy,lyrics/Spill_Tab-Decompose.txt,processed_lyrics/Spill_Tab-Decompose_bert.npy
+Wednesday,Cliff,178379,,1.619783392003913,mel_spectrograms/Wednesday-Cliff_mel_spec.npy,lyrics/Wednesday-Cliff.txt,processed_lyrics/Wednesday-Cliff_bert.npy
+Wednesday,Three Sisters,94453,,1.287066425175935,mel_spectrograms/Wednesday-Three_Sisters_mel_spec.npy,lyrics/Wednesday-Three_Sisters.txt,processed_lyrics/Wednesday-Three_Sisters_bert.npy
+Wednesday,Twin Plagues,316636,,1.920074869814886,mel_spectrograms/Wednesday-Twin_Plagues_mel_spec.npy,lyrics/Wednesday-Twin_Plagues.txt,processed_lyrics/Wednesday-Twin_Plagues_bert.npy
+Wednesday,Birthday Song,110687,,1.370063400102539,mel_spectrograms/Wednesday-Birthday_Song_mel_spec.npy,lyrics/Wednesday-Birthday_Song.txt,processed_lyrics/Wednesday-Birthday_Song_bert.npy
+Wednesday,Ghost of a Dog,83917,,1.2251740447258233,mel_spectrograms/Wednesday-Ghost_of_a_Dog_mel_spec.npy,lyrics/Wednesday-Ghost_of_a_Dog.txt,processed_lyrics/Wednesday-Ghost_of_a_Dog_bert.npy
+Wednesday,Toothache,141884,,1.5,mel_spectrograms/Wednesday-Toothache_mel_spec.npy,lyrics/Wednesday-Toothache.txt,processed_lyrics/Wednesday-Toothache_bert.npy
+Wednesday,Gary's,104847,,1.3416984775920642,mel_spectrograms/Wednesday-Gary_s_mel_spec.npy,lyrics/Wednesday-Gary's.txt,processed_lyrics/Wednesday-Gary's_bert.npy
+Wednesday,The Burned Down Dairy Queen,590627,,2.246317131543506,mel_spectrograms/Wednesday-The_Burned_Down_Dairy_Queen_mel_spec.npy,lyrics/Wednesday-The_Burned_Down_Dairy_Queen.txt,processed_lyrics/Wednesday-The_Burned_Down_Dairy_Queen_bert.npy
+Wednesday,How Can You Live If You Can’t Love How Can You If You Do,440911,,2.093334511594497,mel_spectrograms/Wednesday-How_Can_You_Live_If_You_Can_t_Love_How_Can_You_If_You_Do_mel_spec.npy,lyrics/Wednesday-How_Can_You_Live_If_You_Can’t_Love_How_Can_You_If_You_Do.txt,processed_lyrics/Wednesday-How_Can_You_Live_If_You_Can’t_Love_How_Can_You_If_You_Do_bert.npy
+Wednesday,One More Last One,246353,,1.788733181532944,mel_spectrograms/Wednesday-One_More_Last_One_mel_spec.npy,lyrics/Wednesday-One_More_Last_One.txt,processed_lyrics/Wednesday-One_More_Last_One_bert.npy
+Wednesday,Cody's Only,596610,,2.2515914552995886,mel_spectrograms/Wednesday-Cody_s_Only_mel_spec.npy,lyrics/Wednesday-Cody's_Only.txt,processed_lyrics/Wednesday-Cody's_Only_bert.npy
+Wednesday,Handsome Man,1312701,,2.664255555015915,mel_spectrograms/Wednesday-Handsome_Man_mel_spec.npy,lyrics/Wednesday-Handsome_Man.txt,processed_lyrics/Wednesday-Handsome_Man_bert.npy
+Wednesday,Phish Pepsi,56124,,1.0146712809112146,mel_spectrograms/Wednesday-Phish_Pepsi_mel_spec.npy,lyrics/Wednesday-Phish_Pepsi.txt,processed_lyrics/Wednesday-Phish_Pepsi_bert.npy
+Wednesday,Christiane F,27406,,0.6395774731216904,mel_spectrograms/Wednesday-Christiane_F_mel_spec.npy,lyrics/Wednesday-Christiane_F.txt,processed_lyrics/Wednesday-Christiane_F_bert.npy
+Wednesday,Sacrifice (For Love),167553,,1.587019244420452,mel_spectrograms/Wednesday-Sacrifice__For_Love__mel_spec.npy,lyrics/Wednesday-Sacrifice_(For_Love).txt,processed_lyrics/Wednesday-Sacrifice_(For_Love)_bert.npy
+Wednesday,My Voice is a Little Horse,36849,,0.7945047323628189,mel_spectrograms/Wednesday-My_Voice_is_a_Little_Horse_mel_spec.npy,lyrics/Wednesday-My_Voice_is_a_Little_Horse.txt,processed_lyrics/Wednesday-My_Voice_is_a_Little_Horse_bert.npy
+Wednesday,Big Money,32728,,0.7324442298501388,mel_spectrograms/Wednesday-Big_Money_mel_spec.npy,lyrics/Wednesday-Big_Money.txt,processed_lyrics/Wednesday-Big_Money_bert.npy
+Wednesday,Terminex,33967,,0.7518887500113852,mel_spectrograms/Wednesday-Terminex_mel_spec.npy,lyrics/Wednesday-Terminex.txt,processed_lyrics/Wednesday-Terminex_bert.npy
+Wednesday,Maura,2509126,,2.0010917427456394,mel_spectrograms/Wednesday-Maura_mel_spec.npy,lyrics/Wednesday-Maura.txt,processed_lyrics/Wednesday-Maura_bert.npy
+Wednesday,Love Has No Pride - Condemned,416244,,2.0632073547524605,mel_spectrograms/Wednesday-Love_Has_No_Pride_-_Condemned_mel_spec.npy,lyrics/Wednesday-Love_Has_No_Pride_-_Condemned.txt,processed_lyrics/Wednesday-Love_Has_No_Pride_-_Condemned_bert.npy
+Wednesday,Underneath,253333,,1.803353842689715,mel_spectrograms/Wednesday-Underneath_mel_spec.npy,lyrics/Wednesday-Underneath.txt,processed_lyrics/Wednesday-Underneath_bert.npy
+Wednesday,Coyote,186453,,1.64294915537372,mel_spectrograms/Wednesday-Coyote_mel_spec.npy,lyrics/Wednesday-Coyote.txt,processed_lyrics/Wednesday-Coyote_bert.npy
+Wednesday,Revenge of the Lawn,196859,,1.671368766001686,mel_spectrograms/Wednesday-Revenge_of_the_Lawn_mel_spec.npy,lyrics/Wednesday-Revenge_of_the_Lawn.txt,processed_lyrics/Wednesday-Revenge_of_the_Lawn_bert.npy
+Wednesday,November,1656721,,2.7860558083038094,mel_spectrograms/Wednesday-November_mel_spec.npy,lyrics/Wednesday-November.txt,processed_lyrics/Wednesday-November_bert.npy
+Wednesday,Billboard,696046,,2.332259416665393,mel_spectrograms/Wednesday-Billboard_mel_spec.npy,lyrics/Wednesday-Billboard.txt,processed_lyrics/Wednesday-Billboard_bert.npy
+Wednesday,Fate Is…,2045351,,2.896330656487357,mel_spectrograms/Wednesday-Fate_Is__mel_spec.npy,lyrics/Wednesday-Fate_Is….txt,processed_lyrics/Wednesday-Fate_Is…_bert.npy
+Wednesday,Perfect,144795,,1.5106277292414136,mel_spectrograms/Wednesday-Perfect_mel_spec.npy,lyrics/Wednesday-Perfect.txt,processed_lyrics/Wednesday-Perfect_bert.npy
+Wednesday,Unmake Me,86306,,1.2398634286787942,mel_spectrograms/Wednesday-Unmake_Me_mel_spec.npy,lyrics/Wednesday-Unmake_Me.txt,processed_lyrics/Wednesday-Unmake_Me_bert.npy
+Wednesday,House Pool,231165,,1.7554336752897912,mel_spectrograms/Wednesday-House_Pool_mel_spec.npy,lyrics/Wednesday-House_Pool.txt,processed_lyrics/Wednesday-House_Pool_bert.npy
+Wednesday,Coyote,66626,,1.1044324897262685,mel_spectrograms/Wednesday-Coyote_mel_spec.npy,lyrics/Wednesday-Coyote.txt,processed_lyrics/Wednesday-Coyote_bert.npy
+Wednesday,How Do You Let the Love Into the Heart That Isn't Split Wide Open,2529623,,2.0025109009245607,mel_spectrograms/Wednesday-How_Do_You_Let_the_Love_Into_the_Heart_That_Isn_t_Split_Wide_Open_mel_spec.npy,lyrics/Wednesday-How_Do_You_Let_the_Love_Into_the_Heart_That_Isn't_Split_Wide_Open.txt,processed_lyrics/Wednesday-How_Do_You_Let_the_Love_Into_the_Heart_That_Isn't_Split_Wide_Open_bert.npy
+Men I Trust,Lauren,21961768,,2.2885529229153816,mel_spectrograms/Men_I_Trust-Lauren_mel_spec.npy,lyrics/Men_I_Trust-Lauren.txt,processed_lyrics/Men_I_Trust-Lauren_bert.npy
+Men I Trust,Humming Man,2877663,,2.238943261902094,mel_spectrograms/Men_I_Trust-Humming_Man_mel_spec.npy,lyrics/Men_I_Trust-Humming_Man.txt,processed_lyrics/Men_I_Trust-Humming_Man_bert.npy
+Men I Trust,Offertorio,808944,,1.223206170249115,mel_spectrograms/Men_I_Trust-Offertorio_mel_spec.npy,lyrics/Men_I_Trust-Offertorio.txt,processed_lyrics/Men_I_Trust-Offertorio_bert.npy
+Men I Trust,Quiet,1819566,,1.872045948573972,mel_spectrograms/Men_I_Trust-Quiet_mel_spec.npy,lyrics/Men_I_Trust-Quiet.txt,processed_lyrics/Men_I_Trust-Quiet_bert.npy
+Men I Trust,Curious Fish,1313593,,1.6112433670210118,mel_spectrograms/Men_I_Trust-Curious_Fish_mel_spec.npy,lyrics/Men_I_Trust-Curious_Fish.txt,processed_lyrics/Men_I_Trust-Curious_Fish_bert.npy
+Men I Trust,Morse Code,5705824,,2.7868385735398773,mel_spectrograms/Men_I_Trust-Morse_Code_mel_spec.npy,lyrics/Men_I_Trust-Morse_Code.txt,processed_lyrics/Men_I_Trust-Morse_Code_bert.npy
+Men I Trust,Aquarelle,1020038,,1.4087960054264057,mel_spectrograms/Men_I_Trust-Aquarelle_mel_spec.npy,lyrics/Men_I_Trust-Aquarelle.txt,processed_lyrics/Men_I_Trust-Aquarelle_bert.npy
+Men I Trust,Out in Myself,1371953,,1.6460369642129071,mel_spectrograms/Men_I_Trust-Out_in_Myself_mel_spec.npy,lyrics/Men_I_Trust-Out_in_Myself.txt,processed_lyrics/Men_I_Trust-Out_in_Myself_bert.npy
+Men I Trust,Again,4253785,,2.551772332195317,mel_spectrograms/Men_I_Trust-Again_mel_spec.npy,lyrics/Men_I_Trust-Again.txt,processed_lyrics/Men_I_Trust-Again_bert.npy
+Men I Trust,Break for Lovers,3576316,,2.4129185327416685,mel_spectrograms/Men_I_Trust-Break_for_Lovers_mel_spec.npy,lyrics/Men_I_Trust-Break_for_Lovers.txt,processed_lyrics/Men_I_Trust-Break_for_Lovers_bert.npy
+Men I Trust,Introit (feat. Odile),411562,,0.682306464975614,mel_spectrograms/Men_I_Trust-Introit__feat._Odile__mel_spec.npy,lyrics/Men_I_Trust-Introit_(feat._Odile).txt,processed_lyrics/Men_I_Trust-Introit_(feat._Odile)_bert.npy
+Men I Trust,A Cycle (feat. Odile),1143147,,1.5,mel_spectrograms/Men_I_Trust-A_Cycle__feat._Odile__mel_spec.npy,lyrics/Men_I_Trust-A_Cycle_(feat._Odile).txt,processed_lyrics/Men_I_Trust-A_Cycle_(feat._Odile)_bert.npy
+Men I Trust,A Prayer (feat. Odile),770639,,1.1843780641542496,mel_spectrograms/Men_I_Trust-A_Prayer__feat._Odile__mel_spec.npy,lyrics/Men_I_Trust-A_Prayer_(feat._Odile).txt,processed_lyrics/Men_I_Trust-A_Prayer_(feat._Odile)_bert.npy
+Men I Trust,Stay True (feat. Helena),1549943,,1.7436745859187406,mel_spectrograms/Men_I_Trust-Stay_True__feat._Helena__mel_spec.npy,lyrics/Men_I_Trust-Stay_True_(feat._Helena).txt,processed_lyrics/Men_I_Trust-Stay_True_(feat._Helena)_bert.npy
+Steve Lacy,Static,196421290,,2.1114664524561637,mel_spectrograms/Steve_Lacy-Static_mel_spec.npy,lyrics/Steve_Lacy-Static.txt,processed_lyrics/Steve_Lacy-Static_bert.npy
+Steve Lacy,Skin Tight (feat. Steve Lacy),16872703,,2.7955781722510116,mel_spectrograms/Steve_Lacy-Skin_Tight__feat._Steve_Lacy__mel_spec.npy,lyrics/Steve_Lacy-Skin_Tight_(feat._Steve_Lacy).txt,processed_lyrics/Steve_Lacy-Skin_Tight_(feat._Steve_Lacy)_bert.npy
+Steve Lacy,Blinks,2386,,0.8498987741230555,mel_spectrograms/Steve_Lacy-Blinks_mel_spec.npy,lyrics/Steve_Lacy-Blinks.txt,processed_lyrics/Steve_Lacy-Blinks_bert.npy

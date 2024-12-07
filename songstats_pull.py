@@ -60,7 +60,11 @@ class SongstatsAPI:
             return None
 
     def get_artist_catalog(self, artist_id: str, target_date: str) -> List[Dict]:
-        """Get artist catalog for tracks released before target date"""
+        """
+        Get artist catalog for tracks released:
+        - Before: 11 months prior to target date
+        - After: any time in the past
+        """
         url = f"{BASE_URL}/artists/catalog"
         params = {
             'songstats_artist_id': artist_id,
@@ -70,14 +74,15 @@ class SongstatsAPI:
         
         all_tracks = []
         target_date_obj = datetime.strptime(target_date, '%Y-%m-%d')
-        cutoff_date = target_date_obj - timedelta(days=11*30)  # Approximately 11 months
-        print(f"Looking for tracks released before {cutoff_date} for stats on {target_date}")
-
+        upper_bound = target_date_obj - timedelta(days=11*30)  # 11 months before target date
+        
+        print(f"Including tracks released before {upper_bound.strftime('%Y-%m-%d')}")
+        
         while True:
             start_time = time.time()
             response = self._make_request(url, params)
-
-            if not response.get('catalog'):
+            
+            if not response or not response.get('catalog'):
                 break
                 
             for track in response['catalog']:
@@ -85,7 +90,8 @@ class SongstatsAPI:
                     release_date = track.get('release_date')
                     if release_date:
                         release_date_obj = datetime.strptime(release_date, '%Y-%m-%d')
-                        if release_date_obj <= cutoff_date:
+                        # Only include tracks released BEFORE the upper bound
+                        if release_date_obj <= upper_bound:
                             all_tracks.append(track)
                 except (ValueError, TypeError) as e:
                     print(f"Error processing release date for track {track.get('title', 'unknown')}: {e}")
@@ -99,15 +105,16 @@ class SongstatsAPI:
         return all_tracks
 
     def get_track_historic_stats(self, track_id: str, artist_id: str, target_date: str) -> Optional[int]:
-        """Get historic stats for a track on the target date"""
+        """
+        Get historic stats for a track on target date.
+        If target date has no streams, find earliest non-zero stream count.
+        """
         try:
             url = f"{BASE_URL}/tracks/historic_stats"
             params = {
                 'songstats_track_id': track_id,
                 'songstats_artist_id': artist_id,
-                'source': 'spotify',
-                'start_date': target_date,
-                'end_date': target_date
+                'source': 'spotify'
             }
             
             response = self._make_request(url, params)
@@ -117,47 +124,30 @@ class SongstatsAPI:
                 response['stats'][0]['data'].get('history')):
                 
                 history = response['stats'][0]['data']['history']
+                
+                # First check target date specifically
+                target_streams = None
+                for entry in history:
+                    if entry.get('date') == target_date:
+                        target_streams = entry.get('streams_total')
+                        if target_streams and target_streams > 0:
+                            return target_streams
+                
+                # If target date had no streams, find earliest non-zero value
+                history = sorted(history, key=lambda x: x.get('date', ''))
                 for entry in history:
                     streams = entry.get('streams_total')
                     if streams and streams > 0:
                         return streams
             
             return None
-
+                
         except Exception as e:
             print(f"Error getting historic stats: {str(e)}")
             return None
 
 def process_artist_data():
     artists_data = [
-        ("Tones and I", "2020-11-01"),
-        ("Tom Misch", "2019-04-01"),
-        ("Boy Pablo", "2019-05-01"),
-        ("Yellow Days", "2019-04-01"),
-        ("Gus Dapperton", "2018-05-01"),
-        ("Crumb", "2018-06-01"),
-        ("Summer Salt", "2015-09-01"),
-        ("Benee", "2020-11-01"),
-        ("Surfaces", "2020-01-06"),
-        ("Powfu", "2021-02-01"),
-        ("Beach Bunny", "2019-08-01"),
-        ("The Marias", "2019-09-01"),
-        ("Sales", "2017-04-01"),
-        ("Mother Mother", "2009-09-01"),
-        ("Nilüfer Yanya", "2021-12-01"),
-        ("Eyedress", "2020-12-01"),
-        ("Japanese Breakfast", "2022-06-01"),
-        ("Mitski", "2019-08-01"),
-        ("PinkPantheress", "2022-10-01"),
-        ("Magdalena Bay", "2022-10-01"),
-        ("Spill Tab", "2021-08-01"),
-        ("Wednesday", "2022-08-01"),
-        ("Men I Trust", "2017-06-01"),
-        ("Steve Lacy", "2023-07-01"),
-        ("Ice Spice", "2023-08-01"),
-        ("Omar Apollo", "2023-04-01"),
-        ("Ethel Cain", "2023-05-01"),
-        ("Alex G", "2013-11-05"),
         ("Boygenius", "2024-03-31"),
         ("NewJeans", "2024-01-01"),
         ("d4vd", "2023-07-01"),
